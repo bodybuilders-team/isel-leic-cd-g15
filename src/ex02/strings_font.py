@@ -11,8 +11,8 @@ def strings_font(alphabet, fmp, n, write_file, show_hist):
     :param alphabet: list of possible strings
     :param fmp: function of mass probability for the alphabet
     :param n: number of strings to generate
-    :param write_file when True, writes the sequence in a file
-    :param show_hist when True, shows the sequence histogram
+    :param write_file: when True, writes the sequence in a file
+    :param show_hist: when True, shows the sequence histogram
 
     :return: sequence of strings
 
@@ -57,8 +57,9 @@ def calculate_entropy(fmp):
     return sum(map(lambda prob: prob * math.log(prob, 2), fmp)) * -1
 
 
-#  Test of strings_font
-a = ["abc", "hbo", "xpto", "brba", "cbo", "foo", "bar"]
-a_fmp = [3 / 16, 1 / 16, 6 / 16, 2 / 16, 1 / 16, 2 / 16, 1 / 16]
+if __name__ == '__main__':
+    #  Test of strings_font
+    a = ["abc", "hbo", "xpto", "brba", "cbo", "foo", "bar"]
+    a_fmp = [3 / 16, 1 / 16, 6 / 16, 2 / 16, 1 / 16, 2 / 16, 1 / 16]
 
-strings_font(a, a_fmp, 100, write_file=True, show_hist=True)
+    strings_font(a, a_fmp, 100, write_file=True, show_hist=True)
