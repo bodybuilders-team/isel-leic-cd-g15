@@ -1,9 +1,9 @@
 import random
-import math
 import matplotlib.pyplot as plt
+from scipy.stats import entropy
 
 
-def strings_font(alphabet, fmp, n, write_file, show_hist):
+def strings_font(alphabet, fmp, n, write_file=False, show_hist=False):
     """
     Generates a sequence of L strings, separated by ";".
     Prints the entropy.
@@ -20,8 +20,8 @@ def strings_font(alphabet, fmp, n, write_file, show_hist):
     """
 
     # Calculate and print entropy
-    entropy = calculate_entropy(fmp)
-    print("Entropy: ", entropy)
+    e = round(entropy(fmp, base=2), ndigits=4)
+    print("Entropy: ", e)
 
     # Get string sequence
     strs = random.choices(alphabet, fmp, k=n)
@@ -39,22 +39,10 @@ def strings_font(alphabet, fmp, n, write_file, show_hist):
         plt.xlabel("Alphabet")
         plt.ylabel("Occurrences")
         plt.suptitle("Strings Font Histogram", fontsize=18)
-        plt.title("Entropy: " + str(calculate_entropy(fmp)))
+        plt.title("Entropy: " + str(e))
         plt.show()
 
     return res
-
-
-def calculate_entropy(fmp):
-    """
-    Calculates the entropy of a function of mass probability.
-
-    :param fmp: function of mass probability
-
-    :return: entropy
-    """
-
-    return sum(map(lambda prob: prob * math.log(prob, 2), fmp)) * -1
 
 
 if __name__ == '__main__':
