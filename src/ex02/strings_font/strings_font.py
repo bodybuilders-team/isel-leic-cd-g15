@@ -3,14 +3,15 @@ import matplotlib.pyplot as plt
 from scipy.stats import entropy
 
 
-def strings_font(alphabet, fmp, n, write_file=False, show_hist=False):
+def strings_font(alphabet, fmp, L, file="strings_font.txt", write_file=False, show_hist=False):
     """
     Generates a sequence of L strings, separated by ";".
     Prints the entropy.
 
     :param alphabet: list of possible strings
     :param fmp: function of mass probability for the alphabet
-    :param n: number of strings to generate
+    :param L: number of strings to generate
+    :param file: file to write the sequence
     :param write_file: when True, writes the sequence in a file
     :param show_hist: when True, shows the sequence histogram
 
@@ -24,13 +25,13 @@ def strings_font(alphabet, fmp, n, write_file=False, show_hist=False):
     print("Entropy: ", e)
 
     # Get string sequence
-    strs = random.choices(alphabet, fmp, k=n)
+    strs = random.choices(alphabet, fmp, k=L)
     res = ";".join(strs)
     print("Sequence: ", res)
 
     # Write sequence in file
     if write_file:
-        with open("strings_font", "w") as f:
+        with open(file, "w") as f:
             f.write(res)
 
     # Display sequence histogram

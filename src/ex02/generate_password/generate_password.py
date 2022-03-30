@@ -1,4 +1,4 @@
-from strings_font import strings_font
+from src.ex02.strings_font.strings_font import strings_font
 import random
 
 lowercase_letters_alphabet = list("abcdefghijklmnopqrstuvwxyz")
@@ -20,8 +20,11 @@ alphabets = [(lowercase_letters_alphabet, lowercase_letters_fmp),
 
 alphabets_size = len(alphabets)
 
+PASSWORD_MIN_LEN_DEFAULT = 8
+PASSWORD_MAX_LEN_DEFAULT = 16
 
-def generate_password(min_length, max_length):
+
+def generate_password(min_length=PASSWORD_MIN_LEN_DEFAULT, max_length=PASSWORD_MAX_LEN_DEFAULT):
     """
     Generates a password with length in the range min_length and max_length.
 
@@ -57,9 +60,16 @@ def generate_password(min_length, max_length):
     random.shuffle(password)
     password = "".join(password)
 
-    print("Password: ", password)
+    print("\nPassword: ", password)
     return password
 
 
+FILES = 5
+PASSWORDS_PER_FILE = 1000
+
+# Write passwords in files
 if __name__ == '__main__':
-    generate_password(100, 100)
+    for i in range(FILES):
+        with open(f"passwords{i}.txt", "w") as f:
+            for j in range(PASSWORDS_PER_FILE):
+                f.write(generate_password() + "\n")
