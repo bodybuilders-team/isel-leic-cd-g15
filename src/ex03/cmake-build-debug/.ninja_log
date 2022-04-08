@@ -1,0 +1,14 @@
+# ninja log v5
+2	46	6709698257377077	CMakeFiles/ex3.dir/src/utils.c.obj	9ae5a7da1e45edb9
+121	278	6711524698280288	ex3.exe	5feb41f634a43523
+1	137	6711531250022246	build.ninja	ce72da61d566ad30
+2	121	6711524696754107	CMakeFiles/ex3.dir/src/main.c.obj	7fb892679f86c8e8
+8	86	6709723430544027	CMakeFiles/ex3.dir/src/InputFileStream.c.obj	b46d47ecb7ab332a
+2	74	6709767218513319	CMakeFiles/ex3.dir/src/OutputBitFileStream.c.obj	efb47c7cadec93fc
+2	112	6711509373685486	CMakeFiles/ex3.dir/src/file_tree_foreach.c.obj	22835898daf239b1
+34	148	6711531308568004	CMakeFiles/ex3.dir/src/utils.c.obj	d32af0c5ecd0278a
+28	179	6711531308870872	CMakeFiles/ex3.dir/src/file_tree_foreach.c.obj	5177a39f4a02dda1
+24	183	6711531308922517	CMakeFiles/ex3.dir/src/OutputBitFileStream.c.obj	230217cc86574b9a
+41	194	6711531309018450	CMakeFiles/ex3.dir/src/InputFileStream.c.obj	68557e4276b27628
+3	202	6711531309119397	CMakeFiles/ex3.dir/src/main.c.obj	b3d303cfabf3de0
+202	378	6711531310822066	ex3.exe	5feb41f634a43523
