@@ -25,4 +25,28 @@ def print_fibonacci(n):
         print(fibonacci(i))
 
 
-print_fibonacci(20)
+"""
+Fibonacci Tests
+
+To run: pytest .\fibonacci.py
+"""
+
+
+def test_fibonacci_of_zero():
+    assert fibonacci(0) == 1
+
+
+def test_fibonacci_of_one():
+    assert fibonacci(1) == 1
+
+
+def test_fibonacci_of_two():
+    assert fibonacci(2) == 1
+
+
+def test_fibonacci_of_ten():
+    assert fibonacci(10) == 55
+
+
+def test_fibonacci_of_one_hundred():
+    assert fibonacci(30) == 832040

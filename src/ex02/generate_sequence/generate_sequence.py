@@ -1,4 +1,4 @@
-from src.ex02.strings_font.strings_font import strings_font
+from src.ex02.strings_source.strings_source import strings_source
 
 sequence_alphabet = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 sequence_fmp = [1 / 36] * 36
@@ -14,7 +14,7 @@ def generate_sequence():
     :return: generated sequence
     """
 
-    sequence = strings_font(sequence_alphabet, sequence_fmp, SEQUENCE_LENGTH).replace(";", "")
+    sequence = strings_source(sequence_alphabet, sequence_fmp, SEQUENCE_LENGTH).replace(";", "")
     sequence = " ".join(sequence[i:i + SEQUENCE_REPEAT_LENGTH] for i in range(0, len(sequence), SEQUENCE_REPEAT_LENGTH))
 
     print("Sequence: ", sequence)

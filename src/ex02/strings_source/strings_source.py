@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import entropy
 
 
-def strings_font(alphabet, fmp, L, file="strings_font.txt", write_file=False, show_hist=False):
+def strings_source(alphabet, fmp, L, file="strings_source.txt", write_file=False, show_hist=False):
     """
     Generates a sequence of L strings, separated by ";".
     Prints the entropy.
@@ -17,7 +17,7 @@ def strings_font(alphabet, fmp, L, file="strings_font.txt", write_file=False, sh
 
     :return: sequence of strings
 
-    Example: strings_font(["abc", "cde"], [0.7, 0.3], 3) -> "abc;abc;cde"
+    Example: strings_source(["abc", "cde"], [0.7, 0.3], 3) -> "abc;abc;cde"
     """
 
     # Calculate and print entropy
@@ -39,7 +39,7 @@ def strings_font(alphabet, fmp, L, file="strings_font.txt", write_file=False, sh
         plt.hist(strs, bins=len(strs))
         plt.xlabel("Alphabet")
         plt.ylabel("Occurrences")
-        plt.suptitle("Strings Font Histogram", fontsize=18)
+        plt.suptitle("Strings Source Histogram", fontsize=18)
         plt.title("Entropy: " + str(e))
         plt.show()
 
@@ -47,8 +47,8 @@ def strings_font(alphabet, fmp, L, file="strings_font.txt", write_file=False, sh
 
 
 if __name__ == '__main__':
-    #  Test of strings_font
+    #  Test of strings_source
     a = ["abc", "hbo", "xpto", "brba", "cbo", "foo", "bar"]
     a_fmp = [3 / 16, 1 / 16, 6 / 16, 2 / 16, 1 / 16, 2 / 16, 1 / 16]
 
-    strings_font(a, a_fmp, 100, write_file=True, show_hist=True)
+    strings_source(a, a_fmp, 100, write_file=True, show_hist=True)

@@ -22,11 +22,30 @@ void print_bits(int array[], size_t array_size)
 }
 
 /*
- * Function: count_symbol test function
+ * Function: print_bits test function
+ * To run:   gcc print_bits.c -o print_bits && ./print_bits
  */
 int main(int argc, char const *argv[])
 {
+    int no_of_tests = 3;
+
+    //---Test1---
+    printf("Test1:\n");
     int a[] = {1, 2, 3};
+    printf("Expected:\n00000000000000000000000000000001\n00000000000000000000000000000010\n00000000000000000000000000000011\nReceived:\n");
     print_bits(a, 3);
+
+    //---Test2---
+    printf("\nTest2:\n");
+    int b[] = {};
+    printf("Expected: \nReceived:\n");
+    print_bits(b, 0);
+
+    //---Test3---
+    printf("\nTest3:\n");
+    int c[] = {0, 4294967295};
+    printf("Expected:\n00000000000000000000000000000000\n11111111111111111111111111111111\nReceived:\n");
+    print_bits(c, 2);
+
     return 0;
 }

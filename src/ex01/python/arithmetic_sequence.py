@@ -26,4 +26,28 @@ def print_arithmetic_sequence(n, u, r):
         print(arithmetic_sequence(i, u, r))
 
 
-print_arithmetic_sequence(50, 5, 5)
+"""
+Arithmetic Sequence Tests
+
+To run: pytest .\arithmetic_sequence.py
+"""
+
+
+def test_arithmetic_sequence_with_zero_r():
+    assert arithmetic_sequence(n=10, u=1, r=0) == 1
+
+
+def test_arithmetic_sequence_with_positive_r():
+    assert arithmetic_sequence(n=10, u=1, r=5) == 46
+
+
+def test_arithmetic_sequence_with_negative_r():
+    assert arithmetic_sequence(n=10, u=1, r=-5) == -44
+
+
+def test_arithmetic_sequence_of_zero():
+    assert arithmetic_sequence(n=0, u=0, r=0) == 0
+
+
+def test_arithmetic_sequence_of_one_hundred():
+    assert arithmetic_sequence(n=100, u=1, r=1) == 100

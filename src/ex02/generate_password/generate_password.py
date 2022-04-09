@@ -1,4 +1,4 @@
-from src.ex02.strings_font.strings_font import strings_font
+from src.ex02.strings_source.strings_source import strings_source
 import random
 
 lowercase_letters_alphabet = list("abcdefghijklmnopqrstuvwxyz")
@@ -53,7 +53,7 @@ def generate_password(min_length=PASSWORD_MIN_LEN_DEFAULT, max_length=PASSWORD_M
     # Generate password
     password = ""
     for i, alphabet in enumerate(alphabets):
-        password += strings_font(alphabet[0], alphabet[1], counts[i])
+        password += strings_source(alphabet[0], alphabet[1], counts[i])
 
     # Shuffle password
     password = password.split(";")
