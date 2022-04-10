@@ -30,11 +30,11 @@ void printBits(void const *const ptr, size_t const size) {
 };
 
 typedef struct {
-    int symbol;
+    uint8_t symbol;
     size_t count;
 } unary_symbol_data;
 
-int get_unary_count(unary_symbol_data *array, int array_size, int symbol) {
+int get_unary_count(unary_symbol_data *array, size_t array_size, uint8_t symbol) {
     for (size_t i = 0; i < array_size; i++) {
         if (array[i].symbol == symbol)
             return (int) i;
@@ -43,7 +43,9 @@ int get_unary_count(unary_symbol_data *array, int array_size, int symbol) {
 }
 
 int unary_symbol_data_cmp(unary_symbol_data *a, unary_symbol_data *b) {
-    return b->count - a->count;
+    //We don't use subtraction because of size_t
+    return (b->count == a->count) ? 0 :
+           (b->count < a->count) ? -1 : 1;
 }
 
 int unary_decode(const char *src_filename, const char *dst_filename) {
@@ -166,17 +168,17 @@ int unary_decode(const char *src_filename, const char *dst_filename) {
 int unary_encode(const char *src_filename, const char *dst_filename) {
 #define symbols_size 256
 
-    int symbols_table[symbols_size];
-    memset(symbols_table, 0, symbols_size * sizeof(int));
+    size_t symbols_table[symbols_size];
+    memset(symbols_table, 0, symbols_size * sizeof(size_t));
 
-    FILE *src_fp = fopen(src_filename, "r");
+    FILE *src_fp = fopen(src_filename, "rb");
     if (src_fp == NULL) {
         printf("Could not open file %s\n", src_filename);
         return -1;
     }
 
     size_t num_chars = 0;
-    for (int c = fgetc(src_fp); !feof(src_fp); c = fgetc(src_fp), num_chars++)
+    for (int c = fgetc(src_fp); c != EOF; c = fgetc(src_fp), num_chars++)
         symbols_table[c]++;
 
     size_t num_symbols = 0;
@@ -191,7 +193,7 @@ int unary_encode(const char *src_filename, const char *dst_filename) {
     for (size_t i = 0, j = 0; i < symbols_size; i++) {
         if (symbols_table[i] > 0) {
             unary_symbol_data *symbol_data = &ordered_symbols[j++];
-            symbol_data->symbol = (int) i;
+            symbol_data->symbol = (uint8_t) i;
             symbol_data->count = symbols_table[i];
         }
     }
@@ -224,14 +226,16 @@ int unary_encode(const char *src_filename, const char *dst_filename) {
         unary_symbol_data *symbol_data = &ordered_symbols[i];
 
         char msg[MAX_SIZE_T_CHAR_LENGTH + 3];
-        sprintf(msg, "%c%zu\n", symbol_data->symbol, symbol_data->count);
+        //Need to write as byte to avoid special characters (\0, etc)
+        out_bit_file_stream_write_byte(&out_stream, symbol_data->symbol);
+        sprintf(msg, "%zu\n", symbol_data->count);
         out_bit_file_stream_write_str(&out_stream, msg);
     }
 
     out_bit_file_stream_write_str(&out_stream, "\n\n");
 
     // Printing encoded data
-    for (int c = fgetc(src_fp); !feof(src_fp); c = fgetc(src_fp)) {
+    for (int c = fgetc(src_fp); c != EOF; c = fgetc(src_fp)) {
         int unary_cnt = get_unary_count(ordered_symbols, num_symbols, c);
 
         if (unary_cnt < 0) {
@@ -239,7 +243,6 @@ int unary_encode(const char *src_filename, const char *dst_filename) {
             return -3;
         }
 
-        char c_char = (char) c;
         for (size_t i = 0; i < unary_cnt; i++) {
             out_bit_file_stream_write_bit(&out_stream, 1);
         }
@@ -264,7 +267,7 @@ void encode_file_directory(const char *file_path, void *context) {
 
     int encode_status = unary_encode(file_path, output_file_path);
     if (encode_status < 0) {
-        printf("Error encoding file %s\n", file_path);
+        printf("Error encoding file %s\n status:%d", file_path, encode_status);
         return;
     }
 }
@@ -276,9 +279,9 @@ void decode_file_directory(const char *file_path, void *context) {
     char output_file_path[512];
     sprintf(output_file_path, "../decoded_test_files/%s", file_name);
 
-    int encode_status = unary_decode(file_path, output_file_path);
-    if (encode_status < 0) {
-        printf("Error decoding file %s\n", file_path);
+    int decode_status = unary_decode(file_path, output_file_path);
+    if (decode_status < 0) {
+        printf("Error decoding file %s status:%d\n", file_path, decode_status);
         return;
     }
     free(file_name);
