@@ -1,4 +1,12 @@
-def LZ77_Tokenizer(input_file, output_file, sw_length, lab_length):
+import numpy as np
+from scipy.stats import entropy
+import matplotlib.pyplot as plt
+
+TOKEN_POSITION_IDX = 0
+TOKEN_LENGTH_IDX = 1
+
+
+def LZ77_Tokenizer(input_file, output_file, sw_length, lab_length, show_hist=False):
     """
     Creates a text file with the tokens obtained from the processing of the received file.
     Presents the histogram and entropy of the fields "position" and "length" of the tokens.
@@ -7,6 +15,7 @@ def LZ77_Tokenizer(input_file, output_file, sw_length, lab_length):
     :param output_file: file where the tokens will be printed
     :param sw_length: search window length
     :param lab_length: look-ahead-buffer length
+    :param show_hist: when True, shows the histogram of the fields "position" and "length" of the tokens
     """
 
     i = 0
@@ -36,6 +45,39 @@ def LZ77_Tokenizer(input_file, output_file, sw_length, lab_length):
         for token in tokens:
             f.write(str(token) + '\n')
 
+    # Calculate and print entropy of the fields "position" and "length"
+    positions = list(map(lambda t: t[TOKEN_POSITION_IDX], tokens))
+    lengths = list(map(lambda t: t[TOKEN_LENGTH_IDX], tokens))
+
+    positions_entropy = entropy_from_list(positions)
+    lengths_entropy = entropy_from_list(lengths)
+
+    print("'Position' field entropy: ", positions_entropy)
+    print("'Length' field entropy: ", lengths_entropy)
+    print()
+
+    # Display histogram of the fields "position" and "length"
+    if show_hist:
+        show_histogram(positions, "Tokens 'position'", "Tokens 'position' field Histogram", positions_entropy)
+        show_histogram(lengths, "Tokens 'length'", "Tokens 'length' field Histogram", lengths_entropy)
+
+
+def show_histogram(labels, x_label, title, labels_entropy):
+    """
+    Shows a histogram of labels.
+    :param labels: histogram labels
+    :param x_label: histogram x label
+    :param title: histogram title
+    :param labels_entropy: labels entropy
+    """
+
+    plt.hist(labels, bins=len(labels))
+    plt.xlabel(x_label)
+    plt.ylabel("Occurrences")
+    plt.suptitle(title, fontsize=18)
+    plt.title("Entropy: " + str(labels_entropy))
+    plt.show()
+
 
 def LZ77_get_token(sw, lab):
     """
@@ -50,10 +92,10 @@ def LZ77_get_token(sw, lab):
     lab_len = len(lab)
 
     if lab_len == 0:
-        return (-1, -1, "")
+        return -1, -1, ""
 
     if sw_len == 0:
-        return (0, 0, lab[0])
+        return 0, 0, lab[0]
 
     best_length = 0
     best_position = 0
@@ -69,14 +111,25 @@ def LZ77_get_token(sw, lab):
 
     innovation_symbol = lab[best_length - 1] if best_length == lab_len else lab[best_length]
 
-    return (best_position, best_length, innovation_symbol)
+    return best_position, best_length, innovation_symbol
 
-# TODO Apresenta os histogramas e a entropia dos campos position e length
+
+def entropy_from_list(labels):
+    """
+    Calculates entropy from a list.
+    :param labels: list
+    :return: entropy
+    """
+
+    value, counts = np.unique(labels, return_counts=True)
+    return round(entropy(counts, base=2), ndigits=4)
+
+
 # TODO Comente os resultados obtidos
 
 # Encode test files
 if __name__ == '__main__':
-    LZ77_Tokenizer("../../docs/CD_TestFiles/a.txt", "a_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../docs/CD_TestFiles/a.txt", "a_encoded.txt", sw_length=8, lab_length=4, show_hist=True)
     LZ77_Tokenizer("../../docs/CD_TestFiles/alice29.txt", "alice29_encoded.txt", 8, 4)
     LZ77_Tokenizer("../../docs/CD_TestFiles/cp.htm", "cp_encoded.txt", 8, 4)
     LZ77_Tokenizer("../../docs/CD_TestFiles/Person.java", "Person_encoded.txt", 8, 4)
