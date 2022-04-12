@@ -1,3 +1,5 @@
 /.idea/
 /build/
 /cmake-build-debug/
+/encoded_test_files/
+/decoded_test_files/
