@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 #include "file_tree_foreach.h"
-#include "unary_common.h"
+#include "unary/unary_common.h"
 
-#include "unary_encode.h"
-#include "unary_decode.h"
+#include "unary/unary_encode.h"
+#include "unary/unary_decode.h"
 
 void test_callback(const char *file_path) {
     char *file_name = strrchr(file_path, '/') + 1;
