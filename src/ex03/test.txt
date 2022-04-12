@@ -64,3 +64,14 @@ Average length: 14.63 bits/symbol
 Entropy: 5.06 bits/symbol
 Encoding efficiency: 34.62%
 -----------------------------------------------------
+File ../test_files/z.txt
+
+File size: 3623 bytes
+Decoded size: 3623 bytes
+Expected encoded size: 558 bytes
+Encoded size: 558 bytes
+Compression ratio: 15.40%
+Average length: 1.16 bits/symbol
+Entropy: 0.44 bits/symbol
+Encoding efficiency: 37.78%
+-----------------------------------------------------
