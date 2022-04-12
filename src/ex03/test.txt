@@ -1,105 +1,66 @@
 File ../test_files/a.txt
 
 File size: 94 bytes
-Encoded size: 216 bytes
-Encoded model size: 53 bytes
 Decoded size: 94 bytes
------------------------------------------------------
-File ../test_files/alice29.txt
-
-File size: 152090 bytes
-Encoded size: 182960 bytes
-Encoded model size: 86 bytes
-Decoded size: 152090 bytes
------------------------------------------------------
-File ../test_files/cp.htm
-
-File size: 24603 bytes
-Encoded size: 44638 bytes
-Encoded model size: 97 bytes
-Decoded size: 24603 bytes
------------------------------------------------------
-File ../test_files/lena.bmp
-
-File size: 66614 bytes
-Encoded size: 597911 bytes
-Encoded model size: 268 bytes
-Decoded size: 66614 bytes
------------------------------------------------------
-File ../test_files/New Text Document.txt
-
-File size: 16 bytes
-Encoded size: 11 bytes
-Encoded model size: 10 bytes
-Decoded size: 16 bytes
------------------------------------------------------
-File ../test_files/Person.java
-
-File size: 6538 bytes
-Encoded size: 8159 bytes
-Encoded model size: 86 bytes
-Decoded size: 6538 bytes
------------------------------------------------------
-File ../test_files/progc.c
-
-File size: 39612 bytes
-Encoded size: 76086 bytes
-Encoded model size: 103 bytes
-Decoded size: 39612 bytes
------------------------------------------------------
-File ../test_files/a.txt
-
-File size: 94 bytes
+Expected encoded size: 216 bytes
 Encoded size: 216 bytes
-Encoded model size: 53 bytes
 Compression ratio: 229.79%
-Decoded size: 94 bytes
+Average length: 14.01 bits/symbol
+Entropy: 5.01 bits/symbol
+Encoding efficiency: 35.72%
 -----------------------------------------------------
 File ../test_files/alice29.txt
 
 File size: 152090 bytes
-Encoded size: 182960 bytes
-Encoded model size: 86 bytes
-Compression ratio: 120.30%
 Decoded size: 152090 bytes
+Expected encoded size: 182960 bytes
+Encoded size: 182960 bytes
+Compression ratio: 120.30%
+Average length: 9.62 bits/symbol
+Entropy: 4.57 bits/symbol
+Encoding efficiency: 47.48%
 -----------------------------------------------------
 File ../test_files/cp.htm
 
 File size: 24603 bytes
-Encoded size: 44638 bytes
-Encoded model size: 97 bytes
-Compression ratio: 181.43%
 Decoded size: 24603 bytes
+Expected encoded size: 44638 bytes
+Encoded size: 44638 bytes
+Compression ratio: 181.43%
+Average length: 14.48 bits/symbol
+Entropy: 5.23 bits/symbol
+Encoding efficiency: 36.10%
 -----------------------------------------------------
 File ../test_files/lena.bmp
 
 File size: 66614 bytes
-Encoded size: 597911 bytes
-Encoded model size: 268 bytes
-Compression ratio: 897.58%
 Decoded size: 66614 bytes
------------------------------------------------------
-File ../test_files/New Text Document.txt
-
-File size: 16 bytes
-Encoded size: 11 bytes
-Encoded model size: 10 bytes
-Compression ratio: 68.75%
-Decoded size: 16 bytes
+Expected encoded size: 597911 bytes
+Encoded size: 597911 bytes
+Compression ratio: 897.58%
+Average length: 71.77 bits/symbol
+Entropy: 7.46 bits/symbol
+Encoding efficiency: 10.39%
 -----------------------------------------------------
 File ../test_files/Person.java
 
 File size: 6538 bytes
-Encoded size: 8159 bytes
-Encoded model size: 86 bytes
-Compression ratio: 124.79%
 Decoded size: 6538 bytes
+Expected encoded size: 8159 bytes
+Encoded size: 8159 bytes
+Compression ratio: 124.79%
+Average length: 9.88 bits/symbol
+Entropy: 4.46 bits/symbol
+Encoding efficiency: 45.13%
 -----------------------------------------------------
 File ../test_files/progc.c
 
 File size: 39612 bytes
-Encoded size: 76086 bytes
-Encoded model size: 103 bytes
-Compression ratio: 192.08%
 Decoded size: 39612 bytes
+Expected encoded size: 76086 bytes
+Encoded size: 76086 bytes
+Compression ratio: 192.08%
+Average length: 15.35 bits/symbol
+Entropy: 5.20 bits/symbol
+Encoding efficiency: 33.88%
 -----------------------------------------------------

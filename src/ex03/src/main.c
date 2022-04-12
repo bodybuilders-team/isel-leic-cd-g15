@@ -31,7 +31,8 @@ void test_callback(const char *file_path) {
 }
 
 int main() {
-//    freopen("../test.txt", "a+", stdout);
+    fopen("../test.txt", "w");
+    freopen("../test.txt", "a+", stdout);
     file_tree_foreach("../test_files", (void (*)(const char *, void *)) test_callback, NULL);
 
 }

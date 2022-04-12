@@ -197,21 +197,19 @@ void unary_print_test(const char *file_path, const char *encoded_file_path, cons
 
     printf("File %s\n\n", file_path);
     printf("File size: %zu bytes\n", file_size);
+    printf("Decoded size: %zu bytes\n", decoded_size);
+    if (file_size != decoded_size)
+        printf("Error: decoded file size does not match original file size\n");
 
     printf("Expected encoded size: %zu bytes\n", expected_encoded_size);
     printf("Encoded size: %zu bytes\n", encoded_size);
     if (encoded_size != expected_encoded_size)
         printf("Error: encoded file size does not match expected file size\n");
 
-    printf("Compression ratio: %.2f%%\n\n", (double) encoded_size / file_size * 100);
+    printf("Compression ratio: %.2f%%\n", (double) encoded_size / file_size * 100);
     printf("Average length: %.2Lf bits/symbol\n", avg_length);
     printf("Entropy: %.2Lf bits/symbol\n", entropy);
     printf("Encoding efficiency: %.2Lf%%\n", entropy / avg_length * 100);
-
-    printf("Decoded size: %zu bytes\n", decoded_size);
-    if (file_size != decoded_size)
-        printf("Error: decoded file size does not match original file size\n");
-
 
     printf("-----------------------------------------------------\n");
 }
