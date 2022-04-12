@@ -1,8 +1,9 @@
 #include "InputBitFileStream.h"
+#include "utils.h"
 
 int in_bit_file_stream_open(InputBitFileStream *stream, const char *filename)
 {
-    stream->file = fopen(filename, "r");
+    stream->file = fopen_mkdir(filename, "r");
     if (stream->file == NULL)
         return -1;
 
