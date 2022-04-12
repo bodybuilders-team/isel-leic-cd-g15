@@ -14,8 +14,7 @@
  * buffer: stream bit buffer
  * count: number of read bits
  */
-typedef struct
-{
+typedef struct {
     FILE *file;
     uint8_t buffer;
     size_t count;

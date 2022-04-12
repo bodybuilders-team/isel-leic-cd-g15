@@ -22,14 +22,14 @@ Encoding efficiency: 47.48%
 -----------------------------------------------------
 File ../test_files/cp.htm
 
-File size: 24603 bytes
-Decoded size: 24603 bytes
-Expected encoded size: 44638 bytes
-Encoded size: 44638 bytes
-Compression ratio: 181.43%
-Average length: 14.48 bits/symbol
-Entropy: 5.23 bits/symbol
-Encoding efficiency: 36.10%
+File size: 27024 bytes
+Decoded size: 27024 bytes
+Expected encoded size: 45049 bytes
+Encoded size: 45049 bytes
+Compression ratio: 166.70%
+Average length: 13.31 bits/symbol
+Entropy: 5.07 bits/symbol
+Encoding efficiency: 38.06%
 -----------------------------------------------------
 File ../test_files/lena.bmp
 
@@ -55,12 +55,12 @@ Encoding efficiency: 45.13%
 -----------------------------------------------------
 File ../test_files/progc.c
 
-File size: 39612 bytes
-Decoded size: 39612 bytes
-Expected encoded size: 76086 bytes
-Encoded size: 76086 bytes
-Compression ratio: 192.08%
-Average length: 15.35 bits/symbol
-Entropy: 5.20 bits/symbol
-Encoding efficiency: 33.88%
+File size: 40181 bytes
+Decoded size: 40181 bytes
+Expected encoded size: 73566 bytes
+Encoded size: 73566 bytes
+Compression ratio: 183.09%
+Average length: 14.63 bits/symbol
+Entropy: 5.06 bits/symbol
+Encoding efficiency: 34.62%
 -----------------------------------------------------

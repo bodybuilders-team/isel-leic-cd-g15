@@ -1,8 +1,7 @@
 #include "InputBitFileStream.h"
 #include "utils.h"
 
-int in_bit_file_stream_open(InputBitFileStream *stream, const char *filename)
-{
+int in_bit_file_stream_open(InputBitFileStream *stream, const char *filename) {
     stream->file = fopen_mkdir(filename, "r");
     if (stream->file == NULL)
         return -1;
@@ -13,10 +12,8 @@ int in_bit_file_stream_open(InputBitFileStream *stream, const char *filename)
     return 0;
 }
 
-int in_bit_file_stream_read_bit(InputBitFileStream *stream, uint8_t *bit)
-{
-    if (stream->count == 0)
-    {
+int in_bit_file_stream_read_bit(InputBitFileStream *stream, uint8_t *bit) {
+    if (stream->count == 0) {
         stream->buffer = fgetc(stream->file);
 
         if (ferror(stream->file))
@@ -32,12 +29,10 @@ int in_bit_file_stream_read_bit(InputBitFileStream *stream, uint8_t *bit)
     return 0;
 }
 
-int in_bit_file_stream_read_byte(InputBitFileStream *stream, uint8_t *byte)
-{
+int in_bit_file_stream_read_byte(InputBitFileStream *stream, uint8_t *byte) {
     uint8_t parsed_byte = 0;
 
-    for (int i = 0; i < BITS_IN_BYTE; i++)
-    {
+    for (int i = 0; i < BITS_IN_BYTE; i++) {
         uint8_t bit;
         int status = in_bit_file_stream_read_bit(stream, &bit);
         if (status < 0)
@@ -51,14 +46,12 @@ int in_bit_file_stream_read_byte(InputBitFileStream *stream, uint8_t *byte)
     return 0;
 }
 
-void in_bit_file_stream_rewind(InputBitFileStream *stream)
-{
+void in_bit_file_stream_rewind(InputBitFileStream *stream) {
     rewind(stream->file);
     stream->buffer = 0;
     stream->count = 0;
 }
 
-void in_bit_file_stream_destroy(InputBitFileStream *stream)
-{
+void in_bit_file_stream_destroy(InputBitFileStream *stream) {
     fclose(stream->file);
 }

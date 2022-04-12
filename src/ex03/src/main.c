@@ -34,5 +34,4 @@ int main() {
     fopen("../test.txt", "w");
     freopen("../test.txt", "a+", stdout);
     file_tree_foreach("../test_files", (void (*)(const char *, void *)) test_callback, NULL);
-
 }
