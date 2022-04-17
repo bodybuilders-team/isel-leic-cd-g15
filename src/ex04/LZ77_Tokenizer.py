@@ -62,23 +62,6 @@ def LZ77_Tokenizer(input_file, output_file, sw_length, lab_length, show_hist=Fal
         show_histogram(lengths, "Tokens 'length'", "Tokens 'length' field Histogram", lengths_entropy)
 
 
-def show_histogram(labels, x_label, title, labels_entropy):
-    """
-    Shows a histogram of labels.
-    :param labels: histogram labels
-    :param x_label: histogram x label
-    :param title: histogram title
-    :param labels_entropy: labels entropy
-    """
-
-    plt.hist(labels, bins=len(labels))
-    plt.xlabel(x_label)
-    plt.ylabel("Occurrences")
-    plt.suptitle(title, fontsize=18)
-    plt.title("Entropy: " + str(labels_entropy))
-    plt.show()
-
-
 def LZ77_get_token(sw, lab):
     """
     Gets the token for the look-ahead-buffer in the search window.
@@ -123,6 +106,23 @@ def entropy_from_list(labels):
 
     value, counts = np.unique(labels, return_counts=True)
     return round(entropy(counts, base=2), ndigits=4)
+
+
+def show_histogram(labels, x_label, title, labels_entropy):
+    """
+    Shows a histogram of labels.
+    :param labels: histogram labels
+    :param x_label: histogram x label
+    :param title: histogram title
+    :param labels_entropy: labels entropy
+    """
+
+    plt.hist(labels, bins=len(labels))
+    plt.xlabel(x_label)
+    plt.ylabel("Occurrences")
+    plt.suptitle(title, fontsize=18)
+    plt.title("Entropy: " + str(labels_entropy))
+    plt.show()
 
 
 # Encode test files

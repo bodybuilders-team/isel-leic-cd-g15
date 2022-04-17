@@ -46,8 +46,8 @@ def strings_source(alphabet, fmp, L, file="strings_source.txt", write_file=False
     return res
 
 
+#  Test of strings_source
 if __name__ == '__main__':
-    #  Test of strings_source
     a = ["abc", "hbo", "xpto", "brba", "cbo", "foo", "bar"]
     a_fmp = [3 / 16, 1 / 16, 6 / 16, 2 / 16, 1 / 16, 2 / 16, 1 / 16]
 

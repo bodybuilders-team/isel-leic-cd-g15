@@ -4,6 +4,7 @@ def most_frequent_symbol(filename, print_symbol=False):
     
     :param filename: name of the file to search
     :param print_symbol: if true, prints the most frequent symbol
+
     :return the most frequent symbol
     """
 

@@ -1,5 +1,7 @@
 import re
 
+MIN_PASSWORD_LENGTH = 8
+
 
 def check_password_strength(password):
     """
@@ -11,7 +13,7 @@ def check_password_strength(password):
     weak_level = 0
 
     # Checking length
-    if len(password) < 8:
+    if len(password) < MIN_PASSWORD_LENGTH:
         weak_level += 1
         print("Password must be at least 8 characters long")
 
@@ -44,9 +46,8 @@ def check_password_strength(password):
             print("Moderate strength")
         case 4:
             print("Weak password")
-        case 5:
-            print("Horrible password")
 
 
+# Test of check_password_strength
 if __name__ == '__main__':
     check_password_strength("kt/3<^SigS>1A0'j")
