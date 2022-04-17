@@ -1,0 +1,2000 @@
+00000000 | Ac�rcio Bernarda Guerra Couto | Camara De Lobos | Pintor de Imagens � Madeira 
+00000001 | Quit�ria Vilela | Cantanhede | Encerador 
+00000002 | Nicole Jonas Guimar�es Igrejas | Horta | Supervisor de Contas � Publicidade 
+00000003 | Adalgisa Am�lia Garrau | Alandroal | Operador de M�quina Semi-Autom�tica de Soldadura e Isolamento � Cablagens 
+00000004 | Daniela Silv�ria Morgado | Mira | Ajuntador (Juntador) 
+00000005 | Ada Passarinho | Vila Flor | Fresador Mec�nico 
+00000006 | Wilian Souto Maior | Alenquer | Outros Secret�rios 
+00000007 | Maximiliano Vilarinho | Amarante | T�cnico de An�lises Cl�nicas e de Sa�de P�blica 
+00000008 | Rog�rio Garrau | Tomar | Oper�rios, Art�fices e Trabalhadores Similares 
+00000009 | Viriato Dinis Lages Mort�gua | Amares | Operador de Betoneira 
+00000010 | Reginaldo M�ndez | Moimenta Da Beira | Operador de Instala��o Autom�tica do Fabrico de Lixas 
+00000011 | Delfino Elda Lisboa | Ponte De Sor | Operador de Painel de Comando � Minas para L�pis 
+00000012 | Duarte Irma Paredes Fontoura | Carrazeda De Ansi�es | Vendedor de Mercado 
+00000013 | Edite Aparecida Curvelo Aranha | Proen�a-A-Nova | Cortador de Pelaria � Malas e Marroquinaria 
+00000014 | Ant�nia Elisa Palha | Oliveira Do Bairro | Operador de Carbonatador � A��car 
+00000015 | Firmino Alancastro | Valpa�os | Forneiro � Fundidor de Fornos de Segunda Fus�o 
+00000016 | Alba David Janes | Alcoba�a | Impressor Tipogr�fico 
+00000017 | Valdemiro Marisol Galante Freixo | Porto Santo | Outros Operadores de M�quinas do Fabrico do Tabaco 
+00000018 | Mauro Alencar | �gueda | Operador de M�quina de Fabricar Sobrescritos e Sacos de Papel 
+00000019 | Cassilda Ezequiel Jesus | Oliveira De Frades | Operador de M�quina de Timbragem em Relevo 
+00000020 | Lia Bivar | Odivelas | Trabalhadores da Constru��o Civil e Similares � Acabamentos 
+00000021 | M�xima Boeira | Vila Real | Outros T�cnicos de Seguran�a A�rea 
+00000022 | Amanda Cinara Villa�a Corte-Real | Moura | Agricultor � Agricultura de Subsist�ncia 
+00000023 | Eg�dio Jesus | Miranda Do Douro | T�cnico de Anatomia Patol�gica, Citol�gica e Tanatol�gica 
+00000024 | Cassandra Madeira | Cascais | T�cnicos das Ci�ncias da Vida 
+00000025 | Elisabete Eurico Grillo | Mangualde | Governanta de Andares � Ind�stria Hoteleira 
+00000026 | Ricardo Florinda Villela | Leiria | Condutores de Ve�culos Pesados de Passageiros e Carros El�ctricos 
+00000027 | Larissa Rosa Faia Quinteiro | Mogadouro | Podador 
+00000028 | Gabriel Yara Carreira Aveiro | Sabugal | Encarregado de Limpeza 
+00000029 | Pablo Milene Cisneiros Mederos | Sabugal | Operador de M�quinas do Fabrico de Anz�is 
+00000030 | Estrela D�ris Resende Guerra | Valpa�os | Engenheiro Civil � Instala��es de Higiene e Salubridade 
+00000031 | Josu� Mangueira | Arraiolos | Acabador � Cal�ado 
+00000032 | Cremilde Gon�alo Caetano Proen�a | Ponta Do Sol | Empregados de Mesa e Trabalhadores Similares 
+00000033 | Theo Vilela Passos | Moura | Estafeta (Mensageiro) 
+00000034 | Joviano Elias Rolim Pallos | Gavi�o | Torneiro � Fibrocimento 
+00000035 | Gast�o Shirley Carvalhosa F�lix | Bombarral | Operadores de M�quinas do Tratamento das Superf�cies dos Metais 
+00000036 | Leonel Edelina Can�rio | Maia | Projeccionista de Cinema 
+00000037 | Ramom Negr�o | Entroncamento | Agricultor � Agricultura de Subsist�ncia 
+00000038 | Abel Talita Torcato | Santar�m | Operador de Prensa Granuladora - Ra��es para Animais 
+00000039 | Gabriel Patr�cia Espartero | Sever Do Vouga | Alfaiate � Vestu�rio por Medida 
+00000040 | Jandira Joana Rua | Alc�cer Do Sal | Fotogrametrista (Operador Fotogram�trico) 
+00000041 | Gisela Carina Meirelles Rios | Abrantes | Operador de M�quina de Preparar Massas � Rebu�ados e Caramelos 
+00000042 | Petra Cremilda Rivas | Abrantes | Operador de Instala��o de Tratamento Qu�mico 
+00000043 | Flor�ncio D�ris Torrado | Olh�o | Farmac�uticos 
+00000044 | Cl�udio Osvaldo Botelho Gouveia | Mangualde | Escritur�rio � Seguros 
+00000045 | Sheila Jorge | Guimar�es | Verificador de Condi��es de Trabalho 
+00000046 | Ricardino Jonas Fortunato | �lhavo | Lapidador � Vidro e Cer�mica 
+00000047 | Nadina Esa� Paes  | S�o Br�s De Alportel | Operador de M�quina Autom�tica de Corte � Cablagens 
+00000048 | Eunice Altair Boeira | Vila Do Conde | Preparador de massa 
+00000049 | Firmino Ol�mpio Dutra Infante | Fafe | Encarregado � Padeiros, Pasteleiros e Confeiteiros 
+00000050 | Idalinda F�tima Espartero Sampaio | Felgueiras | Enformador de Chap�u de Feltro 
+00000051 | Venceslau Ros�ria Jardim | Vila Nova De Famalic�o | Bombeiro Mar�timo (Bombeador) 
+00000052 | Marcelo Moita | Cartaxo | T�cnico de Electr�nica Industrial 
+00000053 | Amadeu Arminda Valcanaia Ramos | Angra Do Hero�smo | Operador de Instala��o Autom�tica do Fabrico de Lixas 
+00000054 | Nancy Azal�ia Rosmaninho Caldeira | Belmonte | Operadores de Equipamentos �pticos e Electr�nicos 
+00000055 | C�ntia Marcondes | Const�ncia | Enfermeiro � Especialista em Sa�de Materna e Obst�trica 
+00000056 | Ant�nio Leila Pinho Muniz | Povoa��o | Inspector do Trabalho 
+00000057 | Magali Veloso | Carregal Do Sal | Transformadora e dos Transportes 
+00000058 | Denise A�cio Sousa | Paredes | Electromec�nico de Instrumentos de Precis�o 
+00000059 | Eduardo M�nica Robalo Toscano | Arouca | Montadores e Reparadores de Linhas El�ctricas 
+00000060 | Pablo Rubina Bento | Mafra | Ge�logos e Geof�sicos 
+00000061 | Ieda Jasmim Salles Melo | Arganil | Actor 
+00000062 | Xavier Lilian Urias Quintanilla | �gueda | Reparador 
+00000063 | Isaura Cust�dio | Tomar | Ajudante Familiar 
+00000064 | Carlos Oct�vio Castanheda Bezerra | Vila De Rei | Monitor de Gimno e Desportiva 
+00000065 | Rudolfo Cani�a | Santa Cruz Da Graciosa | T�cnico de Vendas 
+00000066 | Julieta Ac�cia Ferraz | Figueira Da Foz | Vulcanizador � Pneus e C�maras de Ar 
+00000067 | Leonardo Domingos | Tondela | Talhador (Cortador) de Peles com P�lo 
+00000068 | Calvino Ap�lo Mederos Camarinho | Arouca | Gravador 
+00000069 | Ifig�nia Hebe Ros�rio | Odivelas | Outros Trabalhadores Florestais 
+00000070 | Violeta Venceslau Casqueira | Vila Nova De Gaia | Compositor Musical 
+00000071 | Assunta Leonardo Varella | Vila Pouca De Aguiar | Marcador Oficinal 
+00000072 | Carlos Josefina Sampaio | Mort�gua | Polidor (Acabador) Manual de Pedra 
+00000073 | Belisa �nio Souto Maior | Boticas | M�dico An�tomo � Patologista 
+00000074 | Ap�lo Paloma Raposo Roriz | Albergaria-A-Velha | Moldador-Prensador � Borracha 
+00000075 | Adalgisa Nor�es | Macedo De Cavaleiros | Agente Publicit�rio 
+00000076 | Concei��o Sim�o | Maia | Operador de Tratamento T�rmico de Metais 
+00000077 | Alda Marisol Bicudo Caneira | Lagos | F�sico Te�rico 
+00000078 | Sara Nicole Paix�o Coitinho | Vinhais | Bacteriologista 
+00000079 | Sabina Pessanha | Povoa��o | Estafeta (Mensageiro) 
+00000080 | Adosinda Keila Soverosa Sampaio | Arruda Dos Vinhos | Maleiro � Malas de Viagem 
+00000081 | Cust�dio Delfim Lara Passarinho | Freixo De Espada � Cinta | Engenheiro T�cnico Civil � Hidr�ulico 
+00000082 | Francisca Bernarda Bencatel | Sobral De Monte Agra�o | Decorador de Espa�os Comerciais 
+00000083 | Raquel Cristela Quezado Fontoura | Barcelos | Dietista 
+00000084 | Benvinda Tavares | Paredes De Coura | Directores e Gerentes de Empresas de Servi�os Pessoais, de Limpeza e Similares 
+00000085 | Ademir Gerson Feij� Concei��o | Castanheira De P�ra | Montador de Linhas Telef�nicas e Telegr�ficas 
+00000086 | Leandro Teodoro | Silves | Retorcedor 
+00000087 | Serafim Sousa | Loul� | Operador de M�quinas de Fabricar Pregos 
+00000088 | Sid�nio Granja | Ma��o | Operador de Fabrico de Forros para Saltos 
+00000089 | Ces�rio Leonel Sarmento Azeredo | Vila Nova De Gaia | Gerente � Estabelecimentos Banc�rios 
+00000090 | R�mulo Bicalho | Coruche | Operadores de M�quinas da Produ��o e Refina��o de A��car 
+00000091 | Blenda Lib�nio Cavaco | Caminha | T�cnico de Contas (Guarda-Livros) 
+00000092 | Ant�nia �ngelo Pasos Eanes | Monforte | Chefe de Partida (Director de Partida) � Casinos 
+00000093 | Perceu Hugo Sabala Matos | Ansi�o | Redactor T�cnico 
+00000094 | Ac�cia Gisela Nolasco | Torres Novas | Magistrado do Minist�rio P�blico 
+00000095 | Hirondina Virgolina Paredes | Santa Marta De Penagui�o | Operador de M�quinas � Ferramentas, em geral � Trabalho em S�rie dos Metais 
+00000096 | Mara Cola�o | Montemor-O-Novo | Outros Especialistas em Assuntos de Pessoal e Informa��o Profissional 
+00000097 | Lisandro Estrada | �bidos | Outros Astr�logos e Trabalhadores Similares 
+00000098 | Luca Lustosa | Miranda Do Corvo | Empregado de C�maras � Marinha Mercante 
+00000099 | Lita Xavier Rivero Saloio | Camara De Lobos | Gomador de Fitas 
+00000100 | Serena Marisa Varanda Quintella | Celorico De Basto | Enfermeiro � Especialista em M�dico-Cir�rgica 
+00000101 | L�lia Jocosa Outeiro | Cartaxo | Corretores de Mercadorias 
+00000102 | Oct�vio Rebelo | Sardoal | Desenhador Cart�grafo 
+00000103 | Vilmar Leiria | Covilh� | Colocador de Revestimentos 
+00000104 | Martinho Fabiana Torcato | Aljustrel | Encarregado � Operadores de M�quinas para Trabalhar Madeira e Corti�a 
+00000105 | Denise Tiago Chamusca Outeiro | Freixo De Espada � Cinta | Outros Economistas 
+00000106 | Adosinda Guimar�es | Vizela | Engenheiro (Silvicultor) Florestal 
+00000107 | Herc�lia Jonas Carrilho | Murtosa | Cervejeiros e Operadores de M�quinas da Prepara��o de Vinhos e de Outras Bebidas 
+00000108 | D�lia Pl�cido Carvalhoso Sequeira | Vagos | Outros T�cnicos de �Robots� Industriais 
+00000109 | Hugo Calvin Bethecourt | Figueira Da Foz | Operador de Cabine de Comando do Convertidor 
+00000110 | Raquel Arlete Aguiar | Porto De M�s | Encarregado � Operadores de M�quinas para Trabalhar Madeira e Corti�a 
+00000111 | Neusa Saloio | Nordeste | Montador de Blindagem de Querena 
+00000112 | Gaspar Cid�lia Salazar Capucho | Amadora | Montador de Linhas Telef�nicas e Telegr�ficas 
+00000113 | N�vea Canadas | Redondo | Montador de Andaimes 
+00000114 | Francelina Ouro | Portel | Operador de Instala��o de Fabrico � Sumos de Frutas 
+00000115 | Joana Violeta Marinho Caparica | Ourique | T�cnico de Oceanografia 
+00000116 | Capitolina Menna | Povoa��o | Arquitectos, Engenheiros e Especialistas Similares 
+00000117 | Marcelo Mira Goes Rufino | Aljezur | Trabalhador de Recep��o e Pesagem � Leite 
+00000118 | Lib�nia Liliana Valladares | Ourique | Outros Operadores de M�quinas de Prepara��o de Carne e Peixe 
+00000119 | Belarmino Penha | P�voa De Varzim | Outras Lavadeiras e Engomadores de Roupa 
+00000120 | Xavier Ulhoa | Entroncamento | Engenheiro T�cnico de Minas 
+00000121 | Dana Erico Sabala Bulhosa | Mora | Mec�nicos e Ajustadores de Ve�culos a Motor 
+00000122 | Evelise Keila Luz | Proen�a-A-Nova | Director de Esta��o de Radiotelevis�o 
+00000123 | Adelinda Negreiros | Melga�o | Empregado de Biblioteca e Documenta��o 
+00000124 | Priscilo Grillo | Lamego | Sapateiro � Cal�ado Ortop�dico 
+00000125 | Calebe At�lio Bas�lio | Moimenta Da Beira | Quebrador 
+00000126 | Ubirat� Il�dio Concei��o Cort�s | Elvas | Lavadeira Manual 
+00000127 | Isis Albertina Sotomayor | Sesimbra | Mec�nico � Reparador de Motociclos e Veloc�pedes 
+00000128 | Nicia Am�lia Montenegro Doutis | Nazar� | Trabalhador Florestal � Preven��o e Combate de Inc�ndios 
+00000129 | Aparecida C�lia Carlos | Boticas | Cobrador-Leitor (Agente de Cobran�a e Leitura) 
+00000130 | Nisa Salazar | S�o Jo�o Da Madeira | Modelista � Vestu�rio 
+00000131 | �lvaro Ab�lio Pires | Moura | Afinadores, Preparadores e Operadores de Teares (Tecel�es) 
+00000132 | Alexandrina �lio Sousa de Arronches Soto | Vila Nova De Paiva | Ocean�grafo 
+00000133 | Jade Mira Guilheiro | Arcos De Valdevez | Preparador de Lotes 
+00000134 | Teresa Lins | Nelas | Canteiro de Escultura 
+00000135 | Maura Gentil | Sesimbra | Outros T�cnicos Sanit�rios e Trabalhadores Similares 
+00000136 | Nicolau Camarinho | Mafra | Operador de Enchedora � Cravadeira 
+00000137 | Samara Brum | Mon��o | Encarregado � Trabalhadores da Constru��o Civil e Obras P�blicas 
+00000138 | In�s Menezes | Penacova | Ensaiadores e Outros Trabalhadores Similares 
+00000139 | Eug�nio Anjos | Vila Pouca De Aguiar | Caldeireiro 
+00000140 | Augusta L�via Areosa | M�da | Trabalhadores N�o Qualificados 
+00000141 | Altina Alda Cangueiro | Fund�o | Outros Caixas e Bilheteiros 
+00000142 | Ada Iolanda Rico Vel�zquez | Machico | Cozinheiro 
+00000143 | Celestina Chamusca | Santa Maria Da Feira | Quebrador de C�nhamo 
+00000144 | Ivone Filgueiras | Alter Do Ch�o | Filigraneiro (Filigranista) 
+00000145 | Virgolino Br�gido Holanda Vel�zquez | Lajes Do Pico | Compositores e Montadores de Artes Gr�ficas 
+00000146 | Armindo Vanusa Ramos | M�da | Outros T�cnicos de Ci�ncias F�sico-Qu�micas 
+00000147 | Pamela Leoc�dio Carvalhosa | Palmela | Operador de Digestor e Difusor � Pasta para Papel 
+00000148 | Dami�o Cremilde Carvalheira Alcoforado | �gueda | Abridor � Amaciador de Juta e L� 
+00000149 | Cl�lia Idalinda Alves Vilalobos | Mour�o | Outros Controladores de Tr�fego A�reo 
+00000150 | Walter Moreno | Bragan�a | Condutor de M�quinas Agr�colas 
+00000151 | Alberto Talh�o | Santa Cruz Da Graciosa | Operador de M�quina de Raspar e Rebaixar P�lo 
+00000152 | Laurentina Adriano Parente | Sintra | Director de Esta��o de Radiotelevis�o 
+00000153 | Assunta Ediberto Grande | Tabua�o | Director e Gerente de Empresa de Media��o e Servi�os 
+00000154 | Pascoal Olaio | Redondo | Conserveiro � Molhos e Condimentos 
+00000155 | Benedito Caeira | Lousada | Laminador-Prensador � Mat�rias Pl�sticas 
+00000156 | Miracema Delfim Zagallo Santos | Belmonte | Maquinista de Metropolitano 
+00000157 | Jos� Vergueiro | Castro Verde | Encarregado � Produ��o e Refina��o de A��car 
+00000158 | Rosa Albina Eanes Parafita | Torres Novas | M�dico Dentista 
+00000159 | Edson Quinterno | Condeixa-A-Nova | F�sico � Especialista em F�sica At�mica e Molecular 
+00000160 | Virg�lio C�cero Amaral | Tondela | Operadores de Equipamentos �pticos e Electr�nicos 
+00000161 | Bernardo Iara Mascarenhas | Portim�o | Vaporizador de Fios (Operador de M�quina de Vaporizar Fios) 
+00000162 | Lissa Braga | Armamar | T�cnico de Turismo 
+00000163 | Lena Guilherme Brand�o Moita | M�da | T�cnico do Ambiente 
+00000164 | Lourival Rebeca Nascimento | Figueira Da Foz | Operador de Penteadeira � Linho e C�nhamo 
+00000165 | Aquiles Evelise Lucas Borges | Bai�o | Controlador-Marcador � Salas de Jogos 
+00000166 | Vanderlei Quinterno | Pombal | Acabador de Antibi�ticos 
+00000167 | Elvira Narciso Junqueira | Boticas | Outros Controladores de Tr�fego A�reo 
+00000168 | Isaura Quixote Sacadura | Santiago Do Cac�m | Outros Fil�logos, Tradutores e Int�rpretes 
+00000169 | Kelly Jandira Pais | Horta | Operador de Rebarbadora (Gazeador) 
+00000170 | Joana Leoc�dia Quintana Vilaverde | Fafe | Posticeiro 
+00000171 | Em�lia Vilas-Boas | S�t�o | Int�rprete de L�ngua Gestual 
+00000172 | Evelina Lurdes Rijo | �vora | Pintor � Superf�cies Met�licas 
+00000173 | D�ia Belmiro Guterres | Calheta De S�o Jorge | Chefe de Compras 
+00000174 | Belisa L�vio Palha Rabello | Estremoz | Mec�nicos de Motores de Avi�o 
+00000175 | Jesabel L�dia Coutinho | Santar�m | Preparador de Pintura � Estruturas Met�licas 
+00000176 | Cristiano Alancastro | Sobral De Monte Agra�o | Cavaleiro Taurom�quico 
+00000177 | Branca Dagmar Souto Maior | Montijo | Condutores de Ve�culos de Trac��o Animal 
+00000178 | Odete Martinho | Idanha-A-Nova | Gravador de Fotogravura 
+00000179 | Ania Macena | Torres Vedras | Outros Qu�micos 
+00000180 | Ediberto D�ria Borges Matos | Fund�o | Operador de Areador � A��car 
+00000181 | Pablo Arruda | Vila Do Porto | Agulhador 
+00000182 | Nadir Bernarda Pastana | Castro Daire | Outros Compositores e Montadores de Artes Gr�ficas 
+00000183 | C�ntia Ciro Aldeia | Figueira De Castelo Rodrigo | Enrolador de Tecidos 
+00000184 | Branca Elen Abrantes | Mafra | Imunologista 
+00000185 | Cl�udio Mont'Alverne | Covilh� | Lavadeiras e Engomadores de Roupa 
+00000186 | Salvador Iracema Valladares Pinto | Vila Verde | Modista de Chap�us 
+00000187 | Alberto Loide Barbosa | Vila Franca Do Campo | Locutor 
+00000188 | Rui Caiado | Nazar� | Zinc�grafo (Gravador de Fotogravura) 
+00000189 | Neusa Villaverde | Braga | F�sico � Especialista em Ac�stica 
+00000190 | Jonas Gomide | Ponte De Sor | Preparador de Refei��es Pr�-Confeccionadas 
+00000191 | Al�cia Ventura | Alenquer | Afinadores � Operadores de M�quinas Ferramentas 
+00000192 | Dina Emanuela Vilari�a | Ovar | Bengaleiro (Guarda de Vesti�rio) 
+00000193 | Joyce Hon�ria Pires Nascimento | Vinhais | Massagista 
+00000194 | Renata C�ssia Pontes | Reguengos De Monsaraz | Recolhedor 
+00000195 | Nat�lio Espartero | Santa Cruz | Director e Gerente � Com�rcio Retalhista 
+00000196 | Isa�as Consuelo Capucho Mendo�a | Amares | Carvoeiro 
+00000197 | Solange Negr�o | Cuba | Impressor de Flexografia 
+00000198 | �lio Lucinda Clementino Caeiro | Pedr�g�o Grande | Outros Agentes Funer�rios e Trabalhadores Similares 
+00000199 | Fl�via Miguel Souto Maior | Crato | Encarregado � Operadores de M�quinas de Imprimir � Artes Gr�ficas de Transforma��o de Pedras 
+00000200 | Cristela Caio Bragan�a | S�o Roque Do Pico | M�dico Cirurgi�o � Ortopedia 
+00000201 | Erm�nio Jesabel Lameira | Monforte | Vendedor de Quiosque 
+00000202 | Ricardo Celestina Varela Doutiz | Vale De Cambra | Jornalista 
+00000203 | Miracema Espartero | M�da | Estampador Manual � T�xteis 
+00000204 | Jess� Pilar Serralheiro Lima | Viana Do Alentejo | Encarregado � Tratamento de Frutas e Legumes 
+00000205 | Lorena Elda Bas�lio Pinheiro | Vila Do Conde | Apicultores 
+00000206 | Pascoal Ang�lica Meirelles | Marinha Grande | Trabalhador do Fabrico de Foguetes 
+00000207 | Kirina Ver�ssimo | Cabeceiras De Basto | Servente Agr�cola 
+00000208 | Quit�ria Mauro Raposo | Seixal | Marnoto, Marnoteiro 
+00000209 | Silv�ria Alcoforado | Montijo | Pessoal dos Servi�os Directos e Particulares, de Protec��o e Seguran�a 
+00000210 | Antonieta Mata | Alandroal | Trabalhadores da Pesca � Pesca Local e Costeira 
+00000211 | C�ntia Regina Infante | Lagos | Chefe de Compras 
+00000212 | Valdemar Vel�zquez | Aveiro | Operador de Banda de Sinteriza��o 
+00000213 | Cremilde Rosinha Feitosa Quadros | Amares | Moldador de Artigos em Fibra de Vidro 
+00000214 | D�bora Farinha | Beja | Director Financeiro 
+00000215 | D�nia F�bia Dutra Carromeu | Machico | Empregado de Quartos � Hotelaria 
+00000216 | Adriana Azeredo | Pampilhosa Da Serra | Batedor de L� 
+00000217 | Narciso Rego | Beja | Toureiros, Cavaleiros Taurom�quicos e outros Profissionais Similares 
+00000218 | Herc�lia Mor�o | Sousel | Motorista � Pesca do Largo 
+00000219 | A�cio Cassilda Ulhoa | Celorico Da Beira | Outros Fil�logos, Tradutores e Int�rpretes 
+00000220 | Deolinda Bastos | Our�m | Manobrador de Carro Pesador 
+00000221 | Oct�vio Palhares | Aljustrel | Operadores de Equipamento de Emiss�es de R�dio, TV e Telecomunica��es 
+00000222 | Ciro Cristiano P�voas Garcia | Fund�o | Escolhedor 
+00000223 | Dolores Aparecida Silveira  Grillo | Sernancelhe | Cobrador de Bilhetes 
+00000224 | C�ssia Ventura | S�o Pedro Do Sul | Encarregado � Trabalhadores da Constru��o Civil e Obras P�blicas 
+00000225 | Neandro Hollanda | Vila Velha De R�d�o | Outros Directores e Gerentes de Transportes e Telecomunica��es 
+00000226 | Elisa Violante Granjeiro Damazio | Const�ncia | T�cnico de Pr�teses Dent�rias 
+00000227 | H�lia Yasmine Bragan�a | Alpiar�a | Montador de Chapas � Fibrocimento 
+00000228 | Esa� Cosme Urias Lopes | Mon��o | Trabalhadores do Tratamento e Prepara��o de Madeiras e Corti�a 
+00000229 | Anderson Agnes Sanches Mieiro | Cadaval | T�cnicos e Assistentes Veterin�rios 
+00000230 | Silv�ria Guilhermina Novaes Marmou | Santar�m | Chefe de Movimento � Transportes Rodovi�rios 
+00000231 | Ulisses Fl�vio Nogueira Carqueijeiro | Mes�o Frio | Canteiro de Escultura 
+00000232 | Urraca Margarete Fernandes | Ribeira Brava | Encarregado � Moagem de Cereais 
+00000233 | Edite At�lio Lameira Cachoeira | Penedono | Betonador (Operador de Betoneira) 
+00000234 | Helga Aida Mont'Alverne | Ma��o | Enceradores e Trabalhadores Similares da Constru��o Civil 
+00000235 | Fabiano Brandon Gentil Quinteiro | Sabugal | Reparador 
+00000236 | Katia Irina Rodrigues | Pa�os De Ferreira | Engenheiro Electrot�cnico� Automa��o, Controlo, Instrumenta��o 
+00000237 | Cosme Ernesto Gomes Vilas Boas | Mour�o | Virador de Malha Tubular 
+00000238 | Matilde Paloma Brites | Sernancelhe | Operador de M�quinas de Prepara��o de Minas para L�pis 
+00000239 | Faustina Margarete Espartero Rocha | Viseu | M�dico Cirurgi�o � Cirurgia Cardiotor�xica 
+00000240 | Telma Figueiroa | Pombal | Agente de Pol�cia de Seguran�a P�blica 
+00000241 | Vasco Valter Cachoeira Santos | Sever Do Vouga | Outros Inspectores das Finan�as 
+00000242 | Nilton Eduardo Alencastre | Santiago Do Cac�m | Operador de Instala��o de Estufagem � Arroz 
+00000243 | Violante Marcela Vilalobos Escobar | Paredes De Coura | Outros Artes�os de Artigos em Tecido, Couro e Materiais Similares 
+00000244 | Vanderlei Mariz | Alcochete | Operador de Instala��o de Metaliza��o de Fios Met�licos 
+00000245 | Gustavo Carolina Milheiri�o Leal | Belmonte | Laminador-Prensador � Mat�rias Pl�sticas 
+00000246 | Danilo J�lio Arag�o | Vendas Novas | Agente de Pol�cia Mar�tima 
+00000247 | Yasmin Esparteiro | Vila Nova De Paiva | Colador de Lentes � Vidro de �ptica 
+00000248 | Evandro Hort�nsia Vieira | T�bua | Rectificador � Trabalho em S�rie dos Metais 
+00000249 | Assun��o Seixas | Penedono | Torneiro (Operador de Torno) � Talhe de Pedra 
+00000250 | Clementina Miracema Carrasqueira | S�o Jo�o Da Pesqueira | Outros Engenheiros Civis e Engenheiros T�cnicos Civis 
+00000251 | Tasha Liana Casalinho | Alf�ndega Da F� | Operador de M�quina de Raspar e Rebaixar P�lo 
+00000252 | Alma Sousa | Alf�ndega Da F� | Revistador de Cones de Feltro 
+00000253 | Lauro Caminha | Bombarral | Porteiros, Guardas e Trabalhadores Similares 
+00000254 | L�vio Ant�nio Bessa | Sernancelhe | Montador-Reparador de Instala��es Telef�nicas e Telegr�ficas 
+00000255 | Georgina Jess� Duarte Gomes | Cinf�es | Prensador � Cer�mica 
+00000256 | Victor Bruna Matta Corte-Real | Santa Marta De Penagui�o | Contabilista 
+00000257 | Valdemar Macedo | Odemira | Vigilante de M�quinas 
+00000258 | Leandra Zagallo | Porto Moniz | Outros Directores de Recursos Humanos e Rela��es de Trabalho 
+00000259 | Tasha Ismael Palhares Quintella | S�o Pedro Do Sul | Operador de M�quina de Fabricar Latas 
+00000260 | Rebeca Noemi Furquim | Coruche | Forjadores, Estampadores e Operadores de Prensas de Forjar 
+00000261 | Fernanda Cust�dia Fontes | Sintra | Decorador de Espa�os Comerciais 
+00000262 | Maristela Celso Corte-Real Gois | Beja | Director de Empresas de Media��o e Servi�os 
+00000263 | Alva M�nica Zagallo Mangueira | Vouzela | T�cnico de Emprego 
+00000264 | Paulino Alcina Pinheiro | Marv�o | Directores de Servi�os Administrativos e Financeiros 
+00000265 | Guido Ado Barrocas Boaventura | Salvaterra De Magos | Operador de M�quina de Preparar Massas � Rebu�ados e Caramelos 
+00000266 | Samanta Vit�ria Villa�a | Barcelos | Encarregado � Caldeireiros, Latoeiros e Bate-Chapas 
+00000267 | Elaine Mederos | Mondim De Basto | Modelador � Malas e Marroquinaria 
+00000268 | Edelmiro Corn�lia Lessa Parafita | Sintra | Operadores de Fornos de Minerais e de Fornos de Primeira Fus�o de Metais 
+00000269 | Jess� Mota | Palmela | Operadores de M�quinas da Prepara��o de Ch�, Caf� e Cacau 
+00000270 | Carmo Luca Feitosa Regalado | Gr�ndola | Operador de Serragem a Laser-Diamante 
+00000271 | Virg�nia Faustino Zagallo | Idanha-A-Nova | Encarregado � Encadernadores e Trabalhadores Similares 
+00000272 | Mait� Geraldina Capucho Lemes | Vila Do Porto | Santeiro 
+00000273 | Ludovico Brand�o | Tondela | Profissionais de N�vel Interm�dio de Finan�as e Servi�os Comerciais 
+00000274 | Arm�nio Marisa Cerqueira Mourinho | Tomar | Outros Operadores de Instala��es do Fabrico de Papel 
+00000275 | N�via Edelina Carvalhal Sesimbra | Chamusca | Encolador (Engomador de Teias) 
+00000276 | Vit�ria Mira Lagoa Ba�a | Proen�a-A-Nova | Marceneiro 
+00000277 | Iara Evangelina Vilela Forte | Olh�o | Outros Alfaiates, Costureiros e Chapeleiros 
+00000278 | Evelina Casado | Belmonte | Operador de M�quina de Tratamento � Artigos de Corti�a 
+00000279 | Apol�nia Liliana Mendoza | Cuba | Outros Ocean�grafos 
+00000280 | Joaquina Vilmar Pic�o | Idanha-A-Nova | Cableador 
+00000281 | Daniel Ant�nia Fi�es | Arouca | Gazeador 
+00000282 | M�nica Eug�nio Betancour Ferraz | Trofa | Director e Gerente da Ind�stria Alimentar 
+00000283 | Romualdo Paix�o | Vila Franca Do Campo | Director e Gerente da Ind�stria Extractiva 
+00000284 | Ramiro Oleg�rio Cotrim | Alc�cer Do Sal | Angariador de Seguros 
+00000285 | Muriel Patr�cia Bezerra Chousa | Alandroal | Oleiro (Formista) de Lambugem 
+00000286 | Cinara Pablo Lira | Oliveira De Azem�is | Engenheiro T�cnico de Electr�nica e Telecomunica��es 
+00000287 | Patr�cia Godofredo Quintas | Fornos De Algodres | Trabalhadores da Montagem 
+00000288 | Mafalda Elsa Rebocho Casalinho | Alvito | Confeccionador de Artigos por Imers�o em L�tex 
+00000289 | M�xima Dalva Fi�es Lameiras | Palmela | Projeccionista de Cinema 
+00000290 | Jaime Passos | Arronches | Outros Operadores de M�quinas de Fabrico de Produtos L�cteos 
+00000291 | Albino Thays/Ta�s Martins Ribeiro | Sintra | Semussador de Feltro de L� � Chapelaria 
+00000292 | Joviano Salgado | Alvito | Condutor de Draga 
+00000293 | Marisol Vila-Ch� | Valongo | F�sico � Especialista em �ptica 
+00000294 | Jonathan Veloso | Arronches | Escolhedor 
+00000295 | La�s Fabiano Naz�rio | Sesimbra | Montador de M�quinas 
+00000296 | Nilton Esmeralda Porci�ncula | Palmela | Arquitecto 
+00000297 | Loreta Barrocas | Alcoutim | Educadores de Inf�ncia 
+00000298 | Am�rico H�lder Cipriano Outeiro | Paredes | M�dico Ginecologista e Obstetra 
+00000299 | Douglas Joviano Vilarinho Veiga | Vila Franca De Xira | Mestre de Redes � Pesca Local e Costeira 
+00000300 | Bet�nia Guterres | Esposende | Projeccionista de Cinema 
+00000301 | Valqu�ria Claudino Curvelo | Rio Maior | Descascador (Operador de Descascadeira) � Madeira 
+00000302 | Edna Cirne | Porto Santo | Cablador 
+00000303 | Capitolino Clementina Cangueiro | �lhavo | Electricista Naval 
+00000304 | Aquiles Concei��o Forte Barata | Portel | Operador de M�quina de Raspar e Rebaixar P�lo 
+00000305 | Silvino Quinaz | Soure | Gravador a �cido �Vidro 
+00000306 | Ces�ria Valgueiro | Funchal | Afinador de M�quinas � Malhas 
+00000307 | X�nia Moraes | Sert� | Operador de Fabrico � Massas para Gelados 
+00000308 | Fl�r Corn�lio Aguiar | Bai�o | Anotador � Cinema e Televis�o 
+00000309 | Olivier Casado | Belmonte | Encadernadores e Trabalhadores Similares 
+00000310 | Mira Outeiro | S�o Jo�o Da Madeira | Bombeador 
+00000311 | Obede Ad�lia Rangel | Lagoa | Bagageiro 
+00000312 | Jessica Obede Rivero | Boticas | Encarregado � Peleiros e Trabalhadores Similares 
+00000313 | Damiana Coito | Oeiras | Operador de Rectificadora de Cambotas 
+00000314 | Cl�vis Anabela Passarinho | Odivelas | Trabalhadores N�o Qualificados das Minas 
+00000315 | Fl�r Santar�m | Amadora | Operadores de M�quinas do Fabrico de Artigos em Madeira e Corti�a 
+00000316 | Vidigal Geraldino Alvarenga Manso | Guarda | Director e Gerente � Com�rcio Retalhista 
+00000317 | Nuno Disa Garcia | S�t�o | Operador de Instala��o Autom�tica de Prepara��o de Pasta � Cer�mica 
+00000318 | Golias Concei��o | Mirandela | Avaliador de Madeira na Mata 
+00000319 | Deonilde Dorisse Parente Figueir� | Armamar | Encarregado � Operadores de M�quinas de Imprimir � Artes Gr�ficas de Transforma��o de Pedras 
+00000320 | T�lio S�rgio Meireles | Penafiel | Abatjoureiro 
+00000321 | Estef�nia Georgina Vilas Boas | Vila Do Conde | M�dico Radiologista 
+00000322 | Wilian Orfeu Lagoa | Sintra | Operadores de Cadeias de Montagem Automatizadas e de "Robots" Industriais 
+00000323 | Manuel Oliveira | Vila Real | Marceneiro 
+00000324 | Arminda Batata | Lagoa | Programadores de Inform�tica e Trabalhadores Similares 
+00000325 | Abel Quinterno | Matosinhos | Especialistas das Profiss�es Intelectuais e Cient�ficas 
+00000326 | Clementina Altina Covinha Espargosa | Goleg� | Operador de Instala��o do Fabrico de Fibras Sint�ticas 
+00000327 | Hildefonso Carla Azevedo | Vila Nova De Poiares | Analista de Profiss�es 
+00000328 | Wagner Bandeira | Porto Santo | Impressor � Prensa de Contacto 
+00000329 | Leoc�dio Torres | Seia | Outros Docentes do Ensino B�sico
+00000330 | Albertina Cinara Castello | Barreiro | Condutor de M�quina de Nivelamento e Terraplanagem 
+00000331 | Elaine Sabrina Gil Alcaide | Macedo De Cavaleiros | Outros Trabalhadores Florestais 
+00000332 | Nadine D�lia Sardinha Torquato | Ribeira Grande | T�cnico de Controlo de Qualidade 
+00000333 | Afonso Paz | S�t�o | Outros T�cnicos de Electricidade 
+00000334 | Pilar Bernardo Salles Manso | Alcanena | Mec�nicos de Motores de Avi�o 
+00000335 | Yara Farias | Portim�o | Condutor de Draga 
+00000336 | Erc�lia Nilton Quintanilha Vilar | Ribeira Grande | Profissionais T�cnicos da Medicina � � Excep��o dos Enfermeiros 
+00000337 | Bruno N�lia Letras | �lhavo | Operador de Forno de Reaquecimento � Laminagem 
+00000338 | H�lio Jonata Quezado Fortunato | Arraiolos | Santeiro 
+00000339 | Jos�lia Vanderley Noronha Naz�rio | Vouzela | M�dico Urologista 
+00000340 | M�ximo Tim�teo Farinha | Trancoso | Governanta, em Geral 
+00000341 | Dina Alancastre | Borba | Teclista-Monotipista 
+00000342 | Aurora Cust�dio Passarinho | Terras De Bouro | Remetedor (Repassador) 
+00000343 | Narciso Gil | Coimbra | Outros Reveladores e Impressores em C�mara Escura 
+00000344 | Adelmiro Rosa | Oeiras | Inspector Administrativo � Estabelecimentos Banc�rios 
+00000345 | Hern�ni Campelo | Silves | Desencolador de Seda 
+00000346 | Ermengarda Gaspar | Gr�ndola | Int�rprete 
+00000347 | Ros�rio Pais | Bombarral | Amassador 
+00000348 | Anacleto Seixas | Arronches | Operadores de M�quinas do Fabrico de Artigos de Borracha 
+00000349 | Ac�cio Catarina Lagos | Arruda Dos Vinhos | Vaporizador de Tecidos 
+00000350 | Aur�lia Torres | Tavira | Pintor � Decorador 
+00000351 | C�ndido Palma | Mira | Porta Miras 
+00000352 | F�bia Baltasar P�cego | Santiago Do Cac�m | Montador de Pe�as ou �rg�os Mec�nicos, em S�rie 
+00000353 | Arlindo Marino | Santa Cruz Da Graciosa | Operador de Instala��o Autom�tica de Pintar 
+00000354 | Jer�nimo Efig�nia Pontes Carrasco | Carrazeda De Ansi�es | Prospector de Vendas 
+00000355 | Lucas Cl�lia Lisboa | Torres Vedras | Envernizador 
+00000356 | Frederico Isolina Belmonte | Palmela | Ficheiro Fixo (Caixa Fixo, Caixa Privativo) � Casinos 
+00000357 | Vidigal Crist�v�o P�voas | Lamego | Mestre de Tr�fego Local 
+00000358 | Nina Valdemiro Ramalho Fonseca | S�o Roque Do Pico | Mestre de Tr�fego Local 
+00000359 | �nio Edmundo Olivares | Camara De Lobos | Operador de Ilumina��o � Cinema e Televis�o 
+00000360 | Helga �nio Ribeiro Parafita | Ponte De Sor | Encarregado � Revela��o e Impress�o de Fotografias 
+00000361 | Geraldino Arouca | Praia Da Vit�ria | Escatelador � Trabalho em S�rie dos Metais 
+00000362 | Linda Duarte Rabelo Barata | Aljezur | Assistente de Bordo � Transportes Fluviais e Terrestres 
+00000363 | Liana Bacelar | Angra Do Hero�smo | Apicultores 
+00000364 | Milene Anjos | Velas | Cordoeiro (Operador de M�quina de Fazer Cord�o) � Sirgaria 
+00000365 | Francelina H�lia Seabra Lagoa | Corvo | F�sico � Especialista em F�sica At�mica e Molecular 
+00000366 | Olivier Lacerda | Aljustrel | Fiscal de Explora��o � Metropolitano 
+00000367 | Camilo Gabeira | Vila Do Conde | Esfarrapador 
+00000368 | Liana Adalberto Mondrag�o Sacadura | Ponta Delgada | Apicultores 
+00000369 | Carmo Regina Ramires Ros�rio | Monforte | Moldador de Chocolate 
+00000370 | S�rgio A�cio Torrado | Mora | Operador de M�quina de Moldar (Fundidor-Moldador Mec�nico) 
+00000371 | N�ria M�rio Barateiro | Alcoutim | Outros Telhadores 
+00000372 | Du�lha Sara Clementino | Lagos | Maquinista de Comboio 
+00000373 | Ludovico Alfeu Castanho Cerqueira | Sines | Operador de Secador e Aromatizador � Tabaco 
+00000374 | Val�ria Olivera | Barrancos | Outros Operadores de M�quinas de Encaderna��o 
+00000375 | Bas�lio Nadine Azenha | Belmonte | Caseiro (Feitor, Encarregado) � Explora��o Agro-Pecu�ria 
+00000376 | Jacy Orlando Aguiar | Reguengos De Monsaraz | Outros Ensaiadores e Outros Trabalhadores Similares 
+00000377 | Am�rico Elza Furquim Rico | Idanha-A-Nova | Fiscal de Rega 
+00000378 | Cremilde F�bia Braz | Santo Tirso | Escritur�rio � Seguros 
+00000379 | Fedra Adri�o Mello Fialho | Alcochete | Operador de M�quina de Furar � Trabalho em S�rie dos Metais 
+00000380 | �scar Crist�v�o Seixas Figueira | Mangualde | Envernizador 
+00000381 | Miriam Arm�nio Guedes | Povoa��o | Professor de Educa��o Especial � �rea da Defici�ncia Auditiva 
+00000382 | Arlindo Patr�cio Junqueira | Lisboa | Colador Manual 
+00000383 | Tom�s Natacha Bettencourt | Esposende | Arquivistas, Bibliotec�rios, Documentalistas e Profiss�es Similares 
+00000384 | Tabita Samuel Duarte | Crato | Operadores de Equipamento de Emiss�es de R�dio, TV e Telecomunica��es 
+00000385 | Sheila Lancelote Abasto T�vora | Almeirim | Outros Alfaiates, Costureiros e Chapeleiros 
+00000386 | Josaf� Prado | Mort�gua | Forjador Mec�nico (Operador de Prensa de Forjar) 
+00000387 | Marlene Carqueijeiro | Loures | Parteiras 
+00000388 | Isa C�tia Trigueiro Garrau | Goleg� | Operador de Supermercado 
+00000389 | Eut�mio Regodeiro | Horta | Guarda-Livros 
+00000390 | Gide�o Belinda Olaio | Pedr�g�o Grande | Tecel�o Manual 
+00000391 | Irene Laurentina Carmo Alencastre | Peso Da R�gua | Ajuntador (Juntador) 
+00000392 | Moacir Tarc�sio Chousa Esteves | Bombarral | Outros Operadores de Explora��o de Telecomunica��es e Telefonistas 
+00000393 | Douglas Gilberta Fortunato Caf� | Castro Daire | Mariscador 
+00000394 | Anita Obede Bou�a | Lagos | Operador de M�quinas de Fabricar Arame Farpado 
+00000395 | Lena Cordeiro | Silves | Afinadores, Preparadores e Operadores de Teares (Tecel�es) 
+00000396 | Fabr�cio Geraldino Barroqueiro | Vidigueira | Cinzelador de Metais N�o Preciosos 
+00000397 | Cloe Vilma Caeiro Cidreira | Arouca | Avicultor 
+00000398 | Genoveva Eva Miranda | Vendas Novas | Marinheiro � Marinha Mercante 
+00000399 | Belisa Alexander Meneses | Porto De M�s | Barbeiro 
+00000400 | C�lia Fraga | Montemor-O-Novo | Estampador 
+00000401 | L�cia Silveira  | Covilh� | Serrador de Diamantes 
+00000402 | Leda Gildo Vila-Ch� | Miranda Do Douro | Operador de Robot Industrial 
+00000403 | Felismina Cangueiro | Leiria | Maquinistas de Locomotivas e Trabalhadores Similares 
+00000404 | Adriana Carminda Freire | Figueira Da Foz | Pagador � Casinos 
+00000405 | Kelvin Jandira S� Blanco | Aveiro | Agente de Pol�cia de Seguran�a P�blica 
+00000406 | J�lio Luca Noite Andrade | Sert� | Operador de Sala de Fermenta��o � Cerveja 
+00000407 | Nat�lio Marisela Caldas Cabral | Oeiras | Compositor Musical 
+00000408 | Adelinda Flores | Povoa��o | T�cnico de Robots Industriais 
+00000409 | Anabela Ma�sa Sousa de Arronches | Ferreira Do Z�zere | Operadores de M�quinas para Fabricar Alimentos e Produtos Similares 
+00000410 | Pl�cido Hermes Meneses | Torres Novas | Mec�nicos de Instrumentos de Precis�o 
+00000411 | Aar�o Helo�sa Quintanilla | Oliveira De Frades | Trabalhador do Fabrico de Instrumentos Musicais de Percuss�o 
+00000412 | J�lia Faia | Faro | T�cnico Profissional � Administra��o P�blica 
+00000413 | Madalena Yolanda Boga Bai�o | Vila Nova De Poiares | Peleiro � Vestu�rio 
+00000414 | Josefina Linda Semedo | Alpiar�a | Impressor � Prensa de Contacto 
+00000415 | Elizabeth Alcoforado | Vila Nova De Famalic�o | Operador de Fabrico � Manteiga 
+00000416 | Delfina Raminhos | Vila Real | Operador de M�quina de Cunhagem e Impregna��o � F�sforos de Carteira 
+00000417 | Mateus Sosa | Idanha-A-Nova | M�dico Patologista Cl�nico 
+00000418 | Geralda Ang�lica Alcoforado Oleiro | Azambuja | Soci�logo 
+00000419 | Celina Patr�cia Diniz | Nordeste | Provadores e Seleccionadores de Produtos Alimentares e Bebidas 
+00000420 | Guida Mainha | Trancoso | Outros Bombeiros 
+00000421 | Crist�v�o Pallos | Penamacor | Operador de Extrac��o � �leos Alimentares 
+00000422 | Belisa Jussara Lousada Lameirinhas | Tomar | Projeccionista de Cinema 
+00000423 | Kelly Valladares | Anadia | Colador Manual 
+00000424 | Douglas Matos | Vila Franca Do Campo | Enfermeiro � Especialista em Sa�de P�blica
+00000425 | Altina Chaves | Porto Moniz | Outros Bibliotec�rios e Documentalistas 
+00000426 | Nicolas Porto | S�o Pedro Do Sul | Outros Docentes do Ensino B�sico 
+00000427 | In�s Neandro Carvalhais | Praia Da Vit�ria | Inspector da Pol�cia Judici�ria 
+00000428 | Frederica Sara A�ores | Tabua�o | Rabaneador 
+00000429 | Djamila Vital Saraiva | Oeiras | Vendedor por Telefone 
+00000430 | Cleide Saloio | T�bua | Tripeiro 
+00000431 | Cassandra Vides | S�o Br�s De Alportel | T�cnicos Sanit�rios e Trabalhadores Similares 
+00000432 | Eus�bio Nadir Madeira | Horta | T�cnico de Cartografia e Prospec��o Geol�gica 
+00000433 | Julieta Dias | Castro Verde | Apicultor 
+00000434 | Albano Olavo Guterres | Castelo De Vide | Operador de Composi��o � Vidro 
+00000435 | Melanie Obede Maciel | Oeiras | Outros Lapidadores e Gravadores de Vidro e Cer�mica 
+00000436 | Rodolfo Nilson Candeias | Machico | Operador de Rampa 
+00000437 | Arcelino Candal | Almeida | Desenhador Humor�stico (Caricaturista) 
+00000438 | L�gia Elvira Nascimento Cedraz | Arganil | Sarilheiro 
+00000439 | Serafim Chamusca | Braga | Apontador 
+00000440 | Eunice Ana Corte-Real | Almeida | Outros Qu�micos 
+00000441 | Iara Lurdes Sesimbra Torcato | Alcoba�a | Engenheiro T�cnico Civil � Hidr�ulico 
+00000442 | Liane Gusm�o | Gondomar | Outros Artistas de Circo 
+00000443 | Mira Maior | Porto Santo | Branqueador de Produtos T�xteis 
+00000444 | Durval Castanheda | Entroncamento | Educador de Inf�ncia 
+00000445 | N�bia Olivares | Miranda Do Douro | Cortador 
+00000446 | Cinara Marreiro | Murtosa | Enchedor de Colch�es 
+00000447 | Nadina Bryan Covelh� | Fornos De Algodres | Oleiro Enchedor 
+00000448 | Leandra Of�lia Taveiros Trindade | Santa Marta De Penagui�o | Gravador Manual de Matrizes 
+00000449 | Gildo Glaucia Gon�alves | Alcoutim | Inspector de Vendas 
+00000450 | Marieta Ginjeira | Vendas Novas | Director de Rela��es P�blicas 
+00000451 | At�lio Martina Cangueiro Cisneiros | Matosinhos | T�cnico Superior � Administra��o P�blica 
+00000452 | N�lson Dulce Gabeira | Chamusca | Dourador � Madeira 
+00000453 | Quirina Ferdinanda Trindade Dur�o | Murtosa | Pe�o de Brega 
+00000454 | Ad�o Tom� | Cascais | Secret�rio de Administra��o 
+00000455 | Gra�a Vera Farias | Macedo De Cavaleiros | Cart�grafo 
+00000456 | Bartolomeu Ifig�nia Torquato Sousa de Arronches | Elvas | Penhorista (Prestamista) 
+00000457 | Em�dio Ladislau Camelo Dourado | Arcos De Valdevez | Oper�rios, Art�fices e Trabalhadores Similares 
+00000458 | Aurora Lita Cascais Barroso | Maia | Cortador � Papel ou Cart�o 
+00000459 | Camilo Faia | Braga | Motorista de Autom�veis Ligeiros � Mercadorias 
+00000460 | �rica Lagoa | Montalegre | Empregado de Biblioteca e Documenta��o 
+00000461 | M�ximo Vasco Bri�o | Torre De Moncorvo | Ge�logo 
+00000462 | L�ia Helena Sotomayor | Boticas | Operador de M�quina de Rectificar Bast�es 
+00000463 | Idalina Yuri Onofre Belmonte | Abrantes | Montador � Ind�stria Cinematogr�fica 
+00000464 | Evelise Wilian Pican�o | Barcelos | Operador de M�quina de Formatar � Pasta para Papel 
+00000465 | D�nia Ricarda Abreu Lameira | Azambuja | Farmac�uticos 
+00000466 | Thays/Ta�s �rsula Pegado | Santana | Outros Bibliotec�rios e Documentalistas 
+00000467 | Patr�cio Flora Canejo | Lousada | Docentes do Ensino B�sico 
+00000468 | Caetana Hildegarda Salvado Garrido | Aguiar Da Beira | Mediador (Angariador de Seguros) 
+00000469 | C�lia Teixeira | Portalegre | Dietistas 
+00000470 | Wilker Ol�mpio Henriques | Santa Comba D�o | Outros Trabalhadores da Prepara��o do Tabaco 
+00000471 | Bruno Parente | Vila Franca De Xira | Operador de Sistema de Pesagem e de Mistura � A��car 
+00000472 | Wilker Deolinda Raminhos | Aveiro | Cortador 
+00000473 | Glaucia Lousado | Vila Nova De Cerveira | T�cnico de �ptica Ocular 
+00000474 | Judite Apolin�rio Lago | T�bua | Fot�grafo � Artes Gr�ficas 
+00000475 | Jaime Belmira Correia | Figueir� Dos Vinhos | Operadores de Equipamento de Teleinforma��o e Trabalhadores Similares 
+00000476 | C�sar Evaldo Vilanova | Chamusca | Operadores de Instala��es de Filtra��o e Separa��o Qu�micas 
+00000477 | B�rbara Helena Villas Boas Sobral | Albufeira | Assistentes Dent�rios e Trabalhadores Similares 
+00000478 | Evelise Elizeu Lousado Villar | Santa Marta De Penagui�o | Operador de M�quinas de Moldar e Secar � Massas Aliment�cias 
+00000479 | �rica Amado Borja Godoi | Celorico Da Beira | Engenheiro Civil � Estruturas 
+00000480 | Walter Malheiros | Lousada | Ministro de Culto 
+00000481 | Branca Dinora Barcelos Passarinho | Horta | Operador de Triturador 
+00000482 | Renata Cleide Sales | Sert� | Montador de An�ncios 
+00000483 | Manuelina Ol�vio Moreira Vilanova | Paredes | Outros Agentes de Pol�cia 
+00000484 | D�bora Urbano Roriz | Alcoutim | Enformador de Chap�u de Feltro 
+00000485 | Batista Robalo | Valpa�os | Operador de Autoclave de Vulcaniza��o 
+00000486 | Adelaide Alancastre | Mort�gua | Operador de Misturador Interno (Operador de"Banbury") � Borracha 
+00000487 | Bruna Hildefonso Dourado | Ferreira Do Z�zere | Operador de Filtra��o � Cerveja 
+00000488 | Misael Guimar�es | Carregal Do Sal | Desgarrador (Aparador) � Peles 
+00000489 | Bernardo Albano Quinteiro | Serpa | Riscador � Sistema Electr�nico � Cartonagem 
+00000490 | Rosana Nero Carvalheira Cidreira | Penamacor | Electromec�nico, em Geral 
+00000491 | Lilian Pereira | Porto De M�s | Seleccionador de Peles 
+00000492 | Ademir Ataliba Furtado | Set�bal | Guarda Fiscal 
+00000493 | Eduarda Maur�cia Barreto | Sesimbra | Operador de M�quina de Vaporizar Fios 
+00000494 | Em�lia Capitolino Casqueira | Arruda Dos Vinhos | Operador de Fabrico � Cereais Hidrolisados 
+00000495 | Adriana Dalva Albuquerque Outeiro | Estarreja | Mec�nico � Reparador de Aparelhos e Antenas de R�dio e TV 
+00000496 | Diego Nor�es | Alpiar�a | Engenheiro Civil � Constru��o de Edif�cios 
+00000497 | Morgana Belarmina Damazio | Oleiros | M�dico Cirurgi�o � Cirurgia Cardiotor�xica 
+00000498 | Fl�r J�dice | Velas | Outros Operadores "Robots" Industriais 
+00000499 | Lucr�cia Dantas | Fafe | Profissionais de N�vel Interm�dio do Ensino
+00000500 | Lib�nio Rosana Botica | Santiago Do Cac�m | Motorista de Ve�culos Pesados � Mercadorias 
+00000501 | Miracema Rolim | Vila Nova De Gaia | Operador de Sistema de Pesagem e de Mistura � A��car 
+00000502 | Ingrid Quintanilla | Vila Do Bispo | Tratador de Animais � Agro-Pecu�ria 
+00000503 | Guilhermina Andrade | Borba | Colhedor de Vidro 
+00000504 | Eut�mio Valentim Figueiroa Corte-Real | Mira | Manequins e Outros Modelos 
+00000505 | Aponino Santos | Guarda | Montador de Linhas Telef�nicas e Telegr�ficas 
+00000506 | Hon�rio Isa�as Quintais | Nelas | Psic�logos 
+00000507 | Ma�sa Reinaldo Monte | Vila Vi�osa | Pessoal de Limpeza de Casas Particulares e Trabalhadores Similares 
+00000508 | Reinaldo N�dia A�ores Laureano | Albufeira | Operador de Prensa Autom�tica  
+00000509 | Caetano Mariz | Nisa | Soldador por Pontos 
+00000510 | Bas�lio Ol�mpia Cabral | Proen�a-A-Nova | Outros Electricistas da Constru��o Civil e Trabalhadores Similares 
+00000511 | Francisco Camelo | Castro Marim | Empregados de Recep��o, de Informa��o e Telefonistas 
+00000512 | Glena Venceslau Garcez | Fafe | Cozedor (Caldeireiro) Corti�a 
+00000513 | Hip�lito Martins | Felgueiras | Impressor � Prensa de Contacto 
+00000514 | Valdo Jesabel Bicudo Alvim | Elvas | Encarregado de Manobras (Capataz de Manobras) � Caminhos de Ferro 
+00000515 | Leticia Henrique Mafra Teodoro | Bai�o | Operador de M�quina de Cortar P�lo � Veludo "Cotel�" 
+00000516 | N�dia C�ntia Torreiro | Set�bal | Operador de M�quinas de Acabamentos � Produtos T�xteis 
+00000517 | Serafim D�ria Luz Duarte | Machico | Fundidor de Material Tipogr�fico 
+00000518 | Osvaldo Salom�o | Vinhais | Outros T�cnicos Interm�dios de Qu�mica Industrial 
+00000519 | Rudolfo Torrado | Fafe | Programadores, Operadores de Inform�tica e Trabalhadores Similares 
+00000520 | Lic�nio Valentim Vidal | Chamusca | T�cnicos de Relojoaria 
+00000521 | Tadeu Olivier Pederneiras Mantas | P�voa De Varzim | Profissionais de N�vel Interm�dio dos Servi�os Administrativos 
+00000522 | Gisela Brum | Vila Do Bispo | Talhador Manual 
+00000523 | Josaf� Silvestre | Mogadouro | M�dicos Dentistas 
+00000524 | Joyce Ramom Iglesias | Vizela | Fiscal de Instala��es El�ctricas e Telef�nicas 
+00000525 | Jos� Infante | Seixal | Soldador a Metal ou Solda Forte 
+00000526 | Salema Natal | Porto De M�s | Arquivistas e Conservadores de Museus 
+00000527 | Dorot�ia Palha | Carrazeda De Ansi�es | Outros Trabalhadores do Fabrico e Repara��o de Instrumentos de M�sica 
+00000528 | Vitorino Arlindo Fidalgo | Ribeira Brava | Corretor de Navios (Ship Brower) 
+00000529 | Gra�a Bai�o | Cabeceiras De Basto | Encarregado � Condu��o de Centrais Termoel�ctricas 
+00000530 | Altina At�lio Doutel Bensa�de | Cuba | Talhador Manual 
+00000531 | Vicente Fernando Quesado Ramires | Vila Nova De Foz C�a | Vidraceiros 
+00000532 | Walter Damascena | Trancoso | Profissionais de N�vel Interm�dio de Gest�o e Administra��o 
+00000533 | Benedito Damiana Pires Cedro | Serpa | Gravador de Ourivesaria e Joalharia 
+00000534 | Vilela Ema Morais Capistrano | Macedo De Cavaleiros | Programador � Inform�tica 
+00000535 | Fl�r Orlando Batata | Montalegre | M�dico Patologista Cl�nico 
+00000536 | Blenda Natalina Doutiz | Portel | Engenheiro T�cnico Civil � Estruturas 
+00000537 | Luc�lia Guilherme Gil Peres  | Paredes | Prensador (Operador de Prensa Autom�tica) � Aglomerados de Cimento 
+00000538 | Mafalda Gilda Castro | �gueda | Outros Directores e Gerentes da Constru��o Civil 
+00000539 | Amanda Valdemar Le�o Caeira | Lagos | Montador de Instrumentos de Precis�o 
+00000540 | S�nia Alcoforado | Ferreira Do Z�zere | Encarregado � Forjadores, Estampadores e Operadores de Prensas de Forjar 
+00000541 | Constantino Frederica Castro | Penalva Do Castelo | Inspector Administrativo � Seguros 
+00000542 | Bartolomeu Francisca Malheiro | Lousada | Outros Directores de Transportes, Entrepostos e Telecomunica��es 
+00000543 | Ol�via Ver�nica Sousa do Prado Rangel | Vagos | Director de Vendas 
+00000544 | Norberto Terra | �bidos | Vendedor Ambulante � Produtos Comest�veis 
+00000545 | C�ssio Albano Belchiorinho | Faro | Riscadores e Cortadores de Moldes 
+00000546 | Ant�nio Pamela Mariz | Loul� | Engenheiro T�cnico Agr�rio � Produ��o Animal 
+00000547 | Jos� Virg�lio Valim | Fronteira | Projeccionista de Cinema 
+00000548 | Silva Ven�ncio Sousa de Arronches Ferraz | Ansi�o | Estufeiro � Produtos Alimentares 
+00000549 | Fab�ola Belmira Padilla | S�t�o | Outros Atletas, Desportistas e Trabalhadores Similares 
+00000550 | Lena Ademar Saloio | Cuba | Caricaturista 
+00000551 | Natalina Nuno Muxagata | Seixal | Queijeiro 
+00000552 | Bartolomeu Barroqueiro | Freixo De Espada � Cinta | Cortador de Carnes Verdes 
+00000553 | Anast�cia Arlindo Oliveira Gon�alves | Chaves | Agentes Funer�rios e Trabalhadores Similares 
+00000554 | Iolanda Fl�vio Afonso | Penalva Do Castelo | Directores de Servi�os de Investiga��o e Desenvolvimento 
+00000555 | Jorge Candal | S�o Jo�o Da Madeira | Outros Especialistas das Profiss�es Intelectuais e Cient�ficas 
+00000556 | Efig�nia Corvelo | Nordeste | Recauchutador
+00000557 | Edmar Lib�nia Cola�o | Soure | Empregados de Recep��o, Caixas, Bilheteiros e Similares 
+00000558 | Nei Guilhermina Silvestre | Ourique | Atarraxador Mec�nico � Trabalho em S�rie dos Metais 
+00000559 | Estrela Freitas | Palmela | Operador de Amplifica��o de Som 
+00000560 | Mois�s Lucr�cia Alancastre Varella | Coimbra | Colocador de An�ncios (Montador de An�ncios) 
+00000561 | Carlota Joel Pe�anha Rego | Lisboa | Operador de Concentra��o � Leite 
+00000562 | Clarisse �lvaro Peixoto | Lamego | Encarregado � Operadores de M�quinas de Encaderna��o 
+00000563 | Ema Ester Mirandela Rebou�as | Gr�ndola | Engenheiro Civil � Planeamento do Territ�rio 
+00000564 | Edite Lucr�cia Siqueira Vilaverde | Ribeira De Pena | Agricultor 
+00000565 | Shirley Elizeu Baldaia | Ovar | Educador de Estabelecimento (Monitor, Perceptor) 
+00000566 | Fl�vio D�rio Aleixo | Pombal | Compositores, M�sicos e Cantores 
+00000567 | F�tima Cola�o | Sobral De Monte Agra�o | Condutor de M�quina Arrastadora "Dragline" 
+00000568 | Douglas Maria Anjos | Marco De Canaveses | Outros Estofadores, Colchoeiros e Trabalhadores Similares 
+00000569 | Edelmiro Arnaldo Forte | Ribeira Grande | Directores de Constru��o Civil e Obras P�blicas 
+00000570 | Alberto Malho | Barrancos | Vidreiros, Moldadores, Cortadores, Polidores de Vidro e Trabalhadores Similares 
+00000571 | Yuri Concei��o | Vieira Do Minho | Operador de Subprodutos � Antibi�ticos 
+00000572 | Virg�lio Albuquerque | Machico | Outros Qu�micos 
+00000573 | Ilda Toscano | Celorico Da Beira | Montador de Instrumentos de Precis�o 
+00000574 | Olavo Marlene Frota Angelim | Ma��o | Operadores de M�quinas para Fabricar Alimentos e Produtos Similares 
+00000575 | Erico Vanessa Cal�ada Rebou�as | Porto Moniz | Bilheteiro (Cobrador de Bilhetes) � Autocarros, Carros El�ctricos 
+00000576 | F�bio �lio Maia | Estremoz | Operador de Moinho � Especiarias 
+00000577 | Franklin Ramires | �bidos | Operador de Autoclave de Regenerados 
+00000578 | Felisberto Galindo | Miranda Do Douro | Trabalhadores dos T�xteis e Confec��es e Trabalhadores Similares 
+00000579 | Manuelina D�lia Gouveia Carlos | Santo Tirso | Historiadores e Especialistas das Ci�ncias Pol�ticas 
+00000580 | Maristela Bensa�de | Palmela | Vidraceiro � Colocador 
+00000581 | Gra�a Quinterno | Tondela | Tecel�o � Tecidos e Produtos Similares
+00000582 | Frederico Elizeu Casalinho | Serpa |  
+00000583 | Roberta Cristiana R�os Villar | Sabrosa | Caixas e Bilheteiros 
+00000584 | Neide Dolores Bentes | Mur�a | Tirador (Pregador) de Teias 
+00000585 | Erico Pl�cida Sacramento | Sesimbra | Calandrador � Papel 
+00000586 | Clotilde Ricardino Pais | Freixo De Espada � Cinta | Operador de Soprador 
+00000587 | Celestina Pedroso | Odivelas | Gravador Manual � Processos Qu�micos 
+00000588 | Nuno Cl�lia Coelho | Lajes Das Flores | Operador de M�quinas do Fabrico de Escovas, Vassouras e Pinc�is 
+00000589 | Naz�rio Morgado | Moimenta Da Beira | Marinheiro de Tr�fego Local 
+00000590 | Hildefonso Lessa | Aguiar Da Beira | Operador de Ilumina��o � Cinema e Televis�o 
+00000591 | Ros�ria Assun��o Ruela | Resende | Outros T�cnicos de Turismo 
+00000592 | Ariana N�dia Cach�o Casado | Machico | Outros T�cnicos de Relojoaria 
+00000593 | Armindo Ezequiel Cerveira Telles | Paredes | Operador de Combust�vel 
+00000594 | Ferdinanda Ezequiel Quintero | Lamego | Sapateiro � Cal�ado Ortop�dico 
+00000595 | Sandro Brandon Meira | Paredes De Coura | Veterin�rio 
+00000596 | Sabina Rivero | Mealhada | Gravador Manual de Matrizes 
+00000597 | Armando Villaverde | Porto Santo | Operador de Prensa Autom�tica  
+00000598 | S�lvio Lemes | Alvito | Inseminador Artificial 
+00000599 | Urbino Alencar | Gavi�o | M�dico do Trabalho 
+00000600 | J� Vilari�a | Albufeira | Outros Ajudantes Familiares 
+00000601 | Wilker Irma Figueiroa Amorim | Santa Cruz | Regularizador de Sinistros 
+00000602 | Sandro Telinhos | Ponta Delgada | Enfermeiro 
+00000603 | Beatriz Armando Carvalheira | Sobral De Monte Agra�o | Operador de P�rtico Rolante 
+00000604 | Idalinda Ramos | Moimenta Da Beira | Pintor � Decorador 
+00000605 | N�lson Cristela Miguel Leite | Vieira Do Minho | Electricista da Constru��o Civil 
+00000606 | Am�lia Capitolina Urias | Sert� | Perito Criminal�stico 
+00000607 | Blenda Domingues | Porto De M�s | Caixeiro 
+00000608 | Albina Faustino | Mogadouro | Porteiro � Pr�dios Urbanos 
+00000609 | Capitolino Aldino Faustino | Porto | T�cnico de Telecomunica��es 
+00000610 | Geraldo Mariana Barreto | Castanheira De P�ra | Gomador (Carregador) de Seda 
+00000611 | Alberta Caetano Janes Fran�a | Vila Do Porto | Tra�ador 
+00000612 | Serena N�ria Marcondes | Alcoutim | Abridor-Batedor � Algod�o 
+00000613 | Ant�nio Armanda Pamplona | Fronteira | Operador de Instala��o de Depura��o de Sucos � Beterraba 
+00000614 | Ubirat� Te�filo Meireles Quintal | Figueira De Castelo Rodrigo | Carvoeiro 
+00000615 | Yara Am�lia Cartaxo Valcanaia | Porto De M�s | Maestro de Orquestra (Chefe ou Regente de Orquestra) 
+00000616 | Maximiliano Calisto Bivar | Redondo | Encarregado � Fornos de Segunda Fus�o, Vazamento e Laminagem 
+00000617 | Priscilo Arlete Delgado Sesimbra | Carrazeda De Ansi�es | Mandrilador � Trabalho em S�rie dos Metais 
+00000618 | Am�lia Aparecida Mello | Valongo | Costureira � Vestu�rio por Medida 
+00000619 | Mariana Ricardino Vilanova | Penedono | Jogador Profissional de Futebol 
+00000620 | Aldino Castro | Vila Do Bispo | Outros Trabalhadores da Pesca � Pesca Local e Costeira 
+00000621 | Geralda Liliana Motta | Peniche | Outros Operadores de Instala��es de Filtra��o e Separa��o Qu�micas 
+00000622 | Valesca Valim | Palmela | Polidor (Operador de M�quina de Polir) � Aglomerados de Cimento 
+00000623 | Reinaldo Sandro Furquim Corvelo | Figueira Da Foz | Serralheiro de Chaves e Fechaduras 
+00000624 | Muriel Ros�ria Seabra | Vila Franca Do Campo | Contactologista 
+00000625 | Adelmiro Lilian Vianna | Moura | Tirador de Corti�a 
+00000626 | David C�ssio Afonso Barrocas | Alf�ndega Da F� | Director e Gerente de Telecomunica��es 
+00000627 | Florinda Festas | Sobral De Monte Agra�o | Auxiliar de Apoio Administrativo 
+00000628 | Raimundo Pic�o | Ansi�o | Instrutor de Condu��o de Ve�culos Autom�veis 
+00000629 | Dores Elizabeth Laranjeira Resende | Alpiar�a | Abridor � Amaciador de Juta e L� 
+00000630 | Olivier Ferdinanda Ornellas Raposo | Marco De Canaveses | Outros Directores de Constru��o Civil e Obras P�blicas 
+00000631 | Joviano Manuel Vasconcelos Magalh�es | Peso Da R�gua | Preparador de Sopas e Caldos 
+00000632 | Hern�ni Helena �lvares | Penedono | Produtor de Televis�o 
+00000633 | At�lio Neli Taborda | Nordeste | Operador de Instala��o Autom�tica do Fabrico de F�sforos 
+00000634 | Florbela Pinho | Castelo Branco | F�sico � Especialista em Mat�ria Condensada 
+00000635 | Nicia Urbano Capistrano | Seixal | Operador de Misturador � Leite 
+00000636 | Tadeu Resende | Porto Santo | T�cnico � Administra��o P�blica 
+00000637 | Ema Elaine Os�rio | Mur�a | Operador de M�quina de Facear 
+00000638 | Maristela Vilar | Torres Vedras | Operador de Instala��o Autom�tica de Pintar e Espelhar � Vidro e Cer�mica 
+00000639 | Odete Osvaldo Naves Cavalheiro | Vila Verde | Outros Trabalhadores da Constru��o Civil e Obras P�blicas-Bet�o Armado 
+00000640 | Caio Belisa Torrado Quintais | Moura | Pintores da Constru��o Civil e Colocadores de Revestimentos 
+00000641 | Geraldino Cal�ada | Vila Real De Santo Ant�nio | Caricaturista 
+00000642 | Marisol Correia | �vora | T�cnico de Contas (Guarda-Livros) 
+00000643 | Cec�lia Ifig�nia Batata Marroquim | Albergaria-A-Velha | M�dico Radiologista 
+00000644 | Naz�rio Ediberto Parracho | Vouzela | T�cnico das Ci�ncias Biol�gicas 
+00000645 | Adelino Anderson Parente | Arraiolos | Sarilheiro 
+00000646 | V�gner Deolinda Vides Lessa | Porto | Operador de P�rtico Rolante 
+00000647 | Nicia Delfim Penteado | Pinhel | Encarregado � Moagem de Cereais 
+00000648 | Rog�rio Simas | Esposende | Conservador do Registo Autom�vel 
+00000649 | Alba Varanda | Elvas | Condutor de M�quina de Escava��o 
+00000650 | Ramom Kevin Pinto Carneiro | Oeiras | Fiscal de Portagem 
+00000651 | Amanda Penteado | Vila Nova De Paiva | Operador de M�quinas � Ferramentas de Comando Num�rico 
+00000652 | �ndia Jorge Tom� | Vouzela | Tecel�o � Tecidos e Produtos Similares
+00000653 | El�i Lauro Leme Mansilha | Rio Maior |  
+00000654 | Orlando Barros | Const�ncia | Arquivistas, Bibliotec�rios, Documentalistas e Profiss�es Similares 
+00000655 | Orlanda Ada Portela Pe�anha | Tondela | Enformador de Cones de Feltro de L� (Cardador de Feltro) � Chapelaria 
+00000656 | Telma Adalgisa Paranhos Leit�o | Sesimbra | Electromec�nico de Electrodom�sticos 
+00000657 | Ac�cia Dantas | Ponte Da Barca | Pessoal Administrativo e Similares 
+00000658 | Florival Fausto Patr�cio | Guimar�es | Decorador de Interiores 
+00000659 | Eut�mio Calebe Fidalgo Figueiroa | Penela | Conservador do Registo Comercial 
+00000660 | Geraldino Vilas Boas | Alvito | Outros T�cnicos Sanit�rios e Trabalhadores Similares 
+00000661 | Reinaldo Nadina Rabello Barbalho | Almada | Atarraxador Mec�nico � Trabalho em S�rie dos Metais 
+00000662 | C�ndida Elsa Raminhos | Alter Do Ch�o | Caldeireiro da Prata (Oficial de Martelo) 
+00000663 | Glena Argeu Ramires Junqueira | Aguiar Da Beira | Director Geral 
+00000664 | Ladislau Violante Cordeiro | Sabrosa | Forjador Mec�nico (Operador de Prensa de Forjar) 
+00000665 | Belisa Asdr�bal Cipriano Sardinha | Figueira De Castelo Rodrigo | Outros T�cnicos de Contabilidade e Trabalhadores Similares 
+00000666 | Larissa Caires | Penamacor | Operador de M�quina de Enchimento de Aeros�is 
+00000667 | Vanessa Ediberto Moita Rios | Sert� | Encarregado � Fia��o, Tor��o e Bobinagem 
+00000668 | Am�vel Glaucia Bri�o | Sardoal | T�cnico de Recursos Humanos 
+00000669 | Leonel Jasmim Assun��o Couto | Borba | Bilheteiro 
+00000670 | Raimundo Isolina Peres  Cardim | Santo Tirso | Operador de Imagem 
+00000671 | Josefa Mart�nez | Portalegre | Monitor de Gimno e Desportiva 
+00000672 | Anabela N�ria Melga�o | Murtosa | Operador Radiotelegrafista 
+00000673 | Muriel Aveiro | Penacova | Montador de Constru��es Navais � Estaleiro 
+00000674 | Palmira Ferro | Carregal Do Sal | Director Comercial 
+00000675 | Arlindo Miera | S�o Pedro Do Sul | Bombeiro Mar�timo (Bombeador) 
+00000676 | Aida Lara P�dua Aranha | Mira | Riscador � Sistema Electr�nico � Cartonagem 
+00000677 | Cl�ber F�bia Camarinho Pires | Lagos | Matador de Cria��o 
+00000678 | Val�ria Serralheiro | Vila Real | Advogados, Magistrados e Outros Juristas 
+00000679 | Emanuela Petra Quaresma Dotel | Vinhais | Ensaiador (Escolhedor) 
+00000680 | Nero Sequeira | M�da | Outros Artistas de Circo 
+00000681 | Pl�cida Barrocas | Fund�o | Int�rprete 
+00000682 | Durval M�rio Madruga | Cuba | Dramaturgista 
+00000683 | Arlindo Frias | Velas | Despenseiro � Ind�stria Hoteleira 
+00000684 | Ferdinando Lena Nor�es C�mara | Vinhais | Operadores de Equipamento de Emiss�es de R�dio, TV e Telecomunica��es 
+00000685 | Antonieta Leila Bou�as | Serpa | Advogados e Consultores Jur�dicos 
+00000686 | Dinarte Gilberto Garcia Vila�a | Boticas | Trabalhador do Fabrico de Instrumentos Musicais de Percuss�o 
+00000687 | Amador Solange Noronha | Proen�a-A-Nova | Impressor Ser�grafo 
+00000688 | Ludovico Vargas | Oliveira Do Hospital | Outros M�dicos 
+00000689 | Valesca Veleda | Lajes Das Flores | Gazeador 
+00000690 | Telmo Martim Iglesias Calheiros | Caldas Da Rainha | Director de Escola 
+00000691 | Gisela Alencastre | S�o Jo�o Da Madeira | Engenheiro de Minas � Min�rios N�o Met�licos 
+00000692 | Branca Pereira | Mora | Operador de Bolsa 
+00000693 | Luciana Neli Melo Rodovalho | Const�ncia | Outros T�cnicos de Electr�nica e Telecomunica��es 
+00000694 | Silvestre Vilmar Cordeiro | Vila Nova Da Barquinha | Director e Gerente de Empresa de Media��o e Servi�os 
+00000695 | Felismina Abra�o Torres | Cadaval | Operador de M�quina Autom�tica de Fabrico de Ampolas � Vidro 
+00000696 | Camila Natacha Porto | Fronteira | Arquivistas e Conservadores de Museus 
+00000697 | Fl�r Branca Caparica Bento | Madalena | Outros Trabalhadores N�o Qualificados das Minas 
+00000698 | Carlos Faia | Bragan�a | Operador de M�quina de Canelar 
+00000699 | Cassandra Paloma Outeiro | Ponte De Lima | Operador de Ilumina��o � Cinema e Televis�o 
+00000700 | L�via Florival Xavier | Cuba | Veterin�rio 
+00000701 | Violeta Perceu Oliveira Letras | Portim�o | Gravador com Roda � Vidro 
+00000702 | Alzira Rudolfo Vilarinho Guilheiro | Alenquer | Operador de M�quinas de Fabricar Embalagens � Cart�o Canelado 
+00000703 | C�sar Monjardim | Elvas | Operador de Instala��o de Acabamentos � Redes de Pesca 
+00000704 | Luisa Costa | Vila Nova De Foz C�a | Forneiro de Panifica��o 
+00000705 | Manuela R�ben Alancastro | Povoa��o | Controlador-Marcador � Salas de Jogos 
+00000706 | Alba Aur�lio Mendo�a | Castro Verde | Metalizador de Vidro de �ptica 
+00000707 | Adelaide Pinho | Mirandela | Bombeador 
+00000708 | Armando Esp�rito Santo | Fornos De Algodres | Costureira, Trabalho em S�rie 
+00000709 | Albina Viviana Ourique | Vila Flor | Escritur�rio � Institui��es Financeiras 
+00000710 | Dina Dinarte Macena Valgueiro | Lisboa | Quebrador 
+00000711 | Donaldo Renata Bettencourt | Amarante | Misturador de Algod�o 
+00000712 | Ivan Marlene Uchoa Saraiva | Santa Cruz | Outros Electricistas da Constru��o Civil e Trabalhadores Similares 
+00000713 | Marina Cl�udia Cabral Saraiva | Monchique | Ocean�grafos 
+00000714 | Ariana Mariete Seabra | Alpiar�a | Correspondente em L�nguas Estrangeiras 
+00000715 | Camilo Esa� Vilarinho Tigre | Torre De Moncorvo | Operador de Tratamento T�rmico de Metais 
+00000716 | Estrela Duarte Saloio | Mafra | Torneiro � Fibrocimento 
+00000717 | Guida Guilherme Beltr�o Lameira | Coruche | Directores de Empresas de Servi�os Pessoais, Limpeza e Similares 
+00000718 | Ramom Kelly Boaventura | Cinf�es | Operador de Triturador 
+00000719 | Ac�rcio Leoc�dio P�cego Natal | Silves | Montadores de Aparelhagem El�ctrica e Electr�nica 
+00000720 | Raimundo Rico | Macedo De Cavaleiros | Outros Cantoneiros de Limpeza e Trabalhadores Similares 
+00000721 | Joaquim Virgolino Hip�lito | Melga�o | Operadores de Equipamento de Emiss�es de R�dio, TV e Telecomunica��es 
+00000722 | Anacleto Bairros | Viana Do Castelo | Faroleiro 
+00000723 | B�rbara Castelo Branco | Caminha | Montadores de Artigos em Metal, Borracha e Materiais Pl�sticos 
+00000724 | Marisol Azenha | Praia Da Vit�ria | Operador de M�quina de Descasque de Cacau 
+00000725 | Cibelli Vila-Ch� | Sabugal | Core�grafos e Bailarinos 
+00000726 | Joaquim Villalobos | Figueira De Castelo Rodrigo | Condutor de Empilhador 
+00000727 | Leonel Muniz | Arraiolos | Enfermeiro � Especialista em Sa�de P�blica
+00000728 | Leda Jonas Mangueira Vilari�a | Calheta | Agricultores e Trabalhadores Qualificados da Agricultura, Cria��o de Animais e Pescas 
+00000729 | Luisa Priscila G�is | Viana Do Alentejo | Fot�grafo 
+00000730 | Silvino Arantes | Sintra | Director de Servi�os � Administra��o P�blica 
+00000731 | Val�rio Liana Clementino Mora | Figueir� Dos Vinhos | Veterin�rio 
+00000732 | Ma�sa Cibelli Cust�dio | Reguengos De Monsaraz | Encarregado � Operadores de M�quinas para Confec��o 
+00000733 | Herc�lia Wilton Caetano | Olh�o | Estofador de Viaturas 
+00000734 | Vitorino Falc�o | Gr�ndola | Operador de M�quina de Fabricar Latas 
+00000735 | Pedro Carlos Vilarim | Guimar�es | Outros Operadores de M�quinas de Fabrico de Produtos L�cteos 
+00000736 | M�rcio Couto | Manteigas | Operador de M�quina de Lavagem de Grades e Garrafas 
+00000737 | L�lia Passos | Nazar� | Outros T�cnicos Sanit�rios e Trabalhadores Similares 
+00000738 | Hort�nsia Noite | Oliveira Do Bairro | Especialistas da Medicina Tradicional 
+00000739 | Ricarda Garrido | Paredes De Coura | Higienista Oral 
+00000740 | C�lia Celina Sabrosa | Cinf�es | Outros Vendedores por Telefone e ao Domic�lio 
+00000741 | Arm�nio Duarte Fartaria | Portel | Maquinistas de Locomotivas e Trabalhadores Similares 
+00000742 | Calvino Guterres | Penafiel | Agricultor � Horticultura (Horticultor) 
+00000743 | Isabel Luzia Alc�ntara Patr�cio | Vila Nova De Gaia | T�cnico de Telecomunica��es 
+00000744 | Marisol Capitolina Baptista Nunes | Palmela | Operador de M�quina de Embalagem � Produtos L�cteos 
+00000745 | Flora Leoc�dia Caeiro Mexia | Moita | Operador do Fabrico de Lixas Circulares 
+00000746 | Melissa M�rcio Linares Caldas | Vila Franca De Xira | Bilheteiro 
+00000747 | Mafalda Flor�ncio Marino Miranda | Redondo | Pintor por Imers�o � Cer�mica 
+00000748 | Matilde Dana Madureira Mont'Alverne | Nazar� | Operador de Instala��o de Fermenta��o e Tratamento � Cerveja 
+00000749 | Amilcar Clementina Barreiros Ferraz | Mora | Vinagreiro 
+00000750 | Helga Mavilde Nobre | Ferreira Do Z�zere | Operador de Instala��o Autom�tica � Fabrico de Bolachas 
+00000751 | Ivone Lousada | Barreiro | Carregadores de Fogo 
+00000752 | Natacha Diego Ruas | Tarouca | Operador de M�quina Autom�tica de Polir Pedra 
+00000753 | V�nia Raimunda Ferr�o | Estarreja | Encarregado � Moagem de Cereais 
+00000754 | Isolina Daniela Paredes | S�o Br�s De Alportel | Outros Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares 
+00000755 | Marisela Carvalheiro | Montemor-O-Velho | Lavadeira Manual 
+00000756 | Vasco M�rio Marmou Proen�a | Arcos De Valdevez | Dietista 
+00000757 | Fausto Nolasco | Avis | Forjador Mec�nico (Operador de Prensa de Forjar) 
+00000758 | Daniela Ulisses Sarmento | Loures | Electricista de Manuten��o � Produ��o e Distribui��o de Energia 
+00000759 | Aldino Georgina Avelar | Vila Flor | T�cnico Profissional � Administra��o P�blica 
+00000760 | Pascoal Flor�ncia Severiano | Santa Cruz | Operador de M�quina de Polir �cido � Vidro 
+00000761 | Camilo Calebe Barata Palmeira | Madalena | Operador (Electromec�nico) de Turbinas a G�s 
+00000762 | Sandra Naum Villela Taveiros | Lisboa | Ficheiro Fixo (Caixa Fixo, Caixa Privativo) � Casinos 
+00000763 | Fl�vio Evelise Paredes Sant'Anna | Chaves | Outros Montadores e Reparadores de Aparelhagem El�ctrica 
+00000764 | Catarina P�cego | Vila Franca Do Campo | Professor de Educa��o Especial � �rea da Defici�ncia Mental 
+00000765 | Ademir Lameira | Viana Do Castelo | Atletas, Desportistas e Trabalhadores Similares 
+00000766 | Cl�udio Meneses | Lajes Do Pico | Novelador 
+00000767 | N�lson Elda Cachoeira | Vila Nova De Foz C�a | Trabalhadores Agr�colas N�o Qualificados 
+00000768 | �lio Edson Castro | �gueda | Lapidador � Vidro e Cer�mica 
+00000769 | Amanda Negreiros | Torre De Moncorvo | Operador de Digestor e Difusor � Pasta para Papel 
+00000770 | Eug�nio Cort�s | Carregal Do Sal | Ajudante de Motorista � Marinha Mercante 
+00000771 | Amaro Doutel | Caldas Da Rainha | Cardador 
+00000772 | Henrique Joviano Mello Oleiro | Paredes De Coura | Costureira Mec�nica � Encaderna��o 
+00000773 | Celina Quit�ria Villar | Faro | Ficheiro Volante (Maleiro, Caixa Auxiliar Volante) � Casinos 
+00000774 | Pel�gio Virgolina Salguero Regodeiro | Povoa��o | T�cnico de Pecu�ria 
+00000775 | Leda Set�bal | Vila Do Bispo | Tecel�o � Tecidos e Produtos Similares
+00000776 | Ricarda Quental | Montalegre |  
+00000777 | Eus�bio Quintella | Marinha Grande | Operador de M�quina Autom�tica de Polir Pedra 
+00000778 | Am�ndio Ana�sa Vilas Boas Aleixo | Beja | Afinadores, Preparadores e Operadores de Teares (Tecel�es) 
+00000779 | Evandro Ornellas | Vila Nova De Famalic�o | T�cnicos Interm�dios de Qu�mica Industrial 
+00000780 | M�rcia Brenda Pederneiras Batata | Porto | Urdidor Manual 
+00000781 | Constantino Ada Garcia Bel�m | Lous� | Avaliador de Madeira na Mata 
+00000782 | R�ben Ademar Noronha Diniz | Elvas | Bate-Chapas de Ve�culos Autom�veis 
+00000783 | Martim Leandro Simas | Belmonte | M�dico Patologista Cl�nico 
+00000784 | Anabela Wilker Rivero | Montemor-O-Novo | Operador de M�quinas do Fabrico de Artigos � Corti�a e Madeira 
+00000785 | Erm�nia �lvaro Valad�o Portugal | Montemor-O-Velho | Especialistas das Profiss�es Intelectuais e Cient�ficas 
+00000786 | B�rbara Apol�nia Ferro | Vila Do Porto | Director e Gerente de Pens�o ou de Residencial 
+00000787 | Eg�dio Cleusa Frias Laranjeira | Sernancelhe | Maquinista de Malhas (Tecel�o de Malhas) 
+00000788 | R�bia Armindo Domingues | Alvito | Operador � Telegrafista 
+00000789 | N�vea Soeiro | Pa�os De Ferreira | Operador de Som � Cinema, Televis�o e R�dio 
+00000790 | No�mia Jorge Coutinho Angelim | Carrazeda De Ansi�es | Acupunctor � Naturologista 
+00000791 | Estef�nia Domingos | Freixo De Espada � Cinta | Compositor Mec�nico-Linotipista 
+00000792 | Nadina Aline Bencatel Portugal | Alf�ndega Da F� | T�cnicos de Seguran�a A�rea 
+00000793 | Celeste Of�lia Covinha | Sabugal | Mestre de Redes � Pesca do Largo 
+00000794 | Gabriela Nicole Colares Uchoa | Miranda Do Corvo | Santeiro 
+00000795 | Augusta Bas�lio Quinaz Castello | Espinho | Sapateiro, em Geral 
+00000796 | Wilker Igrejas | Lourinh� | Fiel de Armaz�m 
+00000797 | M�rcio Erm�nia Severo | Batalha | Caldeireiro 
+00000798 | Wilian Viviana Pereira | Pedr�g�o Grande | T�cnico de Recursos Humanos 
+00000799 | Flor�ncio Gil | Funchal | Outros Operadores de Ve�culos e Equipamentos de Eleva��o 
+00000800 | Heitor Valentim | Montemor-O-Novo | Vigilante de Crian�as 
+00000801 | Vanessa Melanie Esparteiro | Sardoal | Operador de Sistema de Refrigera��o 
+00000802 | Sabino Eust�cia Carvalhosa | Pedr�g�o Grande | Operador de Banda de Sinteriza��o 
+00000803 | Aldino Alexandre Barcelos | Marv�o | Outros Condutores de Ve�culos de Trac��o Animal 
+00000804 | Alexandre Gon�alo Camarinho Aveiro | Vila Verde | Modelista � Vestu�rio 
+00000805 | Priscilo Graziela Furquim Alves | Tarouca | Outros Gravadores e Fotogravadores de Artes Gr�ficas 
+00000806 | Quit�ria Nunes | �gueda | Planeador de Meios � Publicidade 
+00000807 | Raimundo Macena | Vimioso | Agricultor � Horticultura (Horticultor) 
+00000808 | Leonel Tabita Sacadura | Marinha Grande | Marceneiro 
+00000809 | Elza Pederneiras | Penela | Outros Representantes Comerciais e T�cnicos de Vendas 
+00000810 | Caetano Graziela Magalh�es Fortunato | Porto Santo | Restaurador (T�cnico de Restauro e Conserva��o) 
+00000811 | Avelino Matta | Gondomar | Enformador de Pe�as de Malha 
+00000812 | Ces�ria Feitosa | Barreiro | Despenseiro � Ind�stria Hoteleira 
+00000813 | D�cio Elias Narvais | Praia Da Vit�ria | Pintor � Decorador � Pistola � Vidro e Cer�mica 
+00000814 | Vilela Thays/Ta�s Bentes | Penacova | Desenhador Cart�grafo 
+00000815 | Edna Leoc�dia Pegado | T�bua | Operador de Esta��o Elevat�ria � �gua e Esgotos 
+00000816 | M�rcio Castel-Branco | Condeixa-A-Nova | Pe�o de Brega 
+00000817 | Cristiana Alana Salt�o | Torres Vedras | Gravador com Pant�grafo (Pantogravador) 
+00000818 | Ol�via Gide�o Ferraz | Manteigas | Condutor 
+00000819 | Clodoaldo Elen Beiriz | Vila Nova De Paiva | Operador de Serragem � Chapa de Pedra 
+00000820 | Emanuela Arminda Sobral Gir�o | Ponte Da Barca | Sapateiro � Cal�ado Ortop�dico 
+00000821 | Virgolino Cavadas | Alandroal | Enceradores e Trabalhadores Similares da Constru��o Civil 
+00000822 | Mar�lia Clementina Varella | Santa Comba D�o | Torrador de Cacau 
+00000823 | Naum Edmundo Lampreia Pestana  | Almeirim | Fiscal Municipal 
+00000824 | Ma�sa Cleide Galante Carlos | Vouzela | Montador de Refract�rios (Assentador de Refract�rios) 
+00000825 | Nair L�io | Ourique | Modelador � Malas e Marroquinaria 
+00000826 | Adolfo Mangueira | Beja | Aparador 
+00000827 | Abra�o Irma Rebelo Pinto | Ponte Da Barca | Operadores de M�quinas para Trabalhar Madeira e Corti�a 
+00000828 | Adalberto Valdo Mayor | Valpa�os | Vendedor de Quiosque 
+00000829 | Geraldino Prates | Porto De M�s | Engenheiro T�cnico de Inform�tica 
+00000830 | Denise Barateiro | Odemira | T�cnicos de Turismo 
+00000831 | Martinho Al�cia Gaspar Amado | Arouca | Gravador de Metais N�o Preciosos 
+00000832 | Anabela Deolinda Coronel Cabral | Monchique | Assentador de Revestimentos 
+00000833 | Of�lia Luis Godinho Pessanha | Sintra | Outros Oficiais de Pilotagem 
+00000834 | Morgana Natividade Bicalho | Fund�o | Revisor Oficial de Contas 
+00000835 | Edmar Brandon Secadura | Cartaxo | Virador de Malha Tubular 
+00000836 | Isa No�mia Barra Belchior | Ponte De Lima | Operador de M�quina de Moer Cacau 
+00000837 | Djalma Fl�r Martins | Santa Comba D�o | Encarregado � Montadores de Estruturas Met�licas e Trabalhadores Similares 
+00000838 | Regina C�ssio Rebotim | Chaves | Outros Mergulhadores 
+00000839 | Marco Neli Pederneiras | Mealhada | Int�rprete de L�ngua Gestual 
+00000840 | Celestina Guedelha | Vila Nova De Famalic�o | Engenheiro Mec�nico � Concep��o 
+00000841 | Deolinda Hugo Sousa do Prado Velasco | Oleiros | Montador de Chapas � Fibrocimento 
+00000842 | Rosinha Daniel Holanda Castilho | Penedono | Guarda Florestal 
+00000843 | Ab�lio Ivone Neiva | Valongo | Outros Produtores de Aves 
+00000844 | Alba Jonas Ferreira Festas | Mogadouro | Forneiros, Fundidores e Trabalhadores Similares de Vidro e Cer�mica 
+00000845 | Micaela Nair Ribas | Ponte De Sor | Outros Directores do Com�rcio Grossista e Retalhista 
+00000846 | Virg�lio Dina Br�s Afonso | Fornos De Algodres | Engenheiro T�cnico Civil � Arquitectura e Urbanismo 
+00000847 | Vital Pimentel | Castro Daire | Director e Gerente de Empresa de Media��o e Servi�os 
+00000848 | Antenor Fausto Malta Lago | Vendas Novas | Encarregado � Montadores de Estruturas Met�licas e Trabalhadores Similares 
+00000849 | Albertina Virgolina Salt�o | Odemira | Engenheiros de Minas, Metal�rgicos e Engenheiros T�cnicos de Minas e Similares 
+00000850 | Diva Estrada | Porto Moniz | Maquinista de Po�o de Extrac��o 
+00000851 | Ricardo Robalinho | Mealhada | Ec�nomo 
+00000852 | Serafim Boeira | Guarda | Desbastador de Diamantes 
+00000853 | Natacha Quintana | Sabugal | Agente de M�todos 
+00000854 | Etelvina Teles | Alcoba�a | Chefe de Banda 
+00000855 | Adauto Barnab� Benevides Foga�a | �bidos | Outros Lapidadores e Gravadores de Vidro e Cer�mica 
+00000856 | Assun��o F�bio Gabeira | Vila Real | Outros Vendedores por Telefone e ao Domic�lio 
+00000857 | Oct�vio Rosana Carneiro Borba | Porto | Operador de Amplifica��o de Som 
+00000858 | Renata Fortunato | Torres Novas | Operador de M�quina de Empacotar 
+00000859 | Margarida Dora Seixas Carqueijeiro | Mirandela | Magistrado do Minist�rio P�blico 
+00000860 | Nicolas Luciana Mantas Alvarenga | Sabugal | Operador de Instala��o de Fabrico de Placas Acr�licas 
+00000861 | Armanda Ramalho | Oleiros | Inspector � Minist�rio da Agricultura 
+00000862 | Flora Of�lia Torcuato | Gr�ndola | Montadores de Artigos em Metal, Borracha e Materiais Pl�sticos 
+00000863 | �rica No�mia Parente Carmona | Oliveira Do Hospital | Ferrador 
+00000864 | Tadeu Vila-Ch� | Santiago Do Cac�m | Operador de Instala��o de Torrefac��o de Cacau (Torrador de Cacau) 
+00000865 | Greta Celina Bai�o Lampreia | Lisboa | Ladrilhador (Azulejador) 
+00000866 | Katia Jonata Bulh�es | Portalegre | Pagador � Casinos 
+00000867 | Adosindo Vaz | Condeixa-A-Nova | Operador de Instala��o Autom�tica de Fabrico de Chapa � Fibrocimento 
+00000868 | Lic�nio Quintais | Caldas Da Rainha | Operador de Centr�fuga � A��car 
+00000869 | Dami�o Cassilda Gra�a Paredes | Montemor-O-Novo | Operador de M�quina de Manipular � Mat�rias Pl�sticas 
+00000870 | Diva Cinira Velasques Rolim | Barcelos | Outros Directores de Restaura��o e Hotelaria 
+00000871 | Clemente Festas | Tarouca | Encarregado � Fabrico de Produtos L�cteos 
+00000872 | Carlota Gilda Frias Varella | Espinho | T�cnico de An�lises Cl�nicas e de Sa�de P�blica 
+00000873 | Hilton Paloma Rodr�guez Gameiro | Proen�a-A-Nova | Filigranista 
+00000874 | Mariana Nicolau Mexia | Castelo De Paiva | Encarregado � Fia��o, Tor��o e Bobinagem 
+00000875 | Valentino Silv�ria Gra�a Casado | Odivelas | Carregador de Fogo 
+00000876 | Lourdes Milheir�o | Paredes | Operador de M�quina de Betumar � Aglomerados de Cimento 
+00000877 | Carolina Silvestre | Aveiro | Carregadores e Descarregadores de Mercadorias 
+00000878 | Jos� Dinorah Lara Meneses | Vila Verde | Guarda Fiscal 
+00000879 | Bruno Areosa | Marco De Canaveses | Manequins e Outros Modelos 
+00000880 | Ferdinando Padilha | Pinhel | M�dico Cirurgi�o � Cirurgia Vascular 
+00000881 | Magali Pessoa | Ribeira Brava | Dobrador Manual � Encaderna��o 
+00000882 | Sheila Marco Varanda | Arraiolos | Auxiliar de Apoio Administrativo 
+00000883 | Firmina Anast�cia Aires | Sines | Mec�nico � Reparador de Aparelhos e Antenas de R�dio e TV 
+00000884 | Joyce Aur�lia Mondrag�o Madruga | S�o Roque Do Pico | Maquinista de Tecelagem (Agulhador) de Feltro 
+00000885 | Dalva Quit�ria Mora | Loul� | Impressor � Prensa de Contacto 
+00000886 | Evaldo Salt�o | Lousada | Operador de Instala��o de Fabrico � Leite em P� 
+00000887 | Lisandra Eurico Chousa Espargosa | �bidos | Operador de M�quina de Moldar � Mat�rias Pl�sticas 
+00000888 | Flaviano Medina | Ferreira Do Alentejo | Transformadora e dos Transportes 
+00000889 | Carla Danilo Meirelles | Terras De Bouro | Directores e Gerentes de Empresas de Media��o e Presta��o de Servi�os 
+00000890 | �rica D�cio Valentim Noite | Abrantes | Especialistas de Profiss�es Administrativas e Comerciais 
+00000891 | N�ria Ribas | Santa Cruz Da Graciosa | Guarda de Vesti�rio 
+00000892 | Andreia �lio Zagalo Varela | Rio Maior | Desinfectador (Agente Sanit�rio) 
+00000893 | Ant�nio Carlota Madruga | Vieira Do Minho | Operador de Betoneira 
+00000894 | Estev�o Alessandra Paulos Passos | Marco De Canaveses | Caixeiro 
+00000895 | Filomena Pamela Faustino | Penacova | Corretores de Bolsa, Cambistas e de Outros Servi�os Financeiros 
+00000896 | C�ssia Fabiana Furquim Avelar | Vouzela | Assedador de Fibras 
+00000897 | Val�ria Of�lia Mora Eanes | Arouca | Outros Pintores de Constru��o Civil e Colocadores de Revestimentos 
+00000898 | Lauro Laurinda Queir�s | Povoa��o | Piloto de Barra 
+00000899 | Carla Jardim | Oliveira Do Hospital | Artistas de Circo 
+00000900 | Leonel Chaves | Guimar�es | Empregado de Ag�ncia Funer�ria 
+00000901 | Sueli Carol Chagas Galindo | Gondomar | Operadores de Ve�culos e Equipamentos de Eleva��o 
+00000902 | Rebeca Meireles | Figueira De Castelo Rodrigo | Directores de Empresas 
+00000903 | Joviano Estef�nia Sotomayor Zarco | Torres Novas | Encarregado � Pintores e Decoradores de Vidro, Cer�mica e Similares 
+00000904 | Pl�cida Manso | Penamacor | Outros Operadores de Inform�tica 
+00000905 | Aline Mira Cardoso | S�o Roque Do Pico | Vaporizador de Meias 
+00000906 | Eliana Rolim | Oeiras | Operador de Instala��o de Pintura � Peles 
+00000907 | Daniela Damiana Rabelo Mattozo | Soure | Trefiladores e Estiradores 
+00000908 | Eduardo Donato Muniz | Almada | Mestres, Marinheiros e Trabalhadores Similares 
+00000909 | Josu� Kirina Holanda Trindade | Vila Nova De Cerveira | Vendedor de Mercado 
+00000910 | Vanderley Regina Rosmaninho Varej�o | Arcos De Valdevez | Oficial de Tr�fego � Transportes A�reos 
+00000911 | Nat�lio Figueiredo | Manteigas | Directores e Gerentes de Restaura��o e Hotelaria 
+00000912 | Arm�nio Valentim Taveiros | Porto Moniz | Operador de Misturadora � Pudins e Fermentos 
+00000913 | Armindo Neide Cavalheiro Terra | Camara De Lobos | Outros Trabalhadores da Pesca � Pesca Local e Costeira 
+00000914 | Faustina Erc�lia Ferr�o Mesquita | Macedo De Cavaleiros | Cardador de Feltro 
+00000915 | Angelina Villaverde | Ponte De Lima | Outros Trabalhadores N�o Qualificados da Ind�stria Transformadora 
+00000916 | Ingrid Balsem�o | Estarreja | M�dico Cirurgi�o � Cirurgia Vascular 
+00000917 | Querubim T�mara Lampreia | Bai�o | Outros Mergulhadores 
+00000918 | Paulina Fausto Serralheiro | Felgueiras | Outros Manobradores de Esta��o e Trabalhadores Similares 
+00000919 | Valentino Nicolas Quadros | Mort�gua | Rebarbador Mec�nico 
+00000920 | Arminda Golias Frota Mont'Alverne | Freixo De Espada � Cinta | Servente � Constru��o Civil e Obras P�blicas 
+00000921 | Aur�lio R�mulo Pereira | Aveiro | Carpinteiro de Moldes
+00000922 | Nina Matilde Pereira Forte | Loures | Medidor 
+00000923 | Donato Keil | Torres Novas | Fresador � Trabalho em S�rie dos Metais 
+00000924 | N�ria Assunta Rolim Sobral | Torre De Moncorvo | Marinheiro � Marinha Mercante 
+00000925 | F�bia Juvelina Rebotim | Redondo | Floricultores, Horticultores e Viveiristas 
+00000926 | Adelino Bel�m | Abrantes | Operador de Serragem � Chapa de Pedra 
+00000927 | Antonieta Caeiro | Santa Marta De Penagui�o | Montador de "Pr�-Esfor�ados"� Bet�o 
+00000928 | Ol�mpia D�lia Terra Marques | Soure | Operador de M�quinas � Ferramentas de Comando Num�rico 
+00000929 | Orlanda Carlos Lameiras Cerqueira | Cinf�es | Copeiro 
+00000930 | Alma Lucinda Foga�a | Castro Verde | Professor de Educa��o Especial � �rea da Defici�ncia Visual 
+00000931 | Antonieta Coronel | Arouca | Guias-Int�rpretes e Trabalhadores Similares 
+00000932 | Dayse Argeu Salom�o | Albufeira | Encarregado � Fabrico de Produtos L�cteos 
+00000933 | Estef�nia Cosme Lara | Reguengos De Monsaraz | Mediador Oficial 
+00000934 | Lia Valgueiro | Lamego | Outros Estaticistas 
+00000935 | Regina Peres  | Castro Verde | Outros Operadores de M�quinas de Fiar, Torcer e Bobinar 
+00000936 | Nicolau Kelvin Canh�o Passos | Santiago Do Cac�m | Engenheiro T�cnico Civil � Estruturas 
+00000937 | Lia Luisa Caldas | S�o Jo�o Da Pesqueira | Operadores de M�quinas de Fabrico de Produtos L�cteos 
+00000938 | Dirce F�bia Torcuato Barroqueiro | Braga | Operador de Digestor e Difusor � Pasta para Papel 
+00000939 | Osmar Luana Ram�rez Braz | Macedo De Cavaleiros | Fotocopista 
+00000940 | Leonel Belmiro Parente Esteves | Santa Comba D�o | Massagista 
+00000941 | Katia Ver�ssimo | Vimioso | Compositor Musical 
+00000942 | Valdo Toledo | Ribeira De Pena | Instrutor de Voo 
+00000943 | �nio Clarissa Hernandes | Nordeste | Ferreiro 
+00000944 | Berenice H�rcules Gomes | Porto Moniz | Afinador-Reparador de Pianos 
+00000945 | Gilberta Narciso Cotrim | Cantanhede | Outros Pedreiros e Calceteiros 
+00000946 | N�ria Villena | Cartaxo | Educador Social 
+00000947 | Serafim Braz | Beja | Tecel�o Manual 
+00000948 | D�nia V�gner Cirne | Boticas | Trabalhadores Florestais 
+00000949 | Serena Gaspar Fontoura Bentes | Praia Da Vit�ria | Outros Carpinteiros 
+00000950 | Veloso Monforte | P�voa De Varzim | Operador de M�quina de Cortar Bast�es (Cortador de Bast�es) 
+00000951 | Leoc�dia Martina Mour�o Melga�o | Arouca | Operador de Quadro 
+00000952 | Irene Sampaio | Vila Franca De Xira | Penhoristas e Trabalhadores Similares 
+00000953 | Orlanda Rua | Lajes Do Pico | Outros Carpinteiros 
+00000954 | Ademar Pegado | Mafra | Escritur�rio, em Geral 
+00000955 | Raimunda Rita Malheiros | Lisboa | Reparador de Instrumentos Musicais de Sopro em Metal 
+00000956 | Wagner Valter Pamplona | Ponte De Sor | Operador de Saca-Bocados 
+00000957 | S�nia Noemi Zagalo Ferr�o | Caldas Da Rainha | Engenheiro Electrot�cnico � Sistemas de Energia 
+00000958 | Nancy Pic�o | Albufeira | Outros Analistas de Sistemas e Outros Especialistas de Inform�tica 
+00000959 | Clementina Geraldo Rocha Cardim | Chamusca | Reparador de Instrumentos Musicais de Sopro em Metal 
+00000960 | X�nia Catarina Azambuja Branco | Chaves | Operador de Cabine de Comando do Convertidor 
+00000961 | Etelvina Ania Matos Fernandes | Mour�o | Operador de Secador � Madeira 
+00000962 | T�mara Trist�o Bragan�a | Paredes | Tratador de Animais � Investiga��o Experimental e Biol�gica 
+00000963 | Herodes Leandro Homem Abreu | Povoa��o | Fil�logos, Tradutores e Int�rpretes 
+00000964 | Celso Herm�nia Hip�lito | Vila Nova De Gaia | Encarregado de Armaz�m 
+00000965 | Antero Azambuja | Santa Cruz | Ajudantes Familiares 
+00000966 | Telmo Bruno Lages | Manteigas | Picador de Pentes 
+00000967 | Wilton Abreu | Torres Vedras | Retocador de Fotografias 
+00000968 | Dores Adelino Carvalhoso | Amares | Engenheiro Agro-Industrial 
+00000969 | Capitolina Jos� Lousado Janes | Trancoso | Chefe de Banca (Fiscal de Banca) � Casinos 
+00000970 | Tiago Boeira | Cartaxo | Portageiro 
+00000971 | Ania N�ria Lous� | Seia | Outros Codificadores, Revisores de Provas e Similares 
+00000972 | Trist�o At�lio Noronha | Carregal Do Sal | Operador de M�quina de Gravar Cilindros � Gofragem e Impress�o 
+00000973 | Vidigal Cartaxo | Vila Do Porto | Enceradores e Trabalhadores Similares da Constru��o Civil 
+00000974 | Guilhermina Moreira | Trancoso | Oficial Radiot�cnico � Navega��o Mar�tima 
+00000975 | Urbino Raquel Mort�gua Belmonte | P�voa De Varzim | Polidor (Operador de M�quina de Polir) � Aglomerados de Cimento 
+00000976 | Ces�rio Cust�dia Gaspar Borges | Vila Nova De Famalic�o | Directores de Compras e Distribui��o 
+00000977 | Olavo Rego | Bragan�a | Outros T�cnicos de �Robots� Industriais 
+00000978 | Fabiano Gaspar Banha | Palmela | Serventes da Constru��o Civil e Obras P�blicas, Porta Miras e Trabalhadores Similares 
+00000979 | Florival Elvis Lessa Seabra | Torres Novas | Outros Matem�ticos e Especialistas Similares 
+00000980 | Rafael Bezerra | Vouzela | Vendedores de Quiosque e de Mercados 
+00000981 | Dinis Guerra | Torre De Moncorvo | T�cnico � Administra��o P�blica 
+00000982 | �ngelo Mariana Goes | Redondo | Manipulador (Bordador) de Teias 
+00000983 | Hildegarda Natacha Valentim | Penacova | Agricultores � Produ��o de Cereais e Vegetais 
+00000984 | Ladislau Rolim | �vora | Operador de Instala��o Autom�tica de Pintar e Espelhar � Vidro e Cer�mica 
+00000985 | Elda Keila Damasceno Lamego | Alcoutim | M�dico Cirurgi�o � Cirurgia Cardiotor�xica 
+00000986 | Afonso Isis Cisneiros | Valen�a | Confeccionador de Artigos por Imers�o em L�tex 
+00000987 | Paulino Caetano | Beja | Afinador de Chap�us de Feltro 
+00000988 | Gabriel Alexandrina Alancastre | Penela | Trabalhadores Florestais e Similares 
+00000989 | Orlanda Cartaxo | Sousel | Planificador de Lapida��o 
+00000990 | Mira Joaquina Pedrozo Pasos | Cascais | Artes�os de Madeira, Tecido, Couro e Materiais Similares 
+00000991 | Salom�o Marisol Vianna | Lous� | Abridor de Palhetos � Peles 
+00000992 | Rodrigo Maura Tom� Marino | Montalegre | Empregados do Planeamento e Apoio � Produ��o 
+00000993 | Leda Silvestre | Mondim De Basto | Operador de M�quinas-Ferramentas, em Geral � Trabalho em S�rie dos Metais 
+00000994 | Nivalda Tasha Cort�s Neves | Carregal Do Sal | Operador de M�quina de Triturar Madeira 
+00000995 | Eust�cia Morgado | Sert� | Outros Ensaiadores e Outros Trabalhadores Similares 
+00000996 | Ladislau Neusa Sobreira | Ovar | F�sico � Especialista em Mat�ria Condensada 
+00000997 | Marieta Miguel Marques | Cadaval | Operador de M�quina de Tratar P�lo � Tecidos e Alcatifas 
+00000998 | Sofia Aldeia | Penela | Operador de Encoladeira � Cart�o Micro-Canelado 
+00000999 | Capitolino M�rcia Martinho Mort�gua | Cascais | Outros Enceradores e Trabalhadores Similares da Constru��o Civil 
+00001000 | Nancy Regalado | Oliveira Do Hospital | Outros Montadores e Reparadores de Linhas El�ctricas 
+00001001 | Nabal Belmiro Trist�o Bandeira | Alij� | Cardador 
+00001002 | Jos�lia Al�rio Franca | Penacova | Montador de Blindagem de Querena 
+00001003 | Ramom D�lio Motta | P�voa De Lanhoso | Outros Directores e Gerentes de Empresas de Media��o e Presta��o de Servi�os 
+00001004 | Susana Calebe F�lix Lucena | Vila Nova De Famalic�o | Operadores de Instala��es de Prepara��o de Min�rio e Rocha 
+00001005 | Rita Ciro Marques | Redondo | Operador de Sala de Fabrico de Mosto � Cerveja 
+00001006 | J�lio Cl�ber Quintal | Carregal Do Sal | Cavaleiro Taurom�quico 
+00001007 | Ezequias Esa� Pacheco | Porto Moniz | Forneiro � Fundidor de Fornos de Segunda Fus�o 
+00001008 | Belarmina Ap�lo Ulhoa | Sever Do Vouga | Operador de Carregamento do Alto-Forno 
+00001009 | Lissa Nero Pic�o Fidalgo | Chamusca | Electromec�nico de Refrigera��o e Climatiza��o (Electromec�nico de Frio) 
+00001010 | Gaspar Valesca Granjeiro | �gueda | Arboricultores � �rvores e Arbustos 
+00001011 | Corn�lia Valesca Alcoforado | Penalva Do Castelo | Cobrador de Bilhetes 
+00001012 | Aquiles Salvado | Ribeira De Pena | Operador de M�quina de Colar Peles � Malas e Marroquinaria 
+00001013 | Alda Cinara Estrela Set�bal | Vila Franca De Xira | Oficiais de Pilotagem 
+00001014 | Bianca Monsanto | Ferreira Do Alentejo | Operador de Instala��o Autom�tica de Pintar 
+00001015 | Catarina Clementino | Odemira | Operador de M�quina de Tratamento � Artigos de Corti�a 
+00001016 | Telmo Shirley Fragoso Britto | Amadora | Acabador 
+00001017 | C�ssio Reginaldo Milheiro Homem | Palmela | Brochador Mec�nico 
+00001018 | An�bal Sebasti�o Marinho | Bai�o | Outros Operadores de M�quinas para Trabalhar Madeira e Corti�a 
+00001019 | Martinho Jesus | �lhavo | Laminador-Prensador � Mat�rias Pl�sticas 
+00001020 | Ingrid Ribeiro | Arouca | Operador de Instala��o Autom�tica de Fabrico de Tubos � Fibrocimento 
+00001021 | Ol�mpia Roberto Boeira | Vila Verde | Montador de Quadros � Serigrafia 
+00001022 | Berenice Consuela Barra | Ansi�o | Encarregado � Mat�rias Pl�sticas 
+00001023 | Brandon Arm�nio Abranches | Mangualde | Vibradorista � Constru��o Civil 
+00001024 | Erico Al�rio Rezende | Ribeira De Pena | Amaciador (Quebrador) de Tecidos 
+00001025 | Ces�rio Milene R�os Proen�a | Santa Cruz Das Flores | Montadores de Cabos 
+00001026 | C�tia Luciano Guimar�es Soares | Borba | Arquitectos, Engenheiros e Especialistas Similares 
+00001027 | Constantino Lissa Magalh�es Sotomayor | Montemor-O-Novo | Electricista-Montador de Instala��es de Alta Tens�o 
+00001028 | Elda Celeste Quintela | Silves | Bandarilheiro (Pe�o de Brega) 
+00001029 | Silvestre F�lix | Lamego | Fot�grafo 
+00001030 | Dejanira Francisco Homem Mora | Chamusca | Boletineiro 
+00001031 | Tom�s Du�lha Canejo | Ansi�o | Empregados da Banca de Casinos e Similares 
+00001032 | Ernesto Maximiliano Paix�o | Our�m | Mariscador 
+00001033 | Lis Escobar | Pa�os De Ferreira | Operador de M�quina de Preparar Massa (Preparador de Massa) � Chocolate 
+00001034 | Nicolau Virg�nia Granja Sampaio | Chamusca | Aquacultor 
+00001035 | Felisberto Simone Barbalho | Sardoal | Esmerilador 
+00001036 | Daniela Aida Salazar | Vila Velha De R�d�o | Preparador de Vinhos 
+00001037 | Evelina Teixeira | Vale De Cambra | Caixa de Servi�os Financeiros 
+00001038 | Jussara Thom� | Oleiros | Outros Representantes Comerciais e T�cnicos de Vendas 
+00001039 | Alexander Salles | Vila Do Porto | Chefe de Esta��o � Metropolitano 
+00001040 | Trist�o Berenice Pestana  | Gr�ndola | Enfermeiro 
+00001041 | Ol�mpio Abranches | Oleiros | Operadores de M�quinas de Encaderna��o 
+00001042 | Danilo Mendon�a | Estarreja | Encarregado � Tratamento T�rmico de Metais 
+00001043 | Adri�o Meneses | Mort�gua | Atador de Teias 
+00001044 | Malvina Cort�s | Vidigueira | Enformador � L�minas Termopl�sticas 
+00001045 | Elsa Filipa Brites | Alandroal | Virador de Malha Tubular 
+00001046 | Carmelinda Eduarda Freitas | �lhavo | Guarda, Rondista 
+00001047 | Silvestre Antero Capistrano | Cadaval | Operador de M�quina de Fabricar Cigarros 
+00001048 | Lara Madureira | Aguiar Da Beira | Electromec�nico de Refrigera��o e Climatiza��o (Electromec�nico de Frio) 
+00001049 | M�rcia Carromeu | Santa Cruz Das Flores | Outros Historiadores e Especialistas das Ci�ncias Pol�ticas 
+00001050 | Elza Castilhos | Alij� | Outros Operadores de M�quinas de Encaderna��o 
+00001051 | Marcela Feitosa | Guimar�es | Outros Assistentes de Medicina Dent�ria 
+00001052 | Antero Cabral | Vagos | Operador de Instala��o de Fabrico de Espuma 
+00001053 | La�s In�cio Abasto Quintero | Alcoutim | Guardas dos Servi�os Prisionais 
+00001054 | Alexandra Disa Marroquim | Mira | Professor do Ensino Vocacional Art�stico 
+00001055 | Vilela Adonir� Gon�alves | Vila Vi�osa | M�dico Imunohemoterapeuta 
+00001056 | Ces�ria Nicolas Mour�o Vaz | Mon��o | Analista de Profiss�es 
+00001057 | R�mulo Dam�sio | Aguiar Da Beira | Encarregado � Pasta para Papel 
+00001058 | Guido Mar�lia Pai�o | Montemor-O-Velho | Fiandeiro 
+00001059 | Agostinha Vitorino Covinha | M�da | Operador de M�quina de Entran�ar Tubos � Borracha 
+00001060 | Elton Hil�rio Outeiro Neiva | Montijo | Treinador Desportivo 
+00001061 | Emanuel Hirondina Moreira | Alvito | Branqueador de Produtos T�xteis 
+00001062 | Thays/Ta�s Fortunato | Torres Novas | T�cnicos Interm�dios de Qu�mica Industrial 
+00001063 | Filipa Cantanhede | Sobral De Monte Agra�o | Encarregado � Prepara��o de Ch�, Caf� e Cacau 
+00001064 | Ricardino Carrasqueira | Palmela | Fundidor de Material Tipogr�fico 
+00001065 | Ramiro Meirelles | Almada | Guarda-Livros 
+00001066 | Manuelina Bernardo Dantas | Alter Do Ch�o | Veterin�rio 
+00001067 | Am�lia Fraga | Lourinh� | Operadores de Instala��es de Moagem e Trabalhadores Similares 
+00001068 | Patr�cio Barbosa | Vila Nova De Paiva | Estofadores, Colchoeiros e Trabalhadores Similares 
+00001069 | Ernesto Luzia Lacerda | Vila Vi�osa | Especialistas da Inform�tica 
+00001070 | In�cio P�dua | Oeiras | Operador de �rea 
+00001071 | Alberta Bebiana Pallos Salom�o | Bragan�a | Impressor em Talhe-Doce (Operador de M�quina de Timbragem em Relevo) 
+00001072 | Linda Eul�lia Peralta Dorneles | Alvito | Modista de Chap�us 
+00001073 | Lino Caetana Aldeia Cavaco | Tomar | Operador de M�quina de Enchimento de Aeros�is 
+00001074 | Aquiles Adriana Lencastre | Machico | Pescador � Pesca Local e Costeira 
+00001075 | Greg�rio P�ricles Lancastre Chamusca | Arruda Dos Vinhos | Dirigentes e Quadros Superiores de Organiza��es Especializadas 
+00001076 | Eunice Paes | Goleg� | Outros Trabalhadores Florestais 
+00001077 | Idalinda Duarte Leal Anhaia | Montijo | Colhedor de Vidro 
+00001078 | Ros�rio Larissa Piteira Colares | Torre De Moncorvo | Borrifador de Tecidos 
+00001079 | Wilian L�cia Quinteiro Curvelo | Felgueiras | Quadros Superiores da Administra��o P�blica 
+00001080 | Ubirat� Rebeca Gravato Curvelo | Miranda Do Corvo | Condutor de M�quina de Nivelamento e Terraplanagem 
+00001081 | Serena Priscilo Raminhos Lobato | Penacova | Encarregado � Equipamento Emissor e Receptor de R�dio e TV 
+00001082 | Of�lia Asdr�bal Varanda | Sever Do Vouga | Envernizador 
+00001083 | Liane Ronaldo Soeiro Granja | Oleiros | Operadores de Instala��es de Tratamentos Qu�micos 
+00001084 | Afonso Lucena | Alcochete | Artes�os de Artigos em Madeira e Materiais Similares 
+00001085 | �lvaro Martinho | Ovar | Forneiro � Fundidor de Fornos de Segunda Fus�o 
+00001086 | Leopoldo Moita | Vila Velha De R�d�o | Operador de M�quinas do Fabrico de Molas � Ve�culos Autom�veis 
+00001087 | Josefa N�ria Domingues Peralta | Pedr�g�o Grande | Trabalhador de Recep��o de Tomate 
+00001088 | Alan Pires | Tavira | T�cnico de Recursos Humanos 
+00001089 | Sebasti�o Adelina Lencastre | Leiria | Chefe de Vendas 
+00001090 | Lina Orlando Cortes�o Ramallo | Aveiro | Perito Criminal�stico 
+00001091 | Aline Pessanha | Paredes De Coura | Factor � Caminhos de Ferro 
+00001092 | Adauto Esdras Guedelha | Arronches | Representantes Comerciais e T�cnicos de Vendas 
+00001093 | Alcina Aranha | �vora | Condutor de M�quina de Nivelamento e Terraplanagem 
+00001094 | Edmar Erm�nia Trist�o Coitinho | Vila Nova De Cerveira | Outros Meteorologistas 
+00001095 | Gil Firmino Granjeiro | Loures | Outros Afinadores � Operadores de M�quinas Ferramentas 
+00001096 | Golias Fraga | Chaves | Operador de Fabrico � Margarinas 
+00001097 | Geraldina Aquino | Vila Franca Do Campo | Operador de Instala��o de Pintura � Peles 
+00001098 | Aar�o Ediberto Coelho Gois | G�is | Outros Electromec�nicos e Electricistas 
+00001099 | Valentino Quinzeiro | Praia Da Vit�ria | Plastificador � Artes Gr�ficas 
+00001100 | M�rcio Aquino | Vila De Rei | Rabaneador 
+00001101 | Normando Gabriela Lara | Goleg� | Polidor (Operador de M�quina de Polir) � Aglomerados de Cimento 
+00001102 | Josaf� Nat�rcia Milheiro Quintanilla | Paredes De Coura | Oper�rios, Art�fices e Trabalhadores Similares 
+00001103 | Maura Felicidade Pardo | Santa Cruz | Lubrificador de M�quinas 
+00001104 | Dejanira Fl�r Damazio | Aguiar Da Beira | Passamaneiro Manual 
+00001105 | Tadeu Cantanhede | Lous� | Empregado de Lavabos (Empregado de Balne�rio) 
+00001106 | Amadeu Clementina Castelhano | Coimbra | Empregados Administrativos de Contabilidade e Trabalhadores Similares 
+00001107 | C�ntia Covilh� | Idanha-A-Nova | Guia-Int�rprete 
+00001108 | Sheila Quintanilla | Cascais | Maestro de Orquestra (Chefe ou Regente de Orquestra) 
+00001109 | Vanessa Bernardes | Sesimbra | Lavador de Penteada � L� 
+00001110 | Arnaldo Nelma Semedo Paredes | Penafiel | Tecel�o � Tape�arias 
+00001111 | Ladislau Kevin Cortes�o | Moimenta Da Beira | Mandrilador � Trabalho em S�rie dos Metais 
+00001112 | Elda Quesado | Soure | Montador de Artigos em Madeira e Mat�rias Similares 
+00001113 | Berenice Borges | Paredes De Coura | Pintor de Arte 
+00001114 | Djamila Eduardo Raposo | Vila Nova De Gaia | Operador de Instala��o de Metaliza��o de Fios Met�licos 
+00001115 | Evelise Natividade Lacerda | Castelo De Paiva | Fundidor � Moldador em Ceras Perdidas 
+00001116 | Gl�ria Leonel Mascarenhas | Vila Nova De Paiva | Trabalhador Rural 
+00001117 | Abra�o Ornelas | Sert� | Outros Mec�nicos de Motores de Avi�o 
+00001118 | Laura Bento | Santa Maria Da Feira | Armeiro 
+00001119 | Ferdinanda H�rcules Caparica | Lamego | Enfermeiros 
+00001120 | Olavo Salles | Cuba | Outros Avaliadores e Leiloeiros 
+00001121 | Sidney R�go | S�o Br�s De Alportel | Docentes do Ensino Secund�rio, Superior e Profiss�es Similares 
+00001122 | Teresa Jacinto Avelar Conde | Praia Da Vit�ria | Operador de M�quina de Montar Divis�rias � Cartonagem 
+00001123 | Deolinda Palha | Caldas Da Rainha | Outros Agricultores � Produ��o de Cereais e Vegetais 
+00001124 | Eug�nia F�lix Salvado Mangueira | Santa Cruz Das Flores | Impressor de Rotogravura 
+00001125 | Ronaldo Marco Gois | Mora | Forjador Manual (Ferreiro) 
+00001126 | Ismael Glena Beltr�o Linhares | Santana | Director � Com�rcio Retalhista 
+00001127 | B�rbara Farinha | Mon��o | Engenheiros Ge�grafos e Hidr�grafos 
+00001128 | Cl�lia Vital Canejo Travassos | Penamacor | Pintor Electrost�tico 
+00001129 | Assun��o Amaro Rebocho | Porto Santo | Operador de Concentrados � Ra��es para Animais 
+00001130 | Bryan Hugo Cani�a | Viana Do Alentejo | Operador de Pr�-Esteriliza��o � Leite 
+00001131 | Carlos Quixote Fartaria | Vila Franca Do Campo | Gestor de Sinistros (Regularizador de Sinistros) � Seguros 
+00001132 | Al�cia Bri�o | Santa Marta De Penagui�o | Membro de Ordem Religiosa 
+00001133 | Geraldo C�ssio Frade | Tomar | Cravador-Joalheiro 
+00001134 | Norberto Oct�via Nunes Quirino | Nazar� | Encarregado � Trabalhadores da Constru��o Civil e Obras P�blicas 
+00001135 | Carmelinda Erico Janes | Barrancos | Preparador de Palmilhas Internas 
+00001136 | Ladislau Nero Vergueiro | Penacova | T�cnico de Radiologia 
+00001137 | Odete Castel-Branco | Batalha | Fiscal de Portagem 
+00001138 | Hilton Camilo Carmona Bou�a | Montemor-O-Novo | Outros Gravadores e Fotogravadores de Artes Gr�ficas 
+00001139 | Judith Kelly Milheir�o | Povoa��o | Outros T�cnicos de Farm�cia 
+00001140 | Geralda Ermelinda Sotomayor Figueiroa | Mealhada | Condutor de M�quina Arrastadora "Dragline" 
+00001141 | Carminda Ludovico Mont'Alverne | Fund�o | Montadores de Aparelhagem El�ctrica e Electr�nica 
+00001142 | Vit�ria Linhares | Borba | Administrador Hospitalar 
+00001143 | Valdo Trist�o Barreto Varela | Funchal | Operador de Equipamento de Teleinforma��o 
+00001144 | Firmino Bicudo | Lagoa | Fiscal de Banca 
+00001145 | D�lio Elisa Muniz Sousa do Prado | Penamacor | T�cnico � Administra��o P�blica 
+00001146 | Andr� Neusa Lagoa | Rio Maior | Operador de M�quina de Fabricar Cigarros 
+00001147 | Nilda Afonso | Chamusca | Enformador de Chap�u de Feltro 
+00001148 | Br�gido Mort�gua | Gondomar | Operador de M�quina de Encasar � Encaderna��o 
+00001149 | Frederico Carvalheira | Idanha-A-Nova | Provador de Vinhos 
+00001150 | Iara Cambezes | Castelo De Vide | Operadores de M�quinas de Imprimir � Artes Gr�ficas 
+00001151 | Guilherme Galv�o | Coruche | Mec�nico de Bordo 
+00001152 | Rafael Caldeira | Almeirim | Torneiro de Unheta (Torneiro de Peito) 
+00001153 | Mar�lia Silvana Mendon�a | Bai�o | Perito Criminal�stico 
+00001154 | Telma Junqueira | Almeida | Outros Desenhadores e Trabalhadores Similares 
+00001155 | Armando Miera | Condeixa-A-Nova | Medidor 
+00001156 | Patr�cio Souto | Mafra | Vendedores por Telefone e ao Domic�lio 
+00001157 | Abra�o Carromeu | Vila Nova Da Barquinha | Agentes Funer�rios e Trabalhadores Similares 
+00001158 | Eut�mio Tavares | Porto | Broquista 
+00001159 | Douglas Foga�a | Almeida | Avaliador de Madeira na Mata 
+00001160 | Jacy Bogalho | Montalegre | Operador de Mela�agem � Ra��es para Animais 
+00001161 | Ermelinda Ademir Madeira | Vouzela | Qu�mico � Especialista em Qu�mica Anal�tica 
+00001162 | Adolfo D�ia Marroquim | Nordeste | Outros Afinadores � Operadores de M�quinas Ferramentas 
+00001163 | Mira Pinheiro | Lagoa | M�dicos e Profiss�es Similares � � excep��o dos Enfermeiros 
+00001164 | Ros�rio Lurdes Coito Malheiro | Vagos | Torcedor (Retorcedor) 
+00001165 | Ivan Cerveira | Matosinhos | Raspador (Lixador) 
+00001166 | Orfeu Salom� Sampaio | Montemor-O-Novo | Trabalhador de Terra ou Cais (Carregador, Descarregador) 
+00001167 | Bianca Fortunato | Sintra | Realizador de R�dio 
+00001168 | Capitolina Emanuel Palmeira | Ponte Da Barca | Directores do Com�rcio Grossista e Retalhista 
+00001169 | Ernane Melinda Madruga | Beja | Serrador 
+00001170 | Djalma Antenor Valcanaia | Penela | Outros Trabalhadores Florestais 
+00001171 | Adriano Salvador Damazio | Miranda Do Corvo | Outros Toureiros, Cavaleiros Taurom�quicos e Outros Profissionais Similares 
+00001172 | C�ndida Neto | Sever Do Vouga | Jogador Profissional de Futebol 
+00001173 | Adri�o Herodes Ramires | Mora | Conservador do Registo Comercial 
+00001174 | Nuno Ramos | Oliveira Do Bairro | Governanta de Andares � Ind�stria Hoteleira 
+00001175 | Isa Agnes Caf� Quental | Povoa��o | Biof�sico 
+00001176 | Nataniel Felicidade Madureira | Vila Flor | Engenheiro Civil � Constru��o de Edif�cios 
+00001177 | Tasha Corn�lia Orri�a | Barrancos | Conserveiro de Peixe 
+00001178 | Estela Infante | Santa Cruz | Operador de Instala��o de Fabrico de Placas Acr�licas 
+00001179 | Guido Quintero | Cinf�es | Guarda Florestal 
+00001180 | L�dia Leoc�dio Godoi | S�o Jo�o Da Madeira | Outros Vidraceiros 
+00001181 | Il�dio Hern�ni Saraiva Carreiro | Alf�ndega Da F� | Operador de Limpeza de Caf� 
+00001182 | Virg�lio Mort�gua | Santa Comba D�o | Operador de M�quinas de Fabrico de Artigos em Cart�o 
+00001183 | Hor�cio Adri�o �lvares | Vila Nova De Cerveira | Bilheteiro (Cobrador de Bilhetes) � Autocarros, Carros El�ctricos 
+00001184 | Raimundo Din� Veiga Meirelles | Sousel | Caixas e Bilheteiros 
+00001185 | Hon�rio L�vio Brum Velasques | Vila Nova De Cerveira | Operador de Fermenta��o � Mela�o 
+00001186 | Gabriel Vilas-Boas | Ponte De Lima | Repassador 
+00001187 | �rica Florinda Magalh�es Sintra | Moimenta Da Beira | Reparador 
+00001188 | Mois�s J�come | Albergaria-A-Velha | Outros Dactil�grafos 
+00001189 | Margarida Juliano Iglesias Dinis | Amares | Condutor de Empilhador 
+00001190 | Lourival Glena Alves | Matosinhos | Urbanista 
+00001191 | Judith Angelina Chaves Cruz | Torres Novas | Operador de Instala��o Autom�tica de Moldagem � Vidro 
+00001192 | Nicolau Nicole Semedo Cantanhede | Lisboa | Operador de Engenho de Furar 
+00001193 | V�nia Cipriano | Cabeceiras De Basto | Analista de Laborat�rio � An�lises Qu�micas 
+00001194 | Carla Nor�es | Boticas | Outros Directores e Gerentes da Produ��o Industrial 
+00001195 | Roberto Ferdinanda Malheiros | Vila Vi�osa | Outros Operadores de M�quinas � Ferramentas � Trabalho em S�rie dos Metais 
+00001196 | Levina Nazar� Mendo�a Grangeia | Ribeira Grande | Operador de "Cowpers" 
+00001197 | Afonso Gerson Ornellas | Cinf�es | Escritur�rio � Apoio � Produ��o 
+00001198 | Greg�rio T�mara Mota | Vimioso | Manobradores de Esta��o e Trabalhadores Similares 
+00001199 | C�tia Robalinho | Cascais | F�sico � Especialista em �ptica 
+00001200 | Rosana Rego | Estremoz | Amassador 
+00001201 | Miracema Cavalheiro | Ribeira Brava | Oficial de Tr�fego � Transportes A�reos 
+00001202 | Virgolino Monteiro | Idanha-A-Nova | Encarregado � Fornos de Minerais e Fornos de Primeira Fus�o de Metais 
+00001203 | Obede Lauro Villela | Batalha | Tecel�o � Tecidos e Produtos Similares
+00001204 | Paulina Adalgisa Pereira Meireles | Castelo De Paiva |  
+00001205 | �lio Katia Barreiros | Funchal | Outros Guias-Int�rpretes e Trabalhadores Similares 
+00001206 | C�ndida Capitolina Quintais | Vila Nova De Famalic�o | Telefonista � Central Telef�nica P�blica 
+00001207 | Justino Elza Villalobos | S�t�o | Operador de Balanc� 
+00001208 | Edna Velasco | Seia | Operador de Telecinema 
+00001209 | Vit�ria Colares | Celorico Da Beira | Outros Especialistas da Medicina Tradicional 
+00001210 | Nataniel Arantes | Santar�m | Operador de Prensa Granuladora - Ra��es para Animais 
+00001211 | Delfina Regueira | Alenquer | Acabador � Madeiras 
+00001212 | Lisandro Capistrano | Alc�cer Do Sal | Encalcador 
+00001213 | Ol�mpia Nestor Amaro | Calheta | Membro de Ordem Religiosa 
+00001214 | Milton Filipe Paredes Melo | Celorico Da Beira | Picador de Pentes 
+00001215 | Quit�ria Esa� Bezerra Cachoeira | Armamar | Operador de M�quina de Cunhagem e Impregna��o � F�sforos de Carteira 
+00001216 | Magda Palma | Arouca | Macheiro Manual 
+00001217 | Ari Daniel Castel�o Manso | Set�bal | Encarregado � Montadores de Estruturas Met�licas e Trabalhadores Similares 
+00001218 | Levi Porci�ncula | Vieira Do Minho | Agente Comercial 
+00001219 | Pl�cido Rafaela Po�as Doutiz | Marv�o | Engenheiro Naval 
+00001220 | Bruna Dejanira Morais Mart�nez | Oleiros | Pintor � Decorador 
+00001221 | Nara Soverosa | Arcos De Valdevez | Pessoal de Limpeza de Casas Particulares e Trabalhadores Similares 
+00001222 | Benito Pessoa | Peso Da R�gua | M�sicos, Cantores e Bailarinos de Espect�culos de Variedades e Artistas Similares 
+00001223 | Wilker Benjamim Alcaide Caeira | Reguengos De Monsaraz | Agricultores e Trabalhadores Qualificados da Agricultura, Cria��o de Animais e Pescas 
+00001224 | �nio C�tia Mort�gua Batata | Corvo | Visagista 
+00001225 | S�nia Soraia Bulh�es | Vila De Rei | Operador de M�quina de Cortar P�lo � Veludo "Cotel�" 
+00001226 | Cl�lia Granjeia | Castro Daire | Electromec�nicos e Electricistas 
+00001227 | Ariana Ernesto Mena | Montalegre | Outros Joalheiros e Lapidadores 
+00001228 | Catarina S�nia Gama Foga�a | Vieira Do Minho | Operador de Instala��o de Pintura � Peles 
+00001229 | T�lio Rebeca Monjardim | Beja | Engenheiro Naval 
+00001230 | Eug�nia Lauro Nobre Bethecourt | G�is | Engenheiro Civil � Sanit�rio 
+00001231 | Aur�lio Augusto �lvaro | Arouca | Modelador 
+00001232 | V�gner Novaes | Loures | Laminador de Chapa de Prata 
+00001233 | Jocelina Boga | Monchique | Fot�grafos e Operadores de Aparelhos de Registo de Imagem e de Som 
+00001234 | Elda Assun��o Mieiro Guterres | Montalegre | Brochador Manual 
+00001235 | Belarmina Amaro Granja | Machico | Armeiro 
+00001236 | Pascoal Figueiredo | Batalha | Animador Cultural 
+00001237 | Ernane Jacob Brito | Reguengos De Monsaraz | Encarregado � Revela��o e Impress�o de Fotografias 
+00001238 | Filipe Sofia C�mara | Horta | T�cnico da Produ��o 
+00001239 | Urbino Portela | Vila Nova De Foz C�a | Enfermeiro � Especialista em Sa�de P�blica
+00001240 | Anita Rafaela Pedrozo | S�t�o | Outros Quadros Superiores da Administra��o P�blica 
+00001241 | Noemi Natacha Quintal | Abrantes | Bataneiro 
+00001242 | Estev�o Valadares Vilari�a Osorio | Vila Do Bispo | Gestor de Produto 
+00001243 | D�ris Cremilde Os�rio Pic�o | Sousel | Enfermeiro � Especialista em M�dico-Cir�rgica 
+00001244 | Teresa Ludovico Mart�nez Pinho | Mogadouro | Electricista-Montador de Instala��es de Baixa Tens�o 
+00001245 | Elton Mendoza | Beja | Corretor de Navios (Ship Brower) 
+00001246 | Daniel Urias | Castelo De Paiva | Filigraneiro (Filigranista) 
+00001247 | Hermes Salvador S� | Anadia | Condutor de M�quina "Espalhadora" 
+00001248 | Judith Loio | �gueda | Torrador de Cacau 
+00001249 | V�gner Alba Camelo Damazio | Avis | Decorador de Espa�os Comerciais 
+00001250 | An�bal N�ria Freiria | Portim�o | Outros Artes�os de Artigos em Madeira e Materiais Similares 
+00001251 | Ol�mpia Luca Chagas | Vila Nova Da Barquinha | Encarregado � Borracha 
+00001252 | Silvino Eli Sabala Nogueira | Castro Marim | Plastificador 
+00001253 | N�dia Elvira Fortunato | Vila Flor | Serralheiro de Chaves e Fechaduras 
+00001254 | �nio Odete Quintas Veleda | Set�bal | T�cnico de Electromedicina 
+00001255 | Altino Iolanda Mendo�a | Condeixa-A-Nova | Outros Vendedores por Telefone e ao Domic�lio 
+00001256 | Bet�nia Espartero | Serpa | Operador de Fabrico � Queijo (Queijeiro) 
+00001257 | Anderson Lilian Alc�ntara Penteado | Sardoal | Director Art�stico e Criativo 
+00001258 | Carlos Omar Ponte Batata | Moita | Outros Operadores de M�quinas do Fabrico de Artigos de Borracha 
+00001259 | Edgar V�gner Aires | Terras De Bouro | Director e Gerente da Ind�stria Alimentar 
+00001260 | Rafaela Hildegarda Bessa | Lamego | Sapateiros, Trabalhadores de Cal�ado e de Couro. 
+00001261 | Josefa Isolina Maior | Castro Marim | Outros Advogados e Consultores Jur�dicos 
+00001262 | Eunice S�lvio Jardim Taborda | Calheta | Encarregado � Prepara��o de Ch�, Caf� e Cacau 
+00001263 | Altair Mangueira | Torres Novas | Rabaneador 
+00001264 | Geralda Louren�o Baptista Quintella | Proen�a-A-Nova | Estofador de Viaturas 
+00001265 | Fabiana Denise Canedo | Tondela | Outros Aquacultores 
+00001266 | Lena Vanderley Maciel | Campo Maior | Chefe de Divis�o� Administra��o P�blica 
+00001267 | Vilela Silva | Sintra | Secret�rios 
+00001268 | R�bia Torcuato | Santa Cruz Das Flores | Figurinista 
+00001269 | Corn�lia T�vora | Portalegre | Controlador-Marcador � Salas de Jogos 
+00001270 | Liane Mangueira | Barreiro | Chefe de Divis�o� Administra��o P�blica 
+00001271 | H�rcules Dora Faia | Amarante | Operadores de Instala��es de Refina��o e Armazenamento de Petr�leo e G�s 
+00001272 | Adauto Cavalheiro | Viana Do Alentejo | Funileiro � Latoeiro 
+00001273 | Clarissa Djalma Villar Ulhoa | Aveiro | Portageiro 
+00001274 | Luc�lia Resende | Vila Nova De Poiares | M�dico Urologista 
+00001275 | Wilker Judite Cedraz Caneira | Sintra | Assistente de Produ��o Cinematogr�fica 
+00001276 | Du�lha Aldina Negromonte | Vila Nova De Poiares | Piloto de Outras Aeronaves 
+00001277 | Andreia Fabr�cio Lago Oliveira | Tavira | Director de Partida 
+00001278 | Adolfo Fab�ola Ilha | Moita | Engenheiro Civil � Hidr�ulico 
+00001279 | Ilda Paulos | Santo Tirso | Padeiros, Pasteleiros e Confeiteiros 
+00001280 | Evaldo Tasha Andrade Rebocho | Guarda | Tratador de Animais 
+00001281 | Isis Daniel Cartaxo Raposo | Resende | Operador de Separador Electr�nico de Cores (Operador de "Scanner") 
+00001282 | Idalina Dolores Mascarenhas | Paredes De Coura | Cavista � Ind�stria Hoteleira 
+00001283 | Tadeu Ivete Lameira | Viseu | Pessoal dos Servi�os Directos e Particulares, de Protec��o e Seguran�a 
+00001284 | Leoc�dia Alan Osorio Espargosa | Penalva Do Castelo | Operador de Tratamento de Imagem � Televis�o 
+00001285 | Fernanda Caneira | S�o Pedro Do Sul | Outros Assistentes, Comiss�rios e Trabalhadores Similares 
+00001286 | Calisto Juca Igrejas Tavares | Maia | Encarregado � Joalheiros e Lapidadores 
+00001287 | Serena Resende | Castelo De Paiva | Condutor 
+00001288 | Fedra Salles | Vila Do Porto | Angariador de Seguros 
+00001289 | Veloso Quintana | Boticas | Operador de Areador � A��car 
+00001290 | Lis Mafalda Gomide | Entroncamento | Outros Agentes de Pol�cia 
+00001291 | Ismael Vilela | Sobral De Monte Agra�o | T�cnico de Telecomunica��es 
+00001292 | Rute Cust�dia Ribeiro | Lourinh� | M�dico Imunohemoterapeuta 
+00001293 | Armindo Frederico Travassos | Castelo De Paiva | Montador de "Pr�-Esfor�ados"� Bet�o 
+00001294 | F�lix Fi�es | Penalva Do Castelo | Montador de Constru��es Navais � Estaleiro 
+00001295 | Jonas Aline Cedro Vilarinho | Almod�var | Montador de Cabos 
+00001296 | M�rcio Elizeu Festas Velasques | Valongo | Pasteleiro 
+00001297 | Mar�lia Soto | Castro Marim | C�nsul 
+00001298 | Em�lio Nisa Valentim | Estarreja | Mineiro 
+00001299 | Erm�nia T�lio Cedro | Mour�o | Outros Riscadores e Cortadores de Moldes 
+00001300 | Delfim Eduarda �lvaro Morais | Povoa��o | Operador de Fabrico � Margarinas 
+00001301 | Wilma Mendes | Montalegre | Reparador 
+00001302 | Ciro Vitorino Mangueira | Pedr�g�o Grande | Operador de M�quinas � Pedreiras (Trabalhador de Pedreiras) 
+00001303 | Paloma Rivas | Oliveira Do Hospital | Director Geral � Administra��o P�blica 
+00001304 | Alessandra Altina Sabala | Vila Nova De Famalic�o | Operador de Forno de Fus�o � Vidro 
+00001305 | Te�filo Raposo | Corvo | Detective Particular 
+00001306 | Jasmim Rebotim | Lagos | Outras Costureiras, Bordadores e Trabalhadores Similares 
+00001307 | S�nia Ieda Pereira Soeiro | Santana | Qu�mico 
+00001308 | Kevin N�vea L�io | Odivelas | Operador de M�quinas de Fabrico de Artigos em Cart�o 
+00001309 | Irma Benito Vilalobos | Tomar | Outros Montadores de Cabos 
+00001310 | Mauro Alcione Moniz | Torres Novas | Vendedores de Quiosque e de Mercados 
+00001311 | Cristiano P�dua | Montijo | Inspector de Educa��o 
+00001312 | Perceu Larissa Alancastre Coito | Benavente | Director de Empresa de Pescas 
+00001313 | Bernardo Flor�ncio Soto Matta | Vila Nova De Famalic�o | Caseiro (Feitor, Encarregado) � Explora��o Agro-Pecu�ria 
+00001314 | Muriel Leoc�dio Bethecourt Escobar | Porto De M�s | Outros Maquinistas de Locomotivas 
+00001315 | Gildo Filomena Barbalho | Ribeira De Pena | Enfermeiro � Especialista em Sa�de Infantil e Pedi�trica 
+00001316 | Cinara Hort�nsia Lustosa Barbalho | Amarante | Polidor de Lentes � Vidro de �ptica 
+00001317 | Helena Valentim | S�o Pedro Do Sul | Matem�tico � Especialista em Matem�tica Aplicada 
+00001318 | Capitolino An�bal In�cio Viegas | Pinhel | Caixeiro 
+00001319 | Natacha Godinho | Nordeste | Operador de Prensa (Prensador) 
+00001320 | Rui Alana Meneses Guedelha | Guimar�es | Agente da Brigada de Tr�nsito da Guarda Nacional Republicana 
+00001321 | Osvaldo Almeida | Lagos | Estaticistas 
+00001322 | Angelina Hebe Mascare�as Rosmaninho | Mirandela | Operador de M�quina de Imprimir Fotografias 
+00001323 | Edson Evaldo C�mara | S�o Jo�o Da Madeira | Operador de Destila��o � Rectifica��o � Bebidas 
+00001324 | Gertrudes Constantino Bogalho Fran�a | Vila Nova Da Barquinha | Operador de M�quina de Raspar e Rebaixar P�lo 
+00001325 | Benvinda Bianca Soares | Olh�o | Outros Ocean�grafos 
+00001326 | Belarmina Matos | Sintra | Condutor de M�quinas Agr�colas 
+00001327 | Marcelo Flores | S�o Jo�o Da Pesqueira | Trabalhadores de Peles, Couro e Cal�ado 
+00001328 | Aline Yuri Fonseca | Cabeceiras De Basto | Outros Reparadores de Aparelhos Receptores de R�dio e TV 
+00001329 | Orlanda Br�gida Neiva Mascare�as | Calheta De S�o Jorge | Directores e Gerentes da Agricultura, Silvicultura e da Pesca 
+00001330 | Guilhermina Loide Pires | Mon��o | Outros Operadores de Gruas e de Outros Aparelhos de Eleva��o e Transporte 
+00001331 | Pl�cido Frederico Carvalho Abrantes | Figueira Da Foz | Vendedor Ambulante � Produtos Comest�veis 
+00001332 | Liane Gentil | Carrazeda De Ansi�es | Outros Cartonageiros e Operadores de M�quinas de Cartonagem 
+00001333 | Arnaldo Braga | Crato | Cilindrista (Operador de Moinhos) � Borracha 
+00001334 | Antonieta Franklin Olivera | Albufeira | Picador de Pentes 
+00001335 | Antenor Ces�ria Quintanilha | Bai�o | Outros Directores e Gerentes da Constru��o Civil 
+00001336 | Lucinda Domingos Anhaia Santana | Trancoso | Enformador de Cones de Feltro � Chapelaria 
+00001337 | Jacy Dayse Mour�o Palha | Vila Franca Do Campo | Trabalhadores das Pescas N�o Qualificados 
+00001338 | Agostinha Salvador Toscano | Figueira De Castelo Rodrigo | Top�grafo � Ge�metra 
+00001339 | Marisol Georgina Bandeira Linhares | Borba | Fundidor de Material Branco 
+00001340 | Caetano Valter Boeira Quintais | Vinhais | Outros Corretores de Mercadorias 
+00001341 | Faustino Britto | Faro | Jornalista 
+00001342 | Geraldo Leonor Cal�ada Alencastre | Povoa��o | Secret�rio de Administra��o 
+00001343 | Hip�lito Arnaldo Sousa do Prado Casqueira | Mondim De Basto | Core�grafo 
+00001344 | Edelmiro Denise Nor�es | Vila Real | Manequins e Outros Modelos 
+00001345 | Maur�cio Silvano Viana Piteira | Paredes De Coura | Outros Montadores de Estruturas Met�licas e Trabalhadores Similares 
+00001346 | Mavilde Dagmar Negr�o Ramires | Porto Moniz | Montadores de Cabos 
+00001347 | Belisa Areosa | Amarante | Operador de C�mara de V�cuo � Tabaco 
+00001348 | Marlene Aires | Tondela | Operador de Serragem � Bloco 
+00001349 | Evelise Bandeira | Vila Nova De Foz C�a | Engenheiro Civil � Hidr�ulico 
+00001350 | Am�rico Rute Carvalhais | Castanheira De P�ra | Espalhador de Betuminosos 
+00001351 | Evelise Cleide Gameiro Bri�o | Seixal | Outros Empregados de Aprovisionamento 
+00001352 | N�vea Sidney Padilla Mattozo | Santiago Do Cac�m | T�cnico das Ci�ncias Biol�gicas 
+00001353 | Atan�sio Adonir� Nor�es Bacelar | Viana Do Alentejo | Limpa-Chamin�s 
+00001354 | Abel Erico Miranda | Azambuja | Descarnador Mec�nico 
+00001355 | Am�lia Zambujal | �lhavo | Viveirista 
+00001356 | Muriel Anabela Gravato | Viana Do Alentejo | Seleccionador de Peles 
+00001357 | F�lix Rog�rio Mour�o | Oeiras | Operadores de Equipamento de Teleinforma��o e Trabalhadores Similares 
+00001358 | Lissa Ari Mattozo | Viana Do Alentejo | Operador de M�quina de Entran�ar Tubos � Borracha 
+00001359 | Ac�rcio Veloso | Castelo Branco | Outros Criadores de Animais e Produtores de Leite 
+00001360 | Cristina Seixas | Macedo De Cavaleiros | Operador de Rectificadora de "Poulies" 
+00001361 | Luana Baldaia | Cantanhede | T�cnico de Restauro e Conserva��o 
+00001362 | Arlindo Fl�via Ouro | Castro Marim | T�cnico de Medicina Nuclear 
+00001363 | Leandro Glena Galindo | Lagoa | Outros Directores e Gerentes da Constru��o Civil 
+00001364 | Gaspar Rijo | Santar�m | Queijeiro 
+00001365 | Aguinaldo Faustino Quinaz Medina | Vila Real De Santo Ant�nio | Operador de M�quina Semi-Autom�tica de Soldadura e Isolamento � Cablagens 
+00001366 | Gon�alo Manuela Cabreira | Vila Vi�osa | Outros Profissionais de N�vel Interm�dio dos Servi�os Jur�dicos 
+00001367 | Vit�ria Iara Miranda | Aljustrel | Reparador-Polidor de Pneus 
+00001368 | Igor Ingrid Bethecourt Bogado | Ovar | T�cnico de Informa��o e Comunica��es Aeron�uticas 
+00001369 | Benedita Dana Doutel Lessa | Lousada | Operadores de Instala��es do Fabrico de Pasta para Papel 
+00001370 | L�via Doutiz | Aljezur | Gravador Manual � Processos Qu�micos 
+00001371 | Ivan Silvano Concei��o Cantanhede | S�o Vicente | Operador de Rampa 
+00001372 | N�lida Emanuel Cort�s | Mira | Embutidor 
+00001373 | Yolanda Manuelina Rezende | Tarouca | Compradores 
+00001374 | Susana �ngela Abelho Borja | Lagos | Operador de Autoclave de Regenerados 
+00001375 | Arnaldo Valgueiro | Vila Nova De Cerveira | Mestres, Marinheiros e Trabalhadores Similares 
+00001376 | Benedito Consuelo Grilo Goulart | Leiria | Filtrador de Xarope � A��car 
+00001377 | Gaspar M�rio Castelhano Rezende | Mort�gua | Engraxador 
+00001378 | Te�filo Nuno Vianna Rico | Arraiolos | Outros Sondadores 
+00001379 | Geraldino T�vora | Oliveira De Frades | Compositor Mec�nico-Linotipista 
+00001380 | J� Herc�lia Cangueiro | Const�ncia | Manobrador de Esta��o (Agulheiro) � Caminhos de Ferro 
+00001381 | Quirino Adelino Areosa | P�voa De Lanhoso | Outros Inspectores da Seguran�a Social 
+00001382 | Osmar Sim�o Afonso Linhares | Vila Nova De Gaia | F�sico � Especialista do Estado S�lido 
+00001383 | Adelmiro Manuelina Fialho | Vimioso | Electromec�nico de Instrumentos de Precis�o 
+00001384 | Cl�udio Garrido | Faro | Outros Alfaiates, Costureiros e Chapeleiros 
+00001385 | Durval Tim�teo Neres | Vouzela | Operador de Combust�vel 
+00001386 | Justino Valadares | Almeirim | T�cnicos e Assistentes Veterin�rios 
+00001387 | Moacir Isa�as Saraiva Silva | Serpa | Vendedor Ambulante � Produtos N�o Comest�veis 
+00001388 | Orfeu Olivares | Mogadouro | Assentador de Refract�rios 
+00001389 | Anselmo Soraia Godinho Viveiros | S�t�o | Operador de M�quina de Revestimento � Tape�arias 
+00001390 | Georgina Leandra Abranches Noguera | Tavira | Estucadores 
+00001391 | Virg�lio Abra�o Gaspar | Boticas | Tratador de Peixe, Crust�ceos e Moluscos 
+00001392 | Wilton Ari Aires | Alvito | Sondadores 
+00001393 | Paulino Curado | Azambuja | Ligador de Fibras (Assedador de Fibras) 
+00001394 | Lita Boga | Oliveira De Frades | Debuxador 
+00001395 | Ana Aldara Rem�gio | Mealhada | Montador de Gravuras 
+00001396 | Dora Felisberto Noguera | S�o Br�s De Alportel | Facetador de Diamantes 
+00001397 | Sabrina Quintal | Trancoso | Reparador-Polidor de Pneus 
+00001398 | L�dia Ester Nunes | �vora | Encarregado � Peleiros e Trabalhadores Similares 
+00001399 | Avelina N�bia Bri�o | Mour�o | Psic�logos 
+00001400 | Ivo Blenda Quinzeiro | Odivelas | Matem�tico � Especialista em Matem�tica Aplicada 
+00001401 | Liane Edgar Cidreira | Ponta Do Sol | Cartonageiros e Operadores de M�quinas de Cartonagem 
+00001402 | Carmen S� | Vagos | Outros Fil�logos, Tradutores e Int�rpretes 
+00001403 | Ezequiel Lameira | Ovar | Classificador-Avaliador de Diamantes em Bruto 
+00001404 | Lino Miguel | S�o Br�s De Alportel | Pedreiros e Calceteiros 
+00001405 | Adelaide Erm�nia Teodoro Campelo | Serpa | Perito Criminal�stico 
+00001406 | Romeu Frota | Condeixa-A-Nova | Artistas de Circo 
+00001407 | Lena Gilberta Meneses | Santa Cruz | Desenhador Cart�grafo 
+00001408 | T�nia Claudino Ornellas | Santiago Do Cac�m | Preparador de Areias para Fundi��o 
+00001409 | Norberto Armando Avelar Furtado | Vila Real De Santo Ant�nio | Oficial de Tr�fego � Transportes A�reos 
+00001410 | Gast�o Faustino Lacerda Fidalgo | Macedo De Cavaleiros | Inspector do Trabalho 
+00001411 | Felisberto Kelly Bel�m | Felgueiras | Mec�nico � Reparador de Aparelhos e Antenas de R�dio e TV 
+00001412 | Lauro Ros�rio | Paredes De Coura | Batedor de L� 
+00001413 | Herc�lia Pascoal Esp�rito Santo J�come | Aguiar Da Beira | Biol�gos e Especialistas Similares 
+00001414 | Ana�sa Marcondes | Albufeira | Calandrador � Papel 
+00001415 | Batista Souza | Alcanena | M�dico Cirurgi�o � Neurocirurgia 
+00001416 | Caetana Priscila Festas Farias | Marco De Canaveses | Operador de Composi��o � Vidro 
+00001417 | Gil Bebiana Cabreira | Odivelas | Outros Magistrados Judiciais 
+00001418 | Quirina Ester Mondrag�o | Loures | Prospector de Vendas 
+00001419 | Alana Malho | Seia | Enformador de Cones de Feltro de L� (Cardador de Feltro) � Chapelaria 
+00001420 | Abel Lib�nia Varella | Penamacor | Outros Vendedores Ambulantes de Produtos Comest�veis 
+00001421 | Ac�cia Guido Covelh� | Viana Do Alentejo | Operador de Instala��o de Prepara��o de Nervuras � Tabaco 
+00001422 | Alexander Prada | P�voa De Lanhoso | Assentadores de Revestimentos e Ladrilhadores 
+00001423 | Guido Geralda Corte-Real Melancia | Santiago Do Cac�m | Fresador � Vidro de �ptica 
+00001424 | Crist�v�o Jacinta Correia | Vinhais | Montador de "Pr�-Esfor�ados"� Bet�o 
+00001425 | Esmeralda Lopes | Marinha Grande | Costureiras, Bordadores e Trabalhadores Similares 
+00001426 | Ros�rio Mayor | Vila Pouca De Aguiar | Operadores de M�quinas de Moagem
+00001427 | Greta Rego | Viana Do Alentejo | Tra�ador 
+00001428 | Flaviano Linda Bencatel | Arouca | Operador de M�quina de Preparar Massas � Rebu�ados e Caramelos 
+00001429 | Assun��o Amadeu S� Noronha | Porto Santo | T�cnico de Refrigera��o e Climatiza��o (T�cnico de Frio) 
+00001430 | Jandira Sabino Freire Pessanha | Lajes Das Flores | Chefe de Banda 
+00001431 | Jaime S�rgio Lira Curado | Calheta | Pedreiros e Calceteiros 
+00001432 | Baltasar Torquato | Freixo De Espada � Cinta | Engenheiro T�cnico Agr�rio � Produ��o Agr�cola 
+00001433 | Alana Ricardo Bezerra Rodr�guez | Mirandela | Operadores de Gruas e de Outros Aparelhos de Eleva��o e Transporte 
+00001434 | George Tadeu Parracho Almada | �bidos | Encarregado � Encadernadores e Trabalhadores Similares 
+00001435 | �rica H�lder Varanda | Monforte | Trabalhadores dos Explosivos 
+00001436 | Cord�lia Anita Valladares | Mangualde | Operador de Prepara��o � Yogurte 
+00001437 | Vanderley Gabriel Chagas | Estremoz | Costureira � Vestu�rio por Medida 
+00001438 | D�ria Gustavo Damascena | Sabrosa | Virologista 
+00001439 | Renata Villa�a | Madalena | Apontador 
+00001440 | Aldina R�bia Lamego | Ponta Delgada | Outros Operadores de M�quinas de Tratamento de Frutas e Legumes 
+00001441 | Lucr�cia Quesado | Lajes Do Pico | F�sico � Especialista em F�sica Nuclear 
+00001442 | Rebeca H�rcules Matta | Abrantes | Directores de Compras e Distribui��o 
+00001443 | Ester Levi Bethecourt | Marinha Grande | Condutor de Comboio � Caminhos de Ferro 
+00001444 | �ris Adalberto Carromeu Bessa | Castro Daire | Instrumentista de Banda ou Grupo 
+00001445 | Eug�nio Neiva Bel�m | Albufeira | Torrador de Caf� 
+00001446 | Cl�vis Dalila Vilela | Alandroal | Operador de M�quina de Preparar Massas � Rebu�ados e Caramelos 
+00001447 | Jacinto Marmou | S�o Jo�o Da Madeira | Tamp�grafo 
+00001448 | Dorisse Selma Salguero Carvalhais | Calheta De S�o Jorge | Outros Engenheiros Qu�micos e Engenheiros T�cnicos Qu�micos 
+00001449 | Ademir Sheila Granjeia Bettencourt | Alcoutim | Operador de M�quina de Moer A��car � "Icing Sugar" 
+00001450 | Joel Botelho | Terras De Bouro | Outros Condutores de Ve�culos Pesados de Mercadorias 
+00001451 | Lib�nio Aline Alencar | Alter Do Ch�o | Operador de Sistema de Encolagem � Aglomerados de Madeira e Corti�a 
+00001452 | Roberto Reinaldo R�go | Ponta Delgada | Decalcador de Desenhos � Artes Gr�ficas 
+00001453 | Albina Ismael Sampaio Val�rio | Proen�a-A-Nova | Restaurador de Tape�arias 
+00001454 | Viviana Colares | Montemor-O-Novo | Outros Corretores de Bolsa, Cambistas e de Outros Servi�os Financeiros 
+00001455 | Isolda Bernardo Pedro Sampaio | Lisboa | M�dico Neurologista 
+00001456 | Jesus Forte | Terras De Bouro | Trabalhador Agr�cola (Trabalhador Rural) 
+00001457 | La�s Milton Ilha Abelho | Vila Franca De Xira | Operador de Adegas de Guarda � Cerveja 
+00001458 | Adonir� Ros�lia Cotrim | Batalha | Bibliotec�rio � Documentalista 
+00001459 | Donato Eus�bio Seixas Torrado | Gouveia | Electromec�nico de M�quinas El�ctricas 
+00001460 | Tatiana H�lio Letras Pontes | S�t�o | Outros Engenheiros Civis e Engenheiros T�cnicos Civis 
+00001461 | Ifig�nia Corvelo | Bombarral | Oper�rios, Art�fices e Trabalhadores Similares 
+00001462 | Wilian Forte | Paredes De Coura | Outros Escritores, Jornalistas e Similares 
+00001463 | Micaela Fonseca | Santo Tirso | Outros Guardas dos Servi�os Prisionais 
+00001464 | Avelina Obede Botelho Pederneiras | Entroncamento | Torrador de Cacau 
+00001465 | Rosinha Veloso Carmo Pegado | Madalena | Qu�mico � Especialista em Qu�mica F�sica 
+00001466 | Daniela Cavadas | Ponte De Lima | Vaporizador de Tecidos 
+00001467 | Irma Garrido | Olh�o | Estafetas, Distribuidores, Bagageiros e Trabalhadores Similares 
+00001468 | Erm�nio Ingrid Sotomayor Miera | Terras De Bouro | Conselheiro de Orienta��o Profissional 
+00001469 | Janu�rio Ediberto Garcia | Tondela | Operador de M�quina de Bordar 
+00001470 | Lucas Gusm�o | Mangualde | Leiloeiro 
+00001471 | Marisa Moura | Tavira | Encarregado � Mat�rias Pl�sticas 
+00001472 | Gertrudes Estrada | Cadaval | Serrador Mec�nico 
+00001473 | Ma�sa Magda Salom�o | Lajes Do Pico | Outros T�cnicos de Ci�ncias F�sico-Qu�micas 
+00001474 | Perceu Blanco | Celorico Da Beira | Qu�mico � Especialista em Qu�mica Org�nica 
+00001475 | Gertrudes Leda Arantes Conde | Moimenta Da Beira | Outros Lapidadores e Gravadores de Vidro e Cer�mica 
+00001476 | L�via Assun��o A�ores | Set�bal | Operador de Serragem � Bloco 
+00001477 | Neide Elaine Blanco Eanes | Estarreja | Outros Recepcionistas e Trabalhadores Similares 
+00001478 | Eli Cl�udio Paiva | Barcelos | Dourador Manual � Encaderna��o 
+00001479 | D�lia Jesabel Barata Mafra | Albergaria-A-Velha | Engenheiro Agr�nomo 
+00001480 | Nair Muniz | Vila Nova De Poiares | Outros Artistas de Circo 
+00001481 | Neandro P�ricles Quintais Avellar | Sousel | Motorista de Ve�culos Pesados � Passageiros 
+00001482 | Dinora Wagner L�io Macena | Chaves | Pintor por Imers�o � Cer�mica 
+00001483 | Andreia No�mia Frias Orri�a | Ribeira Grande | Outros Operadores de Instala��es de Filtra��o e Separa��o Qu�micas 
+00001484 | Edelmiro Esp�rito Santo | Almod�var | Percheiro (Cardador de Tecidos) 
+00001485 | Silvestre Hon�rio Nor�es | Vila Nova De Poiares | Estaticista 
+00001486 | Albina Michael Quinteiro Bulh�o | Avis | Outros Ocean�grafos 
+00001487 | S�lvio Idal�cio Mart�nez | Montemor-O-Velho | Restaurador de Tape�arias 
+00001488 | Petra Vera Leit�o | Figueir� Dos Vinhos | T�cnico de Restauro e Conserva��o 
+00001489 | Vieira Quixote P�voas Parafita | Torres Novas | Professor de Educa��o Especial � �rea da Defici�ncia Mental 
+00001490 | Vilma Cl�udio Caeiro | Ponte De Lima | Quebrador 
+00001491 | Cristiano D�lia Quintanilla | Oeiras | Operador de Filtro � Ind�stria Qu�mica 
+00001492 | Eug�nia Matilde Arruda | Guarda | Assistente de Cena � Cinema 
+00001493 | C�lia Castelo Branco | T�bua | Montador de Rel�gios (Operador de Montagem de Rel�gios), em S�rie 
+00001494 | Constan�a Amaral | Condeixa-A-Nova | Outros Mec�nicos de Motores de Avi�o 
+00001495 | Graziela Dias | Alpiar�a | Dobrador Manual � Encaderna��o 
+00001496 | Marisa Carreira | Almeirim | Correspondente em L�nguas Estrangeiras 
+00001497 | Idalinda Olga Carlos | Vimioso | Roupeiro 
+00001498 | Joana Amanda Baldaia Onofre | Murtosa | Operador de M�quina de Fabrico de Abrasivos 
+00001499 | Idal�cio Cabreira | Angra Do Hero�smo | Gestor de Conta Banc�ria 
+00001500 | Elizeu Lara | Lisboa | Transferista-Turismo 
+00001501 | D�nia Joaquim Quintais Garrau | Lousada | Cardador de Feltro 
+00001502 | Guilherme Luc�lia Le�a | Arraiolos | Trabalhador Rural 
+00001503 | Priscilo Jacob Lessa Outeiro | Lajes Das Flores | Mec�nicos e Ajustadores de M�quinas 
+00001504 | Walter Teresa Villela | S�o Jo�o Da Pesqueira | Leiloeiro 
+00001505 | Cl�udio Nestor Marmou | Oliveira Do Bairro | Pessoal dos Servi�os de Protec��o e Seguran�a 
+00001506 | Ema Villela | Ferreira Do Z�zere | Cortador Manual de Papel 
+00001507 | Simone Cabral | Vila Do Bispo | Escritur�rio � Apoio � Produ��o 
+00001508 | Herodes Larissa Vel�zquez | Cuba | Outros Penhoristas e Trabalhadores Similares 
+00001509 | Noemi Calvino Madureira Rolim | Covilh� | Modelador 
+00001510 | Deolinda Heitor Maciel Velasco | Praia Da Vit�ria | Fundidores � Moldadores e Macheiros 
+00001511 | Sa�l Jeremias Medina Granjeia | Belmonte | Outros Condutores de Ve�culos Ligeiros 
+00001512 | Lis El�i Andrade | Condeixa-A-Nova | Engenheiro T�cnico Civil � Constru��o de Aer�dromos 
+00001513 | N�bia Pedro Guerra | Alcochete | Telefonista � Recep��o e Emiss�o de Telegramas 
+00001514 | Alexander Vidigal | Faro | Vigia de Inc�ndios Florestais 
+00001515 | Emanuel Hil�rio Medeiros | Cuba | Torneiro-Rectificador � Borracha 
+00001516 | Joyce Alfeu Saloio Mafra | Vila Pouca De Aguiar | Pintor de Tabuletas 
+00001517 | Hamilton Am�rico Frota Varella | Vidigueira | Cavista � Ind�stria Hoteleira 
+00001518 | Graziela Am�vel Arantes Cavaco | Viana Do Castelo | Mediador Oficial 
+00001519 | Glaucia Apolin�rio Aguiar Sesimbra | Almeida | Reenrolador de Envolturas 
+00001520 | Anita Anselmo D�maso | Porto De M�s | Outros Programadores de Inform�tica e Trabalhadores Similares 
+00001521 | Capitolina Augusta Gameiro Sosa | Calheta | Compositor Mec�nico-Linotipista 
+00001522 | Andr� Valadares Viveiros Oliveira | Faro | Pantogravador � Vidro 
+00001523 | Serena Ata�de | Nisa | Operador de M�quina de Fabricar Sobrescritos e Sacos de Papel 
+00001524 | Laurinda Cantanhede | Vila Do Conde | Operador de M�quina de Vaporizar Fios 
+00001525 | T�nia Alan Feij� | Peniche | Top�grafo 
+00001526 | Luis Naum Miera | Paredes De Coura | Mandrilador � Trabalho em S�rie dos Metais 
+00001527 | H�lia Valentina Mourinho | Elvas | Fundidores � Moldadores e Macheiros 
+00001528 | Michael Sara Quadros Ver�ssimo | Mort�gua | Agricultores � Produ��o de Cereais e Vegetais 
+00001529 | Josu� Cerqueira | Vila Nova De Foz C�a | Operador de Pant�grafo � Metais 
+00001530 | Miguel Castilho | Serpa | Redactor Publicit�rio 
+00001531 | Luciano Sobral | Ponta Delgada | Veterin�rio 
+00001532 | In�s Gomide | Armamar | Marinheiro de Tr�fego Local 
+00001533 | Mariana Oct�vio Rico Meireles | Vieira Do Minho | Pessoal de Limpeza, Lavadeiras, Engomadores de Roupa e Trabalhadores Similares 
+00001534 | D�bora Vanderlei Vilanova Ourique | Moura | Outros Operadores de M�quinas de Produ��o e Refina��o de A��car 
+00001535 | Iara Guterres | Moura | Operador de Misturador � Gusa 
+00001536 | Elaine Constantino Couto | Vila Nova De Paiva | Operador de M�quinas � Ferramentas, em geral � Trabalho em S�rie dos Metais 
+00001537 | No�lia Marisol Sobreira Mena | Tavira | Ligador de Fibras (Assedador de Fibras) 
+00001538 | S�nia Villa�a | Anadia | Trabalhadores de Peles, Couro e Cal�ado 
+00001539 | Eleut�rio Fabiano Borba | Nisa | Operador de M�quina de Cortar Divis�rias � Cartonagem 
+00001540 | Eduardo Leonor Cerveira Barra | Gr�ndola | Docentes do Ensino Universit�rio e de Estabelecimentos de Ensino Superior 
+00001541 | Jonas Liberato | Cadaval | Trabalhadores da Pesca � Pesca Local e Costeira 
+00001542 | Valentino Eug�nio Neres Outeiro | Azambuja | Operador de Calandra � Pl�sticos 
+00001543 | Ivo Salvador Ramos Quaresma | �vora | Bacteriologista 
+00001544 | Rudolfo Gildo Fontoura | Aljustrel | Transportador � Artes Gr�ficas 
+00001545 | Henrique C�ndida Vergueiro Garcia | Covilh� | Gravadores e Fotogravadores de Artes Gr�ficas 
+00001546 | Hon�ria Eut�mio Bas�lio | Arraiolos | Engraxador 
+00001547 | Eust�cia J�dice | Bai�o | Pintor � Superf�cies Met�licas 
+00001548 | Albano Campelo | Vila Real De Santo Ant�nio | Alimentador de Instala��o do Tratamento do Malte 
+00001549 | Aguinaldo Cavaco | Porto | Operador de Composi��o � Vidro 
+00001550 | Liliana Selma Mendes | Amarante | Arquivista 
+00001551 | Carmen Br�ulio Mor�o Queiroga | Santa Cruz Das Flores | T�cnico de Telecomunica��es 
+00001552 | Augusto Alexandrina Muniz | Entroncamento | T�cnico de Emprego 
+00001553 | Ariela Gabriela Macena Valentim | Penedono | Operador de Tratamento T�rmico de Metais 
+00001554 | C�sar Simas | S�o Pedro Do Sul | Recepcionista, em Geral 
+00001555 | Artur Romualdo Zagalo | Armamar | Operador de M�quina de Revestimentos 
+00001556 | Capitolina Rego | Moita | Condutores de Ve�culos de Trac��o Animal 
+00001557 | Idalinda Nascimento | Mort�gua | Tra�ador 
+00001558 | Osvaldo D�bora Proen�a | Mora | Corretor de Navios (Ship Brower) 
+00001559 | Madalena Diva Aleixo Marroquim | Alvai�zere | Profissionais de N�vel Interm�dio dos Servi�os Jur�dicos 
+00001560 | N�vea Leopoldo Junqueira Vila-Ch� | Mur�a | Operador de Fotocompositora 
+00001561 | Berenice Barnab� Machado Rua | Montijo | Fresador de Sola � Cal�ado 
+00001562 | Luc�lia Cangueiro | Castro Daire | Superintendente 
+00001563 | Selma Paiva | Nelas | Maquinista de Metropolitano 
+00001564 | Diogo Xavier Figueir� | Coruche | Outros Condutores de Ve�culos Ligeiros 
+00001565 | Antenor Moreira | Ponte De Sor | Preparador de P�lo 
+00001566 | Alexandra Melanie Po�as | Aguiar Da Beira | Urbanista 
+00001567 | Sabina Faustino Sim�es Malheiro | Sert� | Barbeiro 
+00001568 | Luzia Barra | Resende | Xer�grafo 
+00001569 | Janu�rio Lia Roriz Soto Mayor  | Corvo | Forjadores, Estampadores e Operadores de Prensas de Forjar 
+00001570 | Normando Omar Ornellas Salt�o | Angra Do Hero�smo | Locutores e Apresentadores de R�dio, de Televis�o e de Espect�culos 
+00001571 | V�nia Paloma Carvalheira | Castelo De Vide | Cortador de Luvas � Prensa 
+00001572 | Vilela Esp�rito Santo | Azambuja | Cortador Manual de Papel 
+00001573 | Josaf� Neusa Lagoa | Gouveia | Condutores de Ve�culos Ligeiros 
+00001574 | Adorinda Agostinha Guedes Casado | Sobral De Monte Agra�o | Encarregado � Operadores de M�quinas de Encaderna��o 
+00001575 | Tabita Nuno �gueda | S�o Jo�o Da Pesqueira | Fisioterapeutas e Profissionais Similares 
+00001576 | Hermes Armanda Rebocho | Alcoutim | T�cnicos das Ci�ncias da Vida e da Sa�de 
+00001577 | Leonel Herm�nia Pereira Antas | Elvas | Vendedores Ambulantes de Produtos N�o Comest�veis 
+00001578 | N�dia Gaspar | Elvas | Floricultor 
+00001579 | Fl�r Waldemar Naves Quint�o | Nazar� | Oficial Radiot�cnico � Navega��o Mar�tima 
+00001580 | Liliana Edmundo Le�a Paiva | Cascais | Polidor de Metais (Operador de M�quina de Polir Metais) 
+00001581 | Rodrigo Nestor Pardo Vasques | S�t�o | Outros Actores, Encenadores e Realizadores 
+00001582 | Capitolina Jesabel Serralheiro Ara�jo | S�o Jo�o Da Madeira | Marceneiro 
+00001583 | Naz�rio Motta | Alf�ndega Da F� | Fiscal de Portagem 
+00001584 | Tadeu Maria Filgueiras Sacramento | Vila Real | T�cnico de Medicina Nuclear 
+00001585 | S�nia Ara�jo | Santiago Do Cac�m | Operador de Torno 
+00001586 | Alana Mont'Alverne | Torre De Moncorvo | M�dico Dermatologista 
+00001587 | Gerson Lara Caminha Benevides | Alpiar�a | Outros Empregados de Aprovisionamento 
+00001588 | Guilherme Adri�o Aranha Dutra | Sert� | Outros Condutores de Ve�culos Pesados de Mercadorias 
+00001589 | Du�lha Santar�m | Ferreira Do Alentejo | Cobrador 
+00001590 | Aldina Pinheiro | Alpiar�a | Oficial Radiot�cnico � Navega��o Mar�tima 
+00001591 | Victor Malvina Esteves | Salvaterra De Magos | Manobrador de V�lvulas e Comportas 
+00001592 | Tabita Magali Albernaz | Moimenta Da Beira | Outros Corretores de Mercadorias 
+00001593 | Erm�nio Nilda Azambuja Valcanaia | Vila Vi�osa | Assistente de Bordo 
+00001594 | Diva Heitor Milheiro Carmo | Seixal | M�dico Dermatologista 
+00001595 | Ol�mpia Hon�rio Fonseca | Guimar�es | Agentes Concession�rios 
+00001596 | Felisberto Glaucia Fontes | Sabrosa | Serralheiros Mec�nicos e Trabalhadores Similares 
+00001597 | Irene Felgueiras | Resende | Outras Costureiras, Bordadores e Trabalhadores Similares 
+00001598 | Hildegarda Castello | Sobral De Monte Agra�o | Operador de Filtro Rotativo � A��car 
+00001599 | Valentim Fl�vio Bulh�o | Mur�a | T�cnico de Manuten��o � Electricidade 
+00001600 | Martina Aires | Peniche | Outros Locutores e Apresentadores de R�dio, de Televis�o e de Espect�culos 
+00001601 | Il�dio Lucr�cia Malheiro | Arronches | Sapateiro, em Geral 
+00001602 | Nazar� Josefa Grangeia Garrido | Aveiro | Operador de M�quinas de Fabricar Pregos 
+00001603 | Te�filo Aveiro | Barreiro | Rectificador � Trabalho em S�rie dos Metais 
+00001604 | Asdr�bal Volney Peres  Be�a | Sintra | Operador de Audio � Radiodifus�o 
+00001605 | Vital Adosinda Orri�a Ata�de | Nordeste | Operador de Instala��o de Pintura � Peles 
+00001606 | Delfim Marino | Marinha Grande | Contra-Regra � Teatro 
+00001607 | Reginaldo Nilda Teixeira | Almod�var | Operador de M�quina de Gomar Fios 
+00001608 | Natividade Elias Couto | Ferreira Do Z�zere | Provador de Vinhos 
+00001609 | Edmundo Alexandre Pinheiro | Matosinhos | Desidratador � G�neros Alimentares 
+00001610 | Sandro Vilas-Boas | Castelo De Vide | Core�grafo 
+00001611 | Valentim Campos | Santa Maria Da Feira | Outros T�cnicos de Farm�cia 
+00001612 | Katia Freitas | Bombarral | Operador de Moinhos 
+00001613 | Arminda Caiado | Vila Flor | Oficial de Martelo 
+00001614 | Paloma Julieta Mantas | Proen�a-A-Nova | Outros Operadores de Instala��es para Trabalhar Madeiras e Corti�a 
+00001615 | Wilker L�lia Jorge | Vila Nova De Cerveira | Directores de Recursos Humanos e Rela��es de Trabalho 
+00001616 | Ac�cio S�nia Letras Caeiro | Santa Maria Da Feira | Acabador de Rendas 
+00001617 | Xavier Adosindo Barata | Aljustrel | Outros Ministros de Culto e Membros de Ordens Religiosas 
+00001618 | Eust�cia Belmiro Ramalho Saldanha | Fornos De Algodres | Fiscal de Rega 
+00001619 | Capitolino F�bia Fidalgo Cambezes | Alvito | Directores de Restaura��o e Hotelaria 
+00001620 | Carolina Gide�o Carvalhosa | Braga | Especialistas das Ci�ncias da Vida e Profissionais da Sa�de 
+00001621 | Justino Marta Seabra | S�o Roque Do Pico | Inspector de Revis�o de Bilhetes � Caminhos de Ferro 
+00001622 | Serena Maia | Montalegre | Desenhador Criador Industrial 
+00001623 | S�nia Renato Menezes | S�t�o | Manipulador (Bordador) de Teias 
+00001624 | Andr� Urbano Barreiros | Almeida | Foscador � Vidro 
+00001625 | Solange Vitorino Soverosa Torrado | Madalena | Prensador � Cer�mica 
+00001626 | Neusa Eus�bio Fontoura | Monchique | Confeccionador de Artigos por Imers�o em L�tex 
+00001627 | Ol�via Nobre | Almada | Outros Directores de Constru��o Civil e Obras P�blicas 
+00001628 | Filipe Filipa Assun��o Serpa | Mealhada | Operador de Imagem 
+00001629 | Ma�sa Vale | Lous� | Montador de Linhas Telef�nicas e Telegr�ficas 
+00001630 | Felismina Priscila Garrau Penteado | Lagoa | Outros Codificadores, Revisores de Provas e Similares 
+00001631 | Guida Branca Teixeira | Povoa��o | Moto-Serrista 
+00001632 | Paloma Candeias | S�o Roque Do Pico | Lixador Mec�nico � Peles 
+00001633 | Get�lio Vilela Boeira | Vila Nova De Famalic�o | Operador de Audio � Radiodifus�o 
+00001634 | M�nica Clementino Trindade | Oliveira De Azem�is | Gravador Manual � Processos Qu�micos 
+00001635 | Perceu Joel Rabello | Montemor-O-Velho | Encarregado � Operadores de M�quinas para Trabalhar Madeira e Corti�a 
+00001636 | Leandro Marisa Arag�o Lagos | Torres Novas | Operador de Pant�grafo � Madeira 
+00001637 | Asdr�bal Selma Figueiroa Varej�o | Porto | Assedador de Fibras 
+00001638 | Alexandre Adelino Matoso Cavalheiro | Bombarral | Actores, Encenadores e Realizadores 
+00001639 | Alcina Xavier Dam�sio Soeiro | Leiria | Directores de Produ��o, Explora��o e Similares 
+00001640 | Ulisses Guerreiro | Redondo | Fisiologista 
+00001641 | Sabina Carlos Lameirinhas Caeiro | Santar�m | Outros Directores e Gerentes de Empresas de Media��o e Presta��o de Servi�os 
+00001642 | Hon�rio Almeida | M�da | Profissionais da Cria��o Art�stica, do Espect�culo e do Desporto 
+00001643 | Gide�o Barros | Marinha Grande | Confeccionador de velas 
+00001644 | Adolfo Elias Valido | Santar�m | Chefe de Vendas 
+00001645 | Veloso Selma Mondrag�o | Ferreira Do Z�zere | Outros Bombeiros 
+00001646 | Jesabel Alfredo Granjeia Vasconcellos | Ma��o | Outros Joalheiros e Lapidadores 
+00001647 | Din� Parracho | Valongo | Corretor 
+00001648 | Ariana Caiado | Mangualde | Outros Condutores de Ve�culos de Trac��o Animal 
+00001649 | F�bio Gide�o Carvalheira | Trancoso | T�cnico de Redes � Electricidade 
+00001650 | Val�rio Silvestre Branco | Idanha-A-Nova | Outros Manobradores de Esta��o e Trabalhadores Similares 
+00001651 | Carminda Ol�vio J�dice | Carrazeda De Ansi�es | Farmac�utico 
+00001652 | D�ia L�via Lisboa | Vinhais | Polidor (Acabador) Manual de Pedra 
+00001653 | Roberto Judith Loio T�vora | Vinhais | Desenhador 
+00001654 | Pamela Jade Menna | Caldas Da Rainha | Outros Trabalhadores do Fabrico e Repara��o de Instrumentos de M�sica 
+00001655 | Pedro Nunes | Caldas Da Rainha | Entalhador 
+00001656 | Ricardo Salgado | Carrazeda De Ansi�es | Directores de Constru��o Civil e Obras P�blicas 
+00001657 | Mara Djalma Mederos Braz | Ma��o | Montador de Pe�as ou �rg�os Mec�nicos, em S�rie 
+00001658 | L�via Capitolina Carneiro Britto | Pinhel | Outros Engenheiros Mec�nicos e Engenheiros T�cnicos Mec�nicos 
+00001659 | Roberta Penteado | Mafra | Desenrolador de Folha � Madeira 
+00001660 | Neli Ventura | Gavi�o | Cavaleiro Taurom�quico 
+00001661 | Cl�udio Galv�o | Amarante | Operadores de M�quinas para Fabricar Produtos de Borracha e Mat�ria Pl�stica 
+00001662 | Ernane Jorge | Gondomar | Impressor Ser�grafo 
+00001663 | Regina Malafaia | Ponte Da Barca | Trabalhador Agr�cola (Trabalhador Rural) � Apicultura 
+00001664 | Valdemiro �scar Pastana Gon�alves | Nordeste | Torneiro (Operador de Torno) � Talhe de Pedra 
+00001665 | Wilton Jos� Salles Madureira | Vila Franca Do Campo | Operador de M�quina de Rotulagem � Produtos Alimentares 
+00001666 | Al�cia Blanco | Valongo | Quadrador 
+00001667 | Natalina Rebeca Morais Rocha | Valpa�os | Encarregado � Produ��o e Refina��o de A��car 
+00001668 | N�lida Caparica | Fund�o | Operador de M�quina de Colmatagem 
+00001669 | Victor Esparteiro | Vila Velha De R�d�o | Impressor � Prensa de Contacto 
+00001670 | Alma Hon�rio Regueira Caldas | Vila Do Porto | Outros T�cnicos de Electricidade 
+00001671 | Victor Barroqueiro | Mour�o | Operador de M�quina de Moldar � Rebu�ados e Caramelos 
+00001672 | Veloso Benedita Beltr�o Quintela | Paredes De Coura | Outros Forneiros, Fundidores e Trabalhadores Similares de Vidro e Cer�mica 
+00001673 | Assun��o Domingos Sobreira Faustino | Serpa | Trabalhadores dos Explosivos 
+00001674 | Aguinaldo Menezes | Povoa��o | Ajudante de Motorista � Marinha Mercante 
+00001675 | F�bia Dayse Grande Mattos | Ma��o | Electromec�nico de Elevadores e Aparelhos Similares 
+00001676 | Marco Junqueira | Vendas Novas | Manequim 
+00001677 | Altino Elen Rebocho Onofre | Montemor-O-Novo | Outros Assistentes de Medicina Dent�ria 
+00001678 | Lino Aldara Pereira Paulos | Moita | Picador de Cart�es de Debuxo 
+00001679 | Lena Katia Pedroso | Olh�o | Outros Assistentes, Comiss�rios e Trabalhadores Similares 
+00001680 | Isabel Alexandrina Barroqueiro | Arraiolos | Especialistas das Ci�ncias da Vida 
+00001681 | Calebe Eliana Lous� | Olh�o | Directores de Empresas de Servi�os Pessoais, Limpeza e Similares 
+00001682 | Nat�rcia Dorot�ia Coelho | Madalena | Conserveiros de Frutas, Legumes e Similares 
+00001683 | Graciete Danilo Mena Bai�o | Arronches | Guarda Florestal 
+00001684 | Petra Agnes Souto Maior Taveira | Castelo De Paiva | Chefe de Linha de Enchimento� Bebidas 
+00001685 | S�lvio Wilker Chamusca | Peso Da R�gua | Bombeador 
+00001686 | Renata Ferra�o | Santo Tirso | Afiador de Ferramentas 
+00001687 | Adelaide Villaverde | Cabeceiras De Basto | Agricultor � Agricultura de Subsist�ncia 
+00001688 | Jana�na Ondina Negr�o Maia | Alcoutim | Aplainador � Trabalho em S�rie dos Metais 
+00001689 | Margarida Lisandro Abranches | Avis | Trabalhador de Terra ou Cais (Carregador, Descarregador) 
+00001690 | Antenor Narciso Granjeiro Raminhos | Fund�o | Operador de M�quina de Lavagem de Grades e Garrafas 
+00001691 | Ediberto Sampaio | Penela | Operador de Instala��o Autom�tica de Fabrico de Tubos � Fibrocimento 
+00001692 | Vasco Almada | Calheta De S�o Jorge | Outros Soci�logos, Antrop�logos e Similares 
+00001693 | Hilton Ubirat� Areosa | Redondo | Contabilistas 
+00001694 | �ndia Farias | Mora | Operador do Fabrico de Lixas Circulares 
+00001695 | Pl�cido Melissa Guimar�es | �lhavo | Outros Engenheiros Electrot�cnicos e Engenheiros T�cnicos Electrot�cnicos 
+00001696 | Neiva Karen Bacelar | Mangualde | Preparador de Xaropes � Sumos e Refrigerantes 
+00001697 | Jorge Elias Milheir�o Can�rio | Marinha Grande | Operador de Britadeira 
+00001698 | Gil Calebe Trigueiro | Amadora | Filigranista 
+00001699 | Amilcar Bruno Espartero Almada | Carrazeda De Ansi�es | Condutor de M�quinas Agr�colas 
+00001700 | Agostinha Luciana Candeias | Aguiar Da Beira | Outros Pilotos de Avi�es e Trabalhadores Similares 
+00001701 | Ademir L�cia Abrantes | Batalha | Vidraceiro � Cortador de Bancada 
+00001702 | Jacinto Silveira  | Vila Franca De Xira | Educador de Estabelecimento (Monitor, Perceptor) 
+00001703 | Angelina Carmelinda Bulh�es Dias | Ribeira Brava | Operador de Fabrico � Farinhas L�cteas 
+00001704 | Renata Caeiro | Vila Real | Condutor 
+00001705 | Lourdes Natanael Anlicoara Fialho | Resende | Economista   
+00001706 | Ernane Nei Vasques | P�voa De Varzim | Estampador Mec�nico 
+00001707 | D�nia Tom�s Feitosa Dam�sio | Celorico De Basto | Operador de Instala��o Autom�tica de Prepara��o de Pasta � Cer�mica 
+00001708 | Fl�via Diego Carqueijeiro | Peniche | Mecatr�nico 
+00001709 | Dolores Ver�ssimo | Mealhada | Encarregado � Fabrico de Produtos L�cteos 
+00001710 | Martim Abel Cavaco Oleiro | Marco De Canaveses | Lapidadores e Gravadores de Vidro e Cer�mica 
+00001711 | Liane Mota | Arruda Dos Vinhos | Operadores de M�quinas de Imprimir � Artes Gr�ficas 
+00001712 | Shirley Rodrigo Passos Robalo | Monchique | Sondador 
+00001713 | Ada N�bia Falc�o Quintella | Almeirim | Operador de M�quina de Gravar Cilindros � Gofragem e Impress�o 
+00001714 | J�lia Prado | Vila Do Bispo | Estendedor Manual 
+00001715 | Maristela Quinaz | Batalha | Maquetista 
+00001716 | Clementino Gabriela Galindo | Terras De Bouro | Chefe de Esta��o � Correios 
+00001717 | Yuri J� Viveiros Portugal | Torres Novas | Canalizadores 
+00001718 | Esdras Nilda Rivas | Ourique | Enformador de Chap�u de Feltro 
+00001719 | Romana L�dia Anjos | Bai�o | Cardador de Tecidos 
+00001720 | Efig�nia C�tia Cartaxo Chousa | Vila Real | Disk-Jockey 
+00001721 | Dinorah Amado Nunes Barreto | Arganil | Outros Forjadores, Estampadores e Operadores de Prensas de Forjar 
+00001722 | L�via F�lix | Arouca | Manipulador (Bordador) de Teias 
+00001723 | Valentino Carvalhais | Lous� | Corretores de Bolsa, Cambistas e de Outros Servi�os Financeiros 
+00001724 | Vanusa Ilha | T�bua | Gravador de Fotogravura 
+00001725 | Consuela Alva Ram�rez | Lisboa | Estriador de Cilindros 
+00001726 | Nivaldo Celso Mour�o | Porto Moniz | Amassador de C�nhamo 
+00001727 | Frederica Geralda Pestana  Salles | Miranda Do Corvo | Cavista � Ind�stria Hoteleira 
+00001728 | Hirondina Cascais | Mes�o Frio | Bobinador � Papel ou Cart�o 
+00001729 | Evaldo Josaf� Guerra Quintas | Azambuja | Outros Empregados dos Servi�os de Transportes 
+00001730 | Junia Nataniel Serralheiro Teixeira | Barrancos | Consultor 
+00001731 | Tom� Gustavo Carvalhal | Alcanena | Operador de M�quinas do Fabrico de Artigos � Corti�a e Madeira 
+00001732 | Tito Jer�nimo Bel�m Franco | Miranda Do Corvo | Formador 
+00001733 | Nicole Domingos | Mangualde | Vendedor Ambulante � Produtos Comest�veis 
+00001734 | C�ndida Freixo | Moita | Director de Inform�tica 
+00001735 | Felicia L�cio Mirandela Lobo | Calheta De S�o Jorge | Projeccionista de Cinema 
+00001736 | Irene C�ssia Muxagata | Oliveira Do Hospital | Homeopata � Naturologista 
+00001737 | Micaela Abreu | Bragan�a | Ajudante de Padaria 
+00001738 | Martina Betancour | Lamego | Picador de Cart�es de Debuxo 
+00001739 | Valdir Dina Cirne Mena | Mangualde | Ciclista Profissional 
+00001740 | Henriqueta Gama | Leiria | Mec�nico � Reparador de Aparelhos e Antenas de R�dio e TV 
+00001741 | Helga Jord�o | Campo Maior | Bombeiro, em Geral 
+00001742 | C�ssia Arlindo Mor�o | Ponte De Sor | Abatjoureiro 
+00001743 | Pilar Elvis Quintela | Mirandela | Analista de Laborat�rio � An�lises Qu�micas 
+00001744 | Pascoal Cisneiros | Salvaterra De Magos | Operador de Cabine de Comando do Convertidor 
+00001745 | Tom� Nair Furtado | Alter Do Ch�o | Picador de Cart�es de Debuxo � Malhas Tubulares 
+00001746 | Ana�sa Idalinda Pedrozo | Amadora | Montador de Andaimes 
+00001747 | Assunta Hip�lito | Albufeira | Vigilante de Instala��o Autom�tica de Estirar Vidro 
+00001748 | Jonathan Capitolina Cotrim Velasco | Valen�a | T�cnico de Forma��o 
+00001749 | Sueli Valqu�ria Palma Pires | �bidos | Guarda, Rondista 
+00001750 | Evangelina Bezerra | Goleg� | Outros Farmac�uticos 
+00001751 | Lorena Castilhos | S�o Vicente | Apontador 
+00001752 | Lissa Laura Marcondes | Seia | Fiscal de Instala��es El�ctricas e Telef�nicas 
+00001753 | Frederico Concei��o | Barrancos | Recauchutador
+00001754 | Disa Brenda Campelo | Vila Franca De Xira | Revisor Oficial de Contas 
+00001755 | Neiva Aldara Cola�o Costa | Tomar | Cardador 
+00001756 | Mavilde Deolinda Alcaide Coito | Corvo | Abridor � Amaciador de Juta e L� 
+00001757 | Reginaldo Sales | Vila Franca De Xira | Assentador de Tacos 
+00001758 | Geralda Aguinaldo Pais | Boticas | Decalcador de Desenhos � Artes Gr�ficas 
+00001759 | Bryan Leiria | Portalegre | Cortador Manual de Papel 
+00001760 | Lib�nia Gustavo Onofre Viveiros | Ribeira Brava | Trabalhadores da Constru��o Civil e Obras P�blicas 
+00001761 | Afonso Nilda Proen�a | Ponte De Sor | T�cnicos de Engenharia Civil 
+00001762 | Luisa Castel�o | Porto Moniz | Arquivista 
+00001763 | Natalina Gago | Crato | Outros Operadores de Registo de Dados 
+00001764 | Bernardete Lisandro Granja | Castelo Branco | Encarregado � Equipamento Emissor e Receptor de R�dio e TV 
+00001765 | Violante Monforte | Beja | Xer�grafo 
+00001766 | Darcy Marisela Vel�zquez Britto | Fafe | T�cnico de Ortopr�tese 
+00001767 | L�gia Pegado | Redondo | Canteiro de Acabamentos � Constru��o Civil 
+00001768 | Ros�rio Matilde Natal | Felgueiras | Operador de M�quina de Fabricar Saltos 
+00001769 | Apol�nia Isilda Meirelles | Sesimbra | Salineiro (Marnoto, Marnoteiro) 
+00001770 | Asdr�bal Alfredo M�ndez Bulhosa | Vendas Novas | Vaporizador de Tecidos 
+00001771 | Heidi Sequeira | Maia | Controlador � Ind�stria Hoteleira 
+00001772 | Caetana Ma�sa Figueira | Lisboa | Curtidor 
+00001773 | Amanda Guido Tavares Corte-Real | Lajes Do Pico | Moldador-Prensador � Borracha 
+00001774 | Eus�bio Souto | Castro Marim | Consultor Jur�dico 
+00001775 | Samuel Sheila Valente | Alter Do Ch�o | Agricultor � Floricultura (Floricultor) 
+00001776 | Cremilde Ondina Vilanova Cangueiro | Camara De Lobos | Ponto 
+00001777 | Flor�ncio H�lder Morgado Avelar | Montalegre | Director de Explora��o Agr�cola 
+00001778 | Nicia Canejo | Nazar� | Cobradores e Trabalhadores Similares 
+00001779 | Adelmiro Geraldina Soares | Silves | Agente de Desenvolvimento 
+00001780 | Madalena Cleide Milheiri�o Teves | Matosinhos | M�dico Patologista Cl�nico 
+00001781 | Hon�rio Nero Malheiro | Gouveia | Torneiro (Operador de Torno) � Talhe de Pedra 
+00001782 | Gilberta Barra | Gondomar | Outros Farmac�uticos 
+00001783 | T�lio Rosana Ourique Onofre | Resende | Encarregado � Riscadores e Cortadores de Moldes 
+00001784 | Geraldino Ribeiro | Santa Cruz | Operadores de Instala��es de Fabrica��o de Vidro, Cer�mica e Trabalhadores Similares 
+00001785 | Waldemar Calisto Caparica | Tabua�o | Destilador de Bebidas Alco�licas 
+00001786 | Amilcar Francisco Soto Mayor  Canh�o | Arganil | Pintor � Decorador 
+00001787 | Romeu Agnete Balsem�o | Goleg� | Operador de Instala��o de Fabrico � Sumos de Frutas 
+00001788 | J�lio Brand�o | Vila Nova De Paiva | Director de Empresas de Media��o e Servi�os 
+00001789 | Ros�ria Ruela | S�o Br�s De Alportel | Vidreiros, Moldadores, Cortadores, Polidores de Vidro e Trabalhadores Similares 
+00001790 | Urraca Reginaldo Matoso | Rio Maior | Fundidor de Convertidor 
+00001791 | Lic�nio Raquel Portela Moniz | Vila Franca De Xira | T�cnico de Vendas � Inform�tica 
+00001792 | Reinaldo Jos�lia Jord�o Quintela | Arronches | Operador de M�quina de Polir Metais 
+00001793 | Abigail Jorge | Alcoba�a | Operadores de Instala��es do Fabrico de Pasta para Papel 
+00001794 | Leticia Agostinho Neres | Santiago Do Cac�m | Arrumador de Sala de Espect�culos 
+00001795 | Violeta Barcelos | Madalena | Operador de Instala��es de Transporte e Manuseamento de Carv�o 
+00001796 | Damiana Natalina Meirelles | Palmela | Condutores de M�quinas de Escava��o e Terraplanagem 
+00001797 | Tasha Ediberto Urias Neres | Alpiar�a | Encarregado � Ind�stria Qu�mica 
+00001798 | Herc�lia �lvaro | Arouca | Mediador (Angariador de Seguros) 
+00001799 | Susete Bas�lio | Braga | Operador de M�quina de Revestimento � Tape�arias 
+00001800 | Mariana Adriano Minho Aquino | Paredes | Operadores de Explora��o de Telecomunica��es e Telefonistas 
+00001801 | Antonieta Veloso | Nordeste | Vigilante (Guarda, Rondista) 
+00001802 | M�ximo Valqu�ria Quintal Torcuato | Penedono | Bibliotec�rio � Documentalista 
+00001803 | Vanderlei Jana�na Infante Casqueira | Valpa�os | Outros Criadores de Animais e Produtores de Leite 
+00001804 | Normando D�ia Gaspar | Nordeste | Ajuntador (Juntador) 
+00001805 | Capitolino Nilton Medina | Bombarral | Teleferista 
+00001806 | Naum Clementina Pessanha | Ferreira Do Alentejo | Operador de M�quina de Acolchoar 
+00001807 | Renato Catarina In�s Rivas | Aguiar Da Beira | Operador de Tratamento T�rmico de Metais 
+00001808 | Constan�a Cipriano | Ansi�o | Operador de Audio � Radiodifus�o 
+00001809 | Erico Coimbra | S�o Jo�o Da Madeira | Operador de Instala��o de Moldagem de Pl�sticos 
+00001810 | Esmeralda Capitolino Aquino | Lagoa | Secret�rios e Operadores de Equipamentos de Tratamento de Informa��o 
+00001811 | H�lia Mort�gua | �bidos | Outros Cozinheiros e Trabalhadores Similares 
+00001812 | Ladislau Dalva Jardim | Barreiro | Bi�logo � Especialista em Bot�nica 
+00001813 | H�lder Nazar� Nobre Cisneiros | Coruche | Enformador de Pe�as de Malha 
+00001814 | Cristela Gorj�o | Montalegre | Director e Gerente � Constru��o Civil 
+00001815 | Telmo Anderson Travassos Couto | Olh�o | Engenheiro Civil � Constru��o de Edif�cios 
+00001816 | Lucinda Gra�a Ventura Esteves | Murtosa | Veterin�rios 
+00001817 | Assunta Torreiro | Lous� | Juntador 
+00001818 | J�lio Margarete Ros�rio Prudente | Valongo | Gravadores e Fotogravadores de Artes Gr�ficas 
+00001819 | Ester Silva Ribeiro Vilari�a | Ferreira Do Z�zere | M�dico Cirurgi�o � Neurocirurgia 
+00001820 | Felisberto Val�rio Farinha Mendoza | Caminha | Estufeiro � Produtos Alimentares 
+00001821 | No�lia Eut�mio A�ores Mieiro | Porto De M�s | Inspector de Trac��o � Caminhos de Ferro 
+00001822 | Douglas Nilda Mourato | Torres Vedras | Gravador de Metais N�o Preciosos 
+00001823 | Ramiro Violeta C�sar | Alcoba�a | Conserveiro � Molhos e Condimentos 
+00001824 | Aldara Coelho | Almeida | Farmac�utico 
+00001825 | Ediberto Ricardino Vergueiro Freitas | Almada | Assistentes, Comiss�rios e Trabalhadores Similares 
+00001826 | Paula Salvador Marreiro Thom� | Goleg� | Fundidor Moldador Manual 
+00001827 | Lilian Yasmine R�go Bivar | Lajes Das Flores | Engenheiro Mec�nico � Concep��o 
+00001828 | D�rio Gago | Trancoso | Outros Caixas e Bilheteiros 
+00001829 | Natalina R�mulo Laranjeira Gouveia | Vila Nova De Famalic�o | Engenheiro Naval 
+00001830 | Lib�nia Cristiana Ulhoa | Moita | Impressor de "Offset" 
+00001831 | Bernardete Clarissa Pestana  Guedes | Tondela | Profissionais de N�vel Interm�dio dos Servi�os Jur�dicos 
+00001832 | Walter Flaviano Lages Torrado | Sousel | Funileiro � Latoeiro 
+00001833 | Ataliba Marcela Malafaia Be�a | Vila De Rei | Operador de M�quina de Gravar Cilindros � Rotogravura 
+00001834 | D�ris Rute Villas Boas Negromonte | Almod�var | Operador de Secador � Madeira 
+00001835 | Greta Mavilde Rebello Souto Maior | Gouveia | Electromec�nicos e Electricistas 
+00001836 | Priscilo Vidigal Abasto | Cartaxo | Outros Provadores e Seleccionadores de Produtos Alimentares e Bebidas 
+00001837 | Gertrudes Miriam Velasques Candal | Carregal Do Sal | Outros Ensaiadores e Outros Trabalhadores Similares 
+00001838 | Firmina Marina Anlicoara Padilha | Coruche | Seleccionador de Peles 
+00001839 | Antero Baltasar Saraiva | S�t�o | Torneiro de Madeira, Trabalho em S�rie 
+00001840 | Ricardino Palmira Menezes | Albergaria-A-Velha | Operador de Quadro 
+00001841 | N�dia Mariete Baptista | Trofa | Preparador de Xaropes � Sumos e Refrigerantes 
+00001842 | Neide Aline Dantas Seabra | Vila Nova Da Barquinha | Operador de Misturadora � Pudins e Fermentos 
+00001843 | Ieda Ladislau Neiva | Proen�a-A-Nova | Guarda-Nocturno 
+00001844 | Adalgisa Cinara Rodrigues Freiria | Marco De Canaveses | Empregados de Aprovisionamento e Armaz�m 
+00001845 | Jacy Lourival Caeiro Avellar | Peso Da R�gua | Engomador (Calandrador) de Tecidos 
+00001846 | C�cero Mourato | Fronteira | Filigranista 
+00001847 | Telma Nei Noite | Aguiar Da Beira | Quadrador 
+00001848 | Durval Raul Naz�rio Mexia | Bai�o | Arquivistas e Conservadores de Museus 
+00001849 | Solange Ieda Jord�o | Vila Vi�osa | Operador de Robot Industrial 
+00001850 | Obede Meneses | Arraiolos | Ensaiador (Escolhedor) 
+00001851 | C�ssio Almada | Ovar | Outros Cartonageiros e Operadores de M�quinas de Cartonagem 
+00001852 | Jacy Linares | S�o Roque Do Pico | Operador de M�quinas do Fabrico de Agulhas de A�o 
+00001853 | Jana�na Saldanha | Vila Nova De Poiares | T�cnico de Reeduca��o 
+00001854 | Teresa Mesquita | Salvaterra De Magos | Profissionais de N�vel Interm�dio de Gest�o e Administra��o 
+00001855 | Edna Estrela | P�voa De Lanhoso | Estaticista 
+00001856 | Jos�lia Ros�rio Melancia | Barreiro | Outros Engenheiros Electrot�cnicos e Engenheiros T�cnicos Electrot�cnicos 
+00001857 | Vera Calisto Amarante Cedro | Tavira | Empregado de C�maras � Marinha Mercante 
+00001858 | Herc�lia Matoso | M�da | Agente Publicit�rio 
+00001859 | Edmar Cl�ber Olaio | Penafiel | Actor 
+00001860 | Dinora Andr� Olivares | Sousel | Educador de Estabelecimento (Monitor, Perceptor) 
+00001861 | Leonel �urea Seabra Sousa de Arronches | Trancoso | Contramestre � Marinha Mercante 
+00001862 | Sara Sousa do Prado | Caminha | Vaporizador de Meias 
+00001863 | Teresa Clementino | Paredes De Coura | Outros Operadores de M�quinas para Confec��o 
+00001864 | Hor�cio Pires | Ferreira Do Alentejo | Outros F�sicos e Astr�nomos 
+00001865 | Carina Milene Cavalheiro Estrada | Barcelos | Caneleiro 
+00001866 | Serena Amarante | Sernancelhe | Maquinista de Comboio 
+00001867 | Aldina Anlicoara | Santa Comba D�o | Trabalhadores de Peles, Couro e Cal�ado 
+00001868 | Aline Bai�o | Ferreira Do Alentejo | Preparador de Produtos de Clarifica��o � A��car 
+00001869 | Jos�lia Lousada | Amares | Piloto de Barra 
+00001870 | C�ssia Dejanira Caeiro | S�o Jo�o Da Madeira | Encarregado � Caldeireiros, Latoeiros e Bate-Chapas 
+00001871 | Greg�rio Avelina Rodovalho Jord�o | Mes�o Frio | M�dico Pneumologista 
+00001872 | Waldemar Afonso Jesus Lagoa | Lagoa | Outros Condutores de M�quinas de Escava��o e Terraplanagem 
+00001873 | Ana Gabeira | Cartaxo | Operador de Audio � Radiodifus�o 
+00001874 | Brandon Gravato | Guimar�es | Engenheiro T�cnico Agr�rio � Produ��o Florestal 
+00001875 | Theo D�ia Salt�o | Set�bal | Outros M�dicos Dentistas 
+00001876 | Henrique Paes | Ribeira Grande | Operador de M�quinas-Ferramentas, em Geral � Trabalho em S�rie dos Metais 
+00001877 | Valdo Cassilda Teles Doutiz | Ribeira De Pena | Guarda-Freio � Carros El�ctricos 
+00001878 | No�mia Ilda Pestana  | Melga�o | Encarregado � Borracha 
+00001879 | Muriel Esmeralda Avelar Mirandela | Redondo | Mec�nico de Autom�veis 
+00001880 | Carol Ol�via Almeida Amaro | Alter Do Ch�o | Operador de Secador e Aromatizador � Tabaco 
+00001881 | Leda Benjamim Cal�ada Freire | Vila Nova De Cerveira | Director de Explora��o Agr�cola 
+00001882 | Leonel Soares | Valongo | M�dico � Radioterapia 
+00001883 | D�nia Carmen Quintanilla | Peniche | Afagador � Madeiras 
+00001884 | Yasmine Mexia | Campo Maior | Operador de M�quina de Cortar Bast�es (Cortador de Bast�es) 
+00001885 | Gildo Sid�nio Laureano | Oleiros | Redactor Publicit�rio 
+00001886 | Bartolomeu Corn�lia Lemos Valcanaia | Valpa�os | Outros Trefiladores e Estiradores 
+00001887 | Vilma Sardinha | Coimbra | Assistente Dent�rio 
+00001888 | Dinora Misael Mainha Trist�o | Seixal | Condutor de M�quina de Nivelamento e Terraplanagem 
+00001889 | C�cero Br�gida Quint�o | Penedono | Operador de Combust�vel 
+00001890 | D�rio Miracema Siqueira P�voas | Cartaxo | Branqueador de Produtos T�xteis 
+00001891 | Roberto Celina Dotel Villena | Batalha | F�sico � Especialista em Electricidade e Magnetismo 
+00001892 | Ramom Albina Villar Toledo | Ansi�o | Montador de Pe�as ou �rg�os Mec�nicos, em S�rie 
+00001893 | Dalva Dulcineia In�s | Funchal | Docentes do Ensino Universit�rio e de Estabelecimentos de Ensino Superior 
+00001894 | Pilar Benito Fartaria | Figueir� Dos Vinhos | Sonoplasta 
+00001895 | Faustino Rosa Caires | Camara De Lobos | Especialistas de Profiss�es Administrativas e Comerciais 
+00001896 | Anselmo Tadeu Macedo | Montalegre | Carpinteiro de Tosco 
+00001897 | Cinara Soverosa | �vora | Recauchutador
+00001898 | Ana Lina Matoso | Viana Do Castelo | Empilhador de Tecidos 
+00001899 | Alessandra C�ndida Lameiras Couto | Albergaria-A-Velha | Oleiro � Artesanato 
+00001900 | Irene Mois�s Cisneiros | Celorico De Basto | Impressor Tipogr�fico 
+00001901 | Diana Infante | Arganil | Fiandeiro � Linho, C�nhamo, Juta e Sisal 
+00001902 | Delfim Dana Teixeira Cachoeira | Pombal | Filigranista 
+00001903 | Geraldino Fialho | Cascais | Director de Produ��o � Ind�stria Transformadora, excepto Ind�stria Alimentar 
+00001904 | Mateus Ricardina Le�o Lima | Estremoz | Operador de C�mara de Murcha��o de Ch� 
+00001905 | Elsa Manuel Damasceno Torreiro | Arouca | Operador de Combust�vel 
+00001906 | Matilde Sequeira | Mangualde | Montador de Ensaios de Caudal 
+00001907 | Alberta H�lio Mendoza | Cabeceiras De Basto | Operador de M�quina de Colar Peles � Malas e Marroquinaria 
+00001908 | Maur�cio Rodolfo Machado Belchior | Arganil | Inspector de Movimento � Caminhos de Ferro 
+00001909 | Oleg�rio Eut�mio Gon�alves | Gondomar | Pessoal dos Servi�os e Vendedores 
+00001910 | Isolina Pai�o | Mangualde | Teleferista 
+00001911 | Ricardo Calisto Jord�o | Alter Do Ch�o | Cravador 
+00001912 | Evandro Em�lia Marmou Borja | Leiria | Cortador de Pelaria � Malas e Marroquinaria 
+00001913 | Nero Brum | Ovar | Outros Montadores e Reparadores de Aparelhagem El�ctrica 
+00001914 | Ermengarda Em�lio Salgueiro | Ribeira De Pena | Picador de Pentes 
+00001915 | Al�rio Ferr�o | Boticas | Esteticista (Visagista) 
+00001916 | Arm�nio Violeta Cardoso Damascena | Miranda Do Corvo | Operador de M�quina de Revestimento � Artigos de Corti�a 
+00001917 | Leopoldo Celeste Valadares | Arraiolos | Modelador � Malas e Marroquinaria 
+00001918 | Silvestre Uchoa | Moita | Outros Directores de Produ��o das Ind�strias Transformadora e Extractiva 
+00001919 | Nero Perceu Valente | Pa�os De Ferreira | Qu�mico � Especialista em Qu�mica Org�nica 
+00001920 | Sueli Beatriz Carvalhosa Carvalhal | Povoa��o | Filigranista 
+00001921 | Anabela Garrido | Murtosa | Mestre Costeiro Pescador 
+00001922 | Belmiro Micaela Quinaz | Vila Real De Santo Ant�nio | Outros Maquinistas de Locomotivas 
+00001923 | Cl�udia Madalena Castelo Bethecourt | Mondim De Basto | Engenheiro T�cnico de Energia e Sistemas de Pot�ncia 
+00001924 | Silvestre Xavier Landim | Porto Moniz | Outros Matem�ticos e Especialistas Similares 
+00001925 | Herm�nia Obede Carvalhais | Loul� | Vazador 
+00001926 | Alexandra Coito | Sousel | Outros Meteorologistas 
+00001927 | Vital X�nia Quinaz | Vila Velha De R�d�o | Realizador de Televis�o 
+00001928 | Dalva Onofre | Const�ncia | Profissionais da Cria��o Art�stica, do Espect�culo e do Desporto 
+00001929 | Norberto Carlota Gusm�o Sanches | Oleiros | Ponto 
+00001930 | T�nia Juca Cidreira Os�rio | Nelas | Cardador de Feltro 
+00001931 | L�lia Hor�cio Almada Lisboa | Moura | Estofador de Viaturas 
+00001932 | Miguel Lina Bettencourt | �bidos | Cen�grafo 
+00001933 | Alva Mata | Carregal Do Sal | Estafeta (Mensageiro) 
+00001934 | Martim Laurentina Rangel | Mort�gua | Percheiro (Cardador de Tecidos) 
+00001935 | Violante Ramallo | Faro | M�dicos Dentistas 
+00001936 | Virgolina Jade Loureiro | Lajes Das Flores | Engraxador 
+00001937 | Vanderlei Ces�rio | Calheta | Cantoneiros de Limpeza e Trabalhadores Similares 
+00001938 | Manuel Sousa do Prado | Castro Verde | Empregado de Balc�o 
+00001939 | V�nia Theo Talh�o Valentim | Silves | Engenheiro Civil � Constru��o de Pontes 
+00001940 | C�tia Cach�o | Gr�ndola | Operador de Ilumina��o � Cinema e Televis�o 
+00001941 | Natividade Bernardes | Aveiro | Inspector da Pol�cia Judici�ria 
+00001942 | Ilda Edgar Os�rio | Tarouca | Enformador de Cones de Feltro de L� (Cardador de Feltro) � Chapelaria 
+00001943 | C�ssio Nilton Pimenta | Celorico Da Beira | Director de Restaurante 
+00001944 | Cl�udio Fernando Caneira Rebelo | Ponte De Lima | Outros Directores de Empresas 
+00001945 | Jocosa Ac�rcio Villena Ventura | Celorico Da Beira | Tratador de Animais 
+00001946 | Maristela Deonilde Osorio | Monforte | Maleiro, Caixa Auxiliar Volante 
+00001947 | Deolinda Adalberto Raminhos | Santa Marta De Penagui�o | Cr�tico 
+00001948 | Darcy Sequeira | Odivelas | Mediador (Angariador de Seguros) 
+00001949 | Adosindo Gama | S�o Vicente | F�sico Te�rico 
+00001950 | Baltasar Anderson Vergueiro Cartaxo | Entroncamento | Outros Especialistas do Trabalho Social 
+00001951 | Felicia Covinha | Sever Do Vouga | Outros Trabalhadores N�o Qualificados das Minas 
+00001952 | Aldino Carrasco | Carregal Do Sal | Manequim 
+00001953 | Edelina Berenice Avellar | Estarreja | Anotador � Cinema e Televis�o 
+00001954 | Ivete Soto | Guarda | Outros Directores e Gerentes de Transportes e Telecomunica��es 
+00001955 | C�tia Leoc�dio Le�a | Caldas Da Rainha | Homeopata � Naturologista 
+00001956 | Estev�o H�lio Belchiorinho | Porto | Outras Parteiras 
+00001957 | Yasmin D�ria Neto | Vila Pouca De Aguiar | Medidor 
+00001958 | Arminda Pederneiras | Vila Nova De Famalic�o | Cantoneiros de Limpeza e Trabalhadores Similares 
+00001959 | Edson Santar�m | Manteigas | Operador de M�quinas do Fabrico de Molas � Estofos e Colch�es 
+00001960 | Olavo Simas | Esposende | Outros Artes�os de Artigos em Madeira e Materiais Similares 
+00001961 | Guida Mondrag�o | Gondomar | Maquinista de Comboio 
+00001962 | Regina Cosme Felipe Ornelas | Vila Real De Santo Ant�nio | Estafeta (Mensageiro) 
+00001963 | Petra Isa Paula | Rio Maior | Confeccionador de velas 
+00001964 | Il�dio Janes | Paredes De Coura | Tecel�o Manual 
+00001965 | Tiago Bet�nia Teixeira | Leiria | Outros Condutores de Ve�culos de Trac��o Animal 
+00001966 | Cleusa D�lia Vianna | Lajes Das Flores | Trabalhador N�o Qualificado 
+00001967 | Altair Ribas | Ma��o | Cavaleiro Taurom�quico 
+00001968 | Estef�nia Eleut�rio Lago Cardoso | Arouca | Guarda de Ca�a 
+00001969 | Keila Mauro Vidal | Boticas | Trabalhadores Florestais N�o Qualificados 
+00001970 | Sandro Ema Felgueiras Fi�es | Figueir� Dos Vinhos | Alimentador de Instala��o do Tratamento do Malte 
+00001971 | Adorinda H�lio Chagas Baldaia | Alpiar�a | Operador de Estufa (Operador de C�mara) 
+00001972 | Cibelli Anjos | Barreiro | Operador de Instala��o de Fermenta��o e Tratamento � Cerveja 
+00001973 | Hamilton Wilma Lara �lvaro | Lisboa | Impressor � Prensa de Contacto 
+00001974 | D�nia Varanda | Carregal Do Sal | Outros Operadores de M�quinas a Vapor e Caldeiras 
+00001975 | Ado Franklin Quinterno | Set�bal | Outros Arquivistas e Conservadores de Museus 
+00001976 | T�lio Moura | Vila Nova De Gaia | Escritur�rio de Contabilidade 
+00001977 | Esmeralda Erm�nia Quintal | Vila Flor | Outros Montadores de Cabos 
+00001978 | Narciso Valle | Guimar�es | T�cnico de Oceanografia 
+00001979 | Dores Hebe Castanheira T�vora | �vora | Operador de Serragem � Bloco 
+00001980 | Fab�ola M�xima Gentil Bettencourt | Borba | Gravador com Roda � Vidro 
+00001981 | Valqu�ria Curado | Arouca | Bi�logo � Especialista em Ecologia 
+00001982 | Cl�udia �ndia Rufino | Almeida | Director de Produ��o � Ind�stria Extractiva 
+00001983 | Nina Deonilde Castro | Tomar | Instrutor de Condu��o de Ve�culos Autom�veis 
+00001984 | Anita Elaine Sobreira Valgueiro | Alenquer | Bordador � M�quina 
+00001985 | Jonata Nisa Estrada | Porto Moniz | Operador de Extrac��o � �leos Alimentares 
+00001986 | Serena Vanda Faia | Melga�o | Operador de M�quina de Revelar Pel�culas 
+00001987 | Firmino Bezerril | Ribeira Brava | T�cnico de Informa��o e Comunica��es Aeron�uticas 
+00001988 | Neiva Caiado | Aveiro | Operador de M�quina de Corte � Tabaco 
+00001989 | Idalinda Andreia Guerreiro | Ribeira De Pena | Operador de Combust�vel 
+00001990 | Ad�o Moreira | Corvo | Bordador Manual de Tape�aria 
+00001991 | Domingos M�rcio Clementino | Alcochete | Cortador de Peles � Cal�ado 
+00001992 | Karen Hirondina Farias | Figueira Da Foz | Outros Cantoneiros de Limpeza e Trabalhadores Similares 
+00001993 | Anast�cio Evandro Boga Santos | Cartaxo | Operador de M�quinas de Prepara��o de Minas para L�pis 
+00001994 | Adosinda Tom� | Torres Novas | Copeiro 
+00001995 | Volney Dorisse Mariz Olivera | Melga�o | Agricultor � �rvores de Fruto e Videiras 
+00001996 | Venceslau Margarete Salt�o | Ribeira De Pena | Revistador � Enrolador de Feltro 
+00001997 | Dana Frederica Soeiro Paula | Oliveira De Frades | Operador de Caldeiras a Vapor (Fogueiro de Caldeiras a Vapor) 
+00001998 | Georgina Naomi Arantes | Maia | Operador de "Rand-Weber" 
+00001999 | Adonir� C�ntia Rocha Conde | M�da | Fundidor Moldador Manual 

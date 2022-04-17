@@ -62,10 +62,10 @@ void unary_calculate_data(unary_model *model, size_t *symbols_table, unary_symbo
     }
 
     qsort(
-        unary_data,
-        model->num_symbols,
-        sizeof(unary_symbol_data),
-        (int (*)(const void *, const void *)) unary_symbol_data_cmp
+            unary_data,
+            model->num_symbols,
+            sizeof(unary_symbol_data),
+            (int (*)(const void *, const void *)) unary_symbol_data_cmp
     );
 }
 
@@ -193,11 +193,23 @@ void unary_print_test(const char *file_path, const char *encoded_file_path, cons
         return;
     }
 
+
     long double avg_length;
     unary_get_average_length(src_fp, &avg_length);
 
     long double entropy;
     unary_get_entropy(src_fp, &entropy);
+
+//    size_t data_len;
+//    size_t num_symbols;
+//    size_t symbols_table[SYMBOLS_SIZE];
+//    memset(symbols_table, 0, SYMBOLS_SIZE * sizeof(size_t));
+//    unary_calculate_symbols_table(src_fp, &data_len, &num_symbols, symbols_table);
+//
+//    for (int i = 0; i < SYMBOLS_SIZE; i++) {
+//        if (symbols_table[i] > 0)
+//            printf("%c: %zu\n", (char) i, symbols_table[i]);
+//    }
 
     printf("File %s\n\n", file_path);
     printf("File size: %zu bytes\n", file_size);
