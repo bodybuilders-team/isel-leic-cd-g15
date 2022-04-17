@@ -20,16 +20,38 @@ Average length: 9.62 bits/symbol
 Entropy: 4.57 bits/symbol
 Encoding efficiency: 47.48%
 -----------------------------------------------------
+File ../test_files/bets.txt
+
+File size: 42344 bytes
+Decoded size: 42344 bytes
+Expected encoded size: 27049 bytes
+Encoded size: 27049 bytes
+Compression ratio: 63.88%
+Average length: 5.11 bits/symbol
+Entropy: 3.52 bits/symbol
+Encoding efficiency: 68.85%
+-----------------------------------------------------
+File ../test_files/citizens.txt
+
+File size: 86243 bytes
+Decoded size: 86243 bytes
+Expected encoded size: 130480 bytes
+Encoded size: 130480 bytes
+Compression ratio: 151.29%
+Average length: 12.09 bits/symbol
+Entropy: 4.87 bits/symbol
+Encoding efficiency: 40.29%
+-----------------------------------------------------
 File ../test_files/cp.htm
 
-File size: 27024 bytes
-Decoded size: 27024 bytes
-Expected encoded size: 45049 bytes
-Encoded size: 45049 bytes
-Compression ratio: 166.70%
-Average length: 13.31 bits/symbol
-Entropy: 5.07 bits/symbol
-Encoding efficiency: 38.06%
+File size: 27709 bytes
+Decoded size: 27709 bytes
+Expected encoded size: 47519 bytes
+Encoded size: 47519 bytes
+Compression ratio: 171.49%
+Average length: 13.69 bits/symbol
+Entropy: 5.11 bits/symbol
+Encoding efficiency: 37.30%
 -----------------------------------------------------
 File ../test_files/lena.bmp
 
