@@ -125,12 +125,11 @@ def entropy_from_list(labels):
     return round(entropy(counts, base=2), ndigits=4)
 
 
-# TODO Comente os resultados obtidos
-
 # Encode test files
 if __name__ == '__main__':
-    LZ77_Tokenizer("../../docs/CD_TestFiles/a.txt", "a_encoded.txt", sw_length=8, lab_length=4, show_hist=True)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/alice29.txt", "alice29_encoded.txt", 8, 4)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/cp.htm", "cp_encoded.txt", 8, 4)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/Person.java", "Person_encoded.txt", 8, 4)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/progc.c", "progc_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../docs/CD_TestFiles/a.txt", "encoded_test_files/a_encoded.txt", sw_length=20, lab_length=8,
+                   show_hist=True)
+    LZ77_Tokenizer("../../docs/CD_TestFiles/alice29.txt", "encoded_test_files/alice29_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../docs/CD_TestFiles/cp.htm", "encoded_test_files/cp_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../docs/CD_TestFiles/Person.java", "encoded_test_files/Person_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../docs/CD_TestFiles/progc.c", "encoded_test_files/progc_encoded.txt", 8, 4)

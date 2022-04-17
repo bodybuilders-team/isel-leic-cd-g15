@@ -68,7 +68,7 @@ void in_bit_file_stream_rewind(InputBitFileStream *stream);
 /*
  * Function: in_bit_file_stream_destroy
  * ----------------------------
- * Destroyes a InputBitFileStream stream.
+ * Destroys a InputBitFileStream stream.
  *
  * stream: stream to destroy
  */

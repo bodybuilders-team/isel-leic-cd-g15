@@ -32,8 +32,9 @@ int unary_write_encoded_data(OutputBitFileStream *out_stream, unary_model *model
 
 int unary_symbol_data_cmp(unary_symbol_data *a, unary_symbol_data *b) {
     // We don't use subtraction because of size_t
-    return (b->count == a->count) ? 0 : (b->count < a->count) ? -1
-                                                              : 1;
+    return (b->count == a->count) ? 0
+                                  : (b->count < a->count) ? -1
+                                                          : 1;
 }
 
 int unary_calculate_model(FILE *src_fp, unary_model *model) {
@@ -60,9 +61,12 @@ void unary_calculate_data(unary_model *model, size_t *symbols_table, unary_symbo
         }
     }
 
-    qsort(unary_data, model->num_symbols, sizeof(unary_symbol_data),
-          (int (*)(const void *, const void *))
-                  unary_symbol_data_cmp);
+    qsort(
+        unary_data,
+        model->num_symbols,
+        sizeof(unary_symbol_data),
+        (int (*)(const void *, const void *)) unary_symbol_data_cmp
+    );
 }
 
 void unary_calculate_symbols_table(FILE *src_fp, size_t *data_len, size_t *num_symbols, size_t *symbols_table) {

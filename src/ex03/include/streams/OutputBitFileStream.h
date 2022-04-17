@@ -82,7 +82,7 @@ int out_bit_file_stream_flush(OutputBitFileStream *stream);
 /*
  * Function: out_bit_file_stream_destroy
  * ----------------------------
- * Destroyes a OutputBitFileStream stream.
+ * Destroys a OutputBitFileStream stream.
  *
  * stream: stream to destroy
  */

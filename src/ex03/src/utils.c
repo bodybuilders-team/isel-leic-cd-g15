@@ -9,9 +9,9 @@ size_t get_file_size(const char *path) {
 }
 
 size_t fget_file_size(FILE *fp) {
-    fseek(fp, 0, SEEK_END); // seek to end of file
-    size_t size = ftell(fp); // get current file pointer
-    fseek(fp, 0, SEEK_SET); // seek back to beginning of file
+    fseek(fp, 0, SEEK_END);     // seek to end of file
+    size_t size = ftell(fp);    // get current file pointer
+    fseek(fp, 0, SEEK_SET);     // seek back to beginning of file
 
     return size;
 }

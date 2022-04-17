@@ -1,9 +1,10 @@
-from generate_password.generate_password import numbers_alphabet, numbers_fmp
-from strings_source.strings_source import strings_source
+from src.ex02.strings_source.strings_source import strings_source
 import random
+
 
 def uniform_fmp(length):
     return [1 / length] * length
+
 
 def generate_names(names, surnames, number_of_citizens):
     names = strings_source(names, uniform_fmp(len(names)), number_of_citizens * 2).split(";")
@@ -55,9 +56,11 @@ def generate_table_content(number_of_citizens, number_of_bets):
             citizensF.write(f"{citizen[0]:08d} | {citizen[1]} | {citizen[2]} | {citizen[3]}\n")
 
     # Bets
-
-    citizen_ids = strings_source([f"{i:08d}" for i in range(number_of_citizens)], uniform_fmp(number_of_citizens),
-                                 number_of_bets).split(";")
+    citizen_ids = strings_source(
+        alphabet=[f"{i:08d}" for i in range(number_of_citizens)],
+        fmp=uniform_fmp(number_of_citizens),
+        L=number_of_bets
+    ).split(";")
 
     bets = []
 
@@ -78,5 +81,6 @@ def generate_table_content(number_of_citizens, number_of_bets):
             betsF.write(f"{citizen_ids[i]} | {bets[i]} | {dates[i]}\n")
 
 
+# Test function
 if __name__ == '__main__':
     generate_table_content(2000, 2000)
