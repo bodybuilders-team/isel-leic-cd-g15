@@ -40,12 +40,12 @@ def test_most_frequent_symbol_of_this_file():
 
 
 def test_most_frequent_symbol_of_aux_file():
-    assert most_frequent_symbol(filename="../../../docs/AuxFiles/Nomes.txt") == "\n"
+    assert most_frequent_symbol(filename="../../../../docs/AuxFiles/Nomes.txt") == "\n"
 
 
 def test_most_frequent_symbol_of_alice29_file():
-    assert most_frequent_symbol(filename="../../../docs/CD_TestFiles/alice29.txt") == " "
+    assert most_frequent_symbol(filename="../../../../docs/CD_TestFiles/alice29.txt") == " "
 
 
 def test_most_frequent_symbol_of_a_file():
-    assert most_frequent_symbol(filename="../../../docs/CD_TestFiles/a.txt") == " "
+    assert most_frequent_symbol(filename="../../../../docs/CD_TestFiles/a.txt") == " "

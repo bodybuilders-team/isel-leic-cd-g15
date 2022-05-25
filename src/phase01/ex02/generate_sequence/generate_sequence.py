@@ -1,4 +1,4 @@
-from src.ex02.strings_source.strings_source import strings_source
+from src.phase01.ex02.strings_source.strings_source import strings_source
 
 sequence_alphabet = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 sequence_fmp = [1 / 36] * 36

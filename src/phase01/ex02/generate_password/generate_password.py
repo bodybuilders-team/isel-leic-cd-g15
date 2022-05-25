@@ -1,4 +1,4 @@
-from src.ex02.strings_source.strings_source import strings_source
+from src.phase01.ex02.strings_source.strings_source import strings_source
 import random
 
 lowercase_letters_alphabet = list("abcdefghijklmnopqrstuvwxyz")

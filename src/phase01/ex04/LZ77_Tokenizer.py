@@ -1,6 +1,4 @@
-import numpy as np
-from scipy.stats import entropy
-import matplotlib.pyplot as plt
+from src.utils.utils import entropy_from_list, show_histogram
 
 TOKEN_POSITION_IDX = 0
 TOKEN_LENGTH_IDX = 1
@@ -97,39 +95,11 @@ def LZ77_get_token(sw, lab):
     return best_position, best_length, innovation_symbol
 
 
-def entropy_from_list(labels):
-    """
-    Calculates entropy from a list.
-    :param labels: list
-    :return: entropy
-    """
-
-    value, counts = np.unique(labels, return_counts=True)
-    return round(entropy(counts, base=2), ndigits=4)
-
-
-def show_histogram(labels, x_label, title, labels_entropy):
-    """
-    Shows a histogram of labels.
-    :param labels: histogram labels
-    :param x_label: histogram x label
-    :param title: histogram title
-    :param labels_entropy: labels entropy
-    """
-
-    plt.hist(labels, bins=len(labels))
-    plt.xlabel(x_label)
-    plt.ylabel("Occurrences")
-    plt.suptitle(title, fontsize=18)
-    plt.title("Entropy: " + str(labels_entropy))
-    plt.show()
-
-
 # Encode test files
 if __name__ == '__main__':
-    LZ77_Tokenizer("../../docs/CD_TestFiles/a.txt", "encoded_test_files/a_encoded.txt", sw_length=20, lab_length=8,
+    LZ77_Tokenizer("../../../docs/CD_TestFiles/a.txt", "encoded_test_files/a_encoded.txt", sw_length=20, lab_length=8,
                    show_hist=True)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/alice29.txt", "encoded_test_files/alice29_encoded.txt", 8, 4)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/cp.htm", "encoded_test_files/cp_encoded.txt", 8, 4)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/Person.java", "encoded_test_files/Person_encoded.txt", 8, 4)
-    LZ77_Tokenizer("../../docs/CD_TestFiles/progc.c", "encoded_test_files/progc_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../../docs/CD_TestFiles/alice29.txt", "encoded_test_files/alice29_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../../docs/CD_TestFiles/cp.htm", "encoded_test_files/cp_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../../docs/CD_TestFiles/Person.java", "encoded_test_files/Person_encoded.txt", 8, 4)
+    LZ77_Tokenizer("../../../docs/CD_TestFiles/progc.c", "encoded_test_files/progc_encoded.txt", 8, 4)

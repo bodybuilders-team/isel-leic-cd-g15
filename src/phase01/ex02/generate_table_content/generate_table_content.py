@@ -1,4 +1,4 @@
-from src.ex02.strings_source.strings_source import strings_source
+from src.phase01.ex02.strings_source.strings_source import strings_source
 import random
 
 
@@ -11,16 +11,16 @@ def generate_table_content(number_of_citizens, number_of_bets):
     """
 
     # Get citizens information
-    with open("../../../docs/AuxFiles/Nomes.txt", "r") as namesF:
+    with open("../../../../docs/AuxFiles/Nomes.txt", "r") as namesF:
         names = namesF.read().splitlines()
 
-    with open("../../../docs/AuxFiles/Apelidos.txt", "r") as surnamesF:
+    with open("../../../../docs/AuxFiles/Apelidos.txt", "r") as surnamesF:
         surnames = surnamesF.read().splitlines()
 
-    with open("../../../docs/AuxFiles/Concelhos.txt", "r") as residencesF:
+    with open("../../../../docs/AuxFiles/Concelhos.txt", "r") as residencesF:
         residences = residencesF.read().splitlines()
 
-    with open("../../../docs/AuxFiles/Profissões.txt", "r") as professionsF:
+    with open("../../../../docs/AuxFiles/Profissões.txt", "r") as professionsF:
         professions = professionsF.read().splitlines()
 
     names = generate_names(names, surnames, number_of_citizens)
