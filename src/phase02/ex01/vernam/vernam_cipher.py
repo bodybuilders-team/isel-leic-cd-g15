@@ -1,8 +1,7 @@
 from src.utils.utils import entropy_from_list, show_histogram
 
-ALPHABET_LENGTH = 26
-UPPERCASE_OFFSET = 65
-LOWERCASE_OFFSET = 97
+ASCII_PRINTABLE_CHARS_LENGTH = 95
+ASCII_LAST_PRINTABLE_CHAR = 126
 
 
 def vernam_cipher(input_file, output_file, key, show_hist=False):
@@ -27,16 +26,12 @@ def vernam_cipher(input_file, output_file, key, show_hist=False):
         char = plain_text[i]
         key_char = key[i % len(key)]
 
-        # Encrypt uppercase characters in plain text
-        if char.isupper():
-            cipher_text += chr((ord(char) + ord(key_char) - UPPERCASE_OFFSET) % ALPHABET_LENGTH + UPPERCASE_OFFSET)
-        # Encrypt lowercase characters in plain text
-        else:
-            cipher_text += chr((ord(char) + ord(key_char) - LOWERCASE_OFFSET) % ALPHABET_LENGTH + LOWERCASE_OFFSET)
+        char_code = ord(char) ^ ord(key_char)
+        cipher_text += chr(char_code)
 
     # Write cipher text in output file
-    with open(output_file, "w") as f:
-        f.write(cipher_text)
+    with open(output_file, "wb") as f:
+        f.write(str.encode(cipher_text))
 
     # Calculate and print entropy of the plain text and the cipher text
     plain_text_entropy = entropy_from_list(list(plain_text))
@@ -54,9 +49,14 @@ def vernam_cipher(input_file, output_file, key, show_hist=False):
 
 # Cipher test files
 if __name__ == '__main__':
-    vernam_cipher("../../../../docs/CD_TestFiles/alphabet.txt", "ciphered_files/vernam_cipher_text_alphabet.txt",
+    vernam_cipher("../../../../docs/CD_TestFiles/alphabet.txt",
+                  "ciphered_files/vernam_cipher_text_alphabet.txt",
                   "abcdefghijklmnopqrstuvwxyz", show_hist=True)
-    vernam_cipher("../../../../docs/CD_TestFiles/a.txt", "ciphered_files/vernam_cipher_text_a.txt",
+
+    vernam_cipher("../../../../docs/CD_TestFiles/a.txt",
+                  "ciphered_files/vernam_cipher_text_a.txt",
                   "abcdefghijklmnopqrstuvwxyz")
-    vernam_cipher("../../../../docs/CD_TestFiles/alice29.txt", "ciphered_files/vernam_cipher_text_alice29.txt",
+
+    vernam_cipher("../../../../docs/CD_TestFiles/alice29.txt",
+                  "ciphered_files/vernam_cipher_text_alice29.txt",
                   "abcdefghijklmnopqrstuvwxyz")

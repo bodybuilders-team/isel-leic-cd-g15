@@ -17,8 +17,8 @@ def vernam_decipher(input_file, output_file, key, show_hist=False):
     """
 
     # Get ciphered text from file
-    with open(input_file, 'r') as input_file:
-        cipher_text = input_file.read()
+    with open(input_file, 'rb') as input_file:
+        cipher_text = input_file.read().decode()
 
     decipher_text = ""
 
@@ -27,14 +27,8 @@ def vernam_decipher(input_file, output_file, key, show_hist=False):
         char = cipher_text[i]
         key_char = key[i % len(key)]
 
-        # Decrypt uppercase characters in cipher text
-        if char.isupper():
-            decipher_text += chr(
-                (ord(char) + (ALPHABET_LENGTH - ord(key_char)) - UPPERCASE_OFFSET) % ALPHABET_LENGTH + UPPERCASE_OFFSET)
-        # Decrypt lowercase characters in cipher text
-        else:
-            decipher_text += chr(
-                (ord(char) + (ALPHABET_LENGTH - ord(key_char)) - LOWERCASE_OFFSET) % ALPHABET_LENGTH + LOWERCASE_OFFSET)
+        char_code = ord(char) ^ ord(key_char)
+        decipher_text += chr(char_code)
 
     # Write decipher text in output file
     with open(output_file, "w") as f:
@@ -59,9 +53,11 @@ if __name__ == '__main__':
     vernam_decipher("ciphered_files/vernam_cipher_text_alphabet.txt",
                     "deciphered_files/vernam_decipher_text_alphabet.txt",
                     "abcdefghijklmnopqrstuvwxyz", show_hist=True)
+
     vernam_decipher("ciphered_files/vernam_cipher_text_a.txt",
                     "deciphered_files/vernam_decipher_text_a.txt",
                     "abcdefghijklmnopqrstuvwxyz")
+
     vernam_decipher("ciphered_files/vernam_cipher_text_alice29.txt",
                     "deciphered_files/vernam_decipher_text_alice29.txt",
                     "abcdefghijklmnopqrstuvwxyz")

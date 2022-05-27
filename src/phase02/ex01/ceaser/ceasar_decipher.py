@@ -1,8 +1,7 @@
+from src.phase02.ex01.ceaser.ceasar_cipher import ASCII_PRINTABLE_CHARS_LENGTH
 from src.utils.utils import entropy_from_list, show_histogram
 
-ALPHABET_LENGTH = 26
-UPPERCASE_OFFSET = 65
-LOWERCASE_OFFSET = 97
+ASCII_FIRST_PRINTABLE_CHAR = 32
 
 
 def ceaser_decipher(input_file, output_file, s, show_hist=False):
@@ -26,14 +25,15 @@ def ceaser_decipher(input_file, output_file, s, show_hist=False):
     for i in range(len(cipher_text)):
         char = cipher_text[i]
 
-        # Decrypt uppercase characters in cipher text
-        if char.isupper():
-            decipher_text += chr(
-                (ord(char) + (ALPHABET_LENGTH - s) - UPPERCASE_OFFSET) % ALPHABET_LENGTH + UPPERCASE_OFFSET)
-        # Decrypt lowercase characters in cipher text
-        else:
-            decipher_text += chr(
-                (ord(char) + (ALPHABET_LENGTH - s) - LOWERCASE_OFFSET) % ALPHABET_LENGTH + LOWERCASE_OFFSET)
+        if char == '\n' or char == '\t' or char == '\r':
+            decipher_text += char
+            continue
+
+        char_code = ord(char) - s
+        if char_code < ASCII_FIRST_PRINTABLE_CHAR:
+            char_code += ASCII_PRINTABLE_CHARS_LENGTH
+
+        decipher_text += chr(char_code)
 
     # Write decipher text in output file
     with open(output_file, "w") as f:
@@ -57,7 +57,9 @@ def ceaser_decipher(input_file, output_file, s, show_hist=False):
 if __name__ == '__main__':
     ceaser_decipher("ciphered_files/ceaser_cipher_text_alphabet.txt",
                     "deciphered_files/ceaser_decipher_text_alphabet.txt", 6, show_hist=True)
+
     ceaser_decipher("ciphered_files/ceaser_cipher_text_a.txt",
                     "deciphered_files/ceaser_decipher_text_a.txt", 4)
+
     ceaser_decipher("ciphered_files/ceaser_cipher_text_alice29.txt",
                     "deciphered_files/ceaser_decipher_text_alice29.txt", 10)

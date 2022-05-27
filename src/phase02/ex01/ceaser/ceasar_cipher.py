@@ -1,8 +1,7 @@
 from src.utils.utils import entropy_from_list, show_histogram
 
-ALPHABET_LENGTH = 26
-UPPERCASE_OFFSET = 65
-LOWERCASE_OFFSET = 97
+ASCII_PRINTABLE_CHARS_LENGTH = 95
+ASCII_LAST_PRINTABLE_CHAR = 126
 
 
 def ceaser_cipher(input_file, output_file, s, show_hist=False):
@@ -26,12 +25,15 @@ def ceaser_cipher(input_file, output_file, s, show_hist=False):
     for i in range(len(plain_text)):
         char = plain_text[i]
 
-        # Encrypt uppercase characters in plain text
-        if char.isupper():
-            cipher_text += chr((ord(char) + s - UPPERCASE_OFFSET) % ALPHABET_LENGTH + UPPERCASE_OFFSET)
-        # Encrypt lowercase characters in plain text
-        else:
-            cipher_text += chr((ord(char) + s - LOWERCASE_OFFSET) % ALPHABET_LENGTH + LOWERCASE_OFFSET)
+        if char == '\n' or char == '\t' or char == '\r':
+            cipher_text += char
+            continue
+
+        char_code = ord(char) + s
+        if char_code > ASCII_LAST_PRINTABLE_CHAR:
+            char_code -= ASCII_PRINTABLE_CHARS_LENGTH
+
+        cipher_text += chr(char_code)
 
     # Write cipher text in output file
     with open(output_file, "w") as f:
@@ -53,7 +55,11 @@ def ceaser_cipher(input_file, output_file, s, show_hist=False):
 
 # Cipher test files
 if __name__ == '__main__':
-    ceaser_cipher("../../../../docs/CD_TestFiles/alphabet.txt", "ciphered_files/ceaser_cipher_text_alphabet.txt", 6,
-                  show_hist=True)
-    ceaser_cipher("../../../../docs/CD_TestFiles/a.txt", "ciphered_files/ceaser_cipher_text_a.txt", 4)
-    ceaser_cipher("../../../../docs/CD_TestFiles/alice29.txt", "ciphered_files/ceaser_cipher_text_alice29.txt", 10)
+    ceaser_cipher("../../../../docs/CD_TestFiles/alphabet.txt",
+                  "ciphered_files/ceaser_cipher_text_alphabet.txt", 6, show_hist=True)
+
+    ceaser_cipher("../../../../docs/CD_TestFiles/a.txt",
+                  "ciphered_files/ceaser_cipher_text_a.txt", 4)
+
+    ceaser_cipher("../../../../docs/CD_TestFiles/alice29.txt",
+                  "ciphered_files/ceaser_cipher_text_alice29.txt", 10)
