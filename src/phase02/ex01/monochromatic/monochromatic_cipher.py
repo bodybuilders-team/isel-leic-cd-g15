@@ -28,6 +28,24 @@ def monochromatic_cipher(input_file, output_file, rect):
 
     key = [random.randint(GRAYSCALE_MIN, GRAYSCALE_MAX) for _ in range(img_width * img_height * 3)]
 
+    mono_cipher(img, output_file, rect, key)
+
+    return key
+
+
+def mono_cipher(img, output_file, rect, key):
+    """
+    Ciphers/Deciphers an image using a monochromatic cipher.
+
+    :param img: the image to cipher, represented by a matrix of 8bit pixels
+    :param output_file: the output image file to write the ciphered image to
+    :param rect: the rectangular region of the image to cipher (in the format [top, bottom, left, right])
+    :param key: the cipher key
+    """
+
+    img_height = len(img)
+    img_width = len(img[0])
+
     key_c = -1
 
     rect_height = range(int(rect[RECT_TOP_INDEX] * img_height), int((1 - rect[RECT_BOTTOM_INDEX]) * img_height + 1))
@@ -39,16 +57,13 @@ def monochromatic_cipher(input_file, output_file, rect):
                 pixel = img[y][x]
                 pixel_key = key[key_c := key_c + 1]
 
-                ciphered_pixel = pixel ^ pixel_key
-                img[y][x] = ciphered_pixel
+                img[y][x] = pixel ^ pixel_key
 
     image.imsave(output_file, img, cmap='gray')
-
-    return key
 
 
 # Cipher lena.bmp
 if __name__ == '__main__':
     rectangular_region = (0.2, 0.2, 0.2, 0.2)
 
-    cipher_key = monochromatic_cipher('../../../../docs/CD_TestFiles/lena.bmp', 'lena_cipher.bmp', rectangular_region)
+    cipher_key = monochromatic_cipher('lena.bmp', 'lena_cipher.bmp', rectangular_region)
