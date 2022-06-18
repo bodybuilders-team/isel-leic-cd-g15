@@ -7,7 +7,6 @@ ASCII_FIRST_PRINTABLE_CHAR = 32
 def ceaser_decipher(input_file, output_file, s, show_hist=False):
     """
     Deciphers a ciphered text from an input file using Ceaser Cipher (https://en.wikipedia.org/wiki/Caesar_cipher).
-    Only works with letters.
 
     :param input_file: the input file to read the ciphered text from
     :param output_file: the output file to write the deciphered text to
@@ -50,7 +49,7 @@ def ceaser_decipher(input_file, output_file, s, show_hist=False):
     # Display histogram of the cipher text and the decipher text
     if show_hist:
         show_histogram(list(cipher_text), "Cipher text", "Cipher text Histogram (Ceaser)", cipher_text_entropy)
-        show_histogram(list(decipher_text), "Decipher text", "Cipher text Histogram (Ceaser)", decipher_text_entropy)
+        show_histogram(list(decipher_text), "Decipher text", "Decipher text Histogram (Ceaser)", decipher_text_entropy)
 
 
 # Decipher test files

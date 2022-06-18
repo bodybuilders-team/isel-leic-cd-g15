@@ -2,7 +2,40 @@ import math
 import matplotlib.pyplot as plt
 
 
-def psk(bit, tb, amplitude, frequency, num_samples_per_bit):
+def PSK_Modulator(bits, tb=0.001, amplitude=2, frequency=2000, num_samples_per_bit=10):
+    """
+    Modulate the bits into a PSK (Phase-Shift Keying) signal.
+
+    :param bits: the bits to be modulated.
+    :param tb: bit period.
+    :param amplitude: the amplitude of the modulated signal.
+    :param frequency: the frequency of the modulated signal.
+    :param num_samples_per_bit: the number of samples per bit.
+
+    :return: the PSK signal
+    """
+
+    signal = []
+
+    for bit in bits:
+        signal.extend(PSK_Bit_Modulator(bit, tb, amplitude, frequency, num_samples_per_bit))
+
+    return signal
+
+
+def PSK_Bit_Modulator(bit, tb, amplitude, frequency, num_samples_per_bit):
+    """
+    Modulate a bit into a PSK (Phase-Shift Keying) signal.
+
+    :param bit: the bit to be modulated.
+    :param tb: the bit period.
+    :param amplitude: the amplitude of the modulated signal.
+    :param frequency: the frequency of the modulated signal.
+    :param num_samples_per_bit: the number of samples per bit.
+
+    :return: the PSK signal
+    """
+
     samples = []
 
     for sample_i in range(num_samples_per_bit):
@@ -16,28 +49,11 @@ def psk(bit, tb, amplitude, frequency, num_samples_per_bit):
     return samples
 
 
-def PSK_Modulator(bits, tb=0.001, amplitude=2, frequency=2000, num_samples_per_bit=10):
-    """
-    Modulate the bits into a PSK (Phase-Shift Keying) signal.
-
-    :param bits: the bits to be modulated.«
-
-    :return: the PSK signal
-    """
-
-    signal = []
-
-    for bit in bits:
-        signal.extend(psk(bit, tb, amplitude, frequency, num_samples_per_bit))
-
-    return signal
-
-
+# Test the modulator
 if __name__ == '__main__':
-
-    # data to be plotted
+    # Data to be plotted
     y = PSK_Modulator([1, 0, 1, 1, 0, 0, 0, 1])
 
-    # plotting
+    # Plotting
     plt.plot(y)
     plt.show()

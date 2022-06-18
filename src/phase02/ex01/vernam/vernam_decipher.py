@@ -1,9 +1,5 @@
 from src.utils.utils import entropy_from_list, show_histogram
 
-ALPHABET_LENGTH = 26
-UPPERCASE_OFFSET = 65
-LOWERCASE_OFFSET = 97
-
 
 def vernam_decipher(input_file, output_file, key, show_hist=False):
     """

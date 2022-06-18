@@ -1,8 +1,5 @@
 from src.utils.utils import entropy_from_list, show_histogram
 
-ASCII_PRINTABLE_CHARS_LENGTH = 95
-ASCII_LAST_PRINTABLE_CHAR = 126
-
 
 def vernam_cipher(input_file, output_file, key, show_hist=False):
     """

@@ -7,7 +7,6 @@ ASCII_LAST_PRINTABLE_CHAR = 126
 def ceaser_cipher(input_file, output_file, s, show_hist=False):
     """
     Ciphers a plain text from an input file using Ceaser Cipher (https://en.wikipedia.org/wiki/Caesar_cipher).
-    Only works with letters.
 
     :param input_file: the input file to read the plain text from
     :param output_file: the output file to write the ciphered text to

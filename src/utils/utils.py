@@ -28,4 +28,5 @@ def show_histogram(labels, x_label, title, labels_entropy):
     plt.ylabel("Occurrences")
     plt.suptitle(title, fontsize=18)
     plt.title("Entropy: " + str(labels_entropy))
+    plt.gcf().subplots_adjust(bottom=0.15)
     plt.show()
