@@ -52,8 +52,12 @@ def process_test(x, a, n, file_bits, file_path, coder, decoder, n_type, test_nam
     BER = calculate_ber(file_bits, decoded_bits)
     print("BER:" + str(BER))
     decoded_bytes = [bits_to_byte(bits) for bits in chunks(decoded_bits, 8)]
+    decoded_files_path = "../decoded_files/"
 
-    with open("../decoded_files/" + test_name + "_a=" + str(a) + "_" + n_type + "_" + tail,
+    if not os.path.exists(decoded_files_path):
+        os.mkdir(decoded_files_path)
+
+    with open(decoded_files_path + test_name + "_a=" + str(a) + "_" + n_type + "_" + tail,
               "wb") as f:
         f.write(bytes(decoded_bytes))
 
