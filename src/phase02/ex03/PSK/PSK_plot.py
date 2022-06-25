@@ -16,3 +16,5 @@ if __name__ == '__main__':
 
     decoded_bits = PSK_Demodulator(modulated_signal)
     print("decoded_bits: " + str(decoded_bits))
+    import sys
+    sys.exit(0)

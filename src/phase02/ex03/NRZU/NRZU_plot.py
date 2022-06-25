@@ -10,9 +10,11 @@ if __name__ == '__main__':
     modulated_signal = NRZU_Coder(input_bits)
 
     # Plotting
-    plt.title("Modulated PSK signal")
+    plt.title("NRZU Signal")
     plt.plot(modulated_signal)
     plt.show()
 
     decoded_bits = NRZU_Decoder(modulated_signal)
     print("decoded_bits: " + str(decoded_bits))
+    import sys
+    sys.exit(0)

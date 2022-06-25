@@ -57,3 +57,5 @@ if __name__ == '__main__':
     # Plotting
     plt.plot(y)
     plt.show()
+    import sys
+    sys.exit(0)

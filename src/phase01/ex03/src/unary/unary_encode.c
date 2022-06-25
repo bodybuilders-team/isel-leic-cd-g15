@@ -32,7 +32,6 @@ int unary_encode(const char *src_filename, const char *dst_filename) {
     unary_model model;
     unary_calculate_model(src_fp, &model);
 
-
     OutputBitFileStream out_stream;
     if (out_bit_file_stream_open(&out_stream, dst_filename) < 0)
         return -2;

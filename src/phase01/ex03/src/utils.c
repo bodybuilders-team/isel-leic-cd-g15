@@ -2,6 +2,7 @@
 #include <malloc.h>
 #include <unistd.h>
 #include <sys/stat.h>
+#include <direct.h>
 
 size_t get_file_size(const char *path) {
     FILE *fp = fopen_mkdir(path, "rb");
@@ -28,12 +29,19 @@ static void mkdir_helper(const char *dir) {
     for (p = tmp + 1; *p; p++)
         if (*p == '/') {
             *p = 0;
+#if defined(_WIN32)
+            _mkdir(tmp);
+#else
             mkdir(tmp, S_IRWXU);
+#endif
             *p = '/';
         }
+#if defined(_WIN32)
+    _mkdir(tmp);
+#else
     mkdir(tmp, S_IRWXU);
+#endif
 }
-
 
 FILE *fopen_mkdir(const char *path, const char *mode) {
     char *dir = strdup(path);

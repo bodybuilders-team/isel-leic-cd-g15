@@ -1,0 +1,3 @@
+Comunicacoes - ficheiro de testere
+1234567890 
+The quick brown fox jumps over the lazy dog.

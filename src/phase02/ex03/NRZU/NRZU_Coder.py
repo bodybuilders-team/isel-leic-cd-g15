@@ -37,3 +37,5 @@ def NRZU_Bit_Coder(bit, amplitude, num_samples_per_bit):
 if __name__ == '__main__':
     test_bits = [1, 0, 0, 1]
     print(NRZU_Coder(test_bits))
+    import sys
+    sys.exit(0)

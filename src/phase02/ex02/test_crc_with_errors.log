@@ -1,0 +1,91 @@
+Reading ../../../docs/CD_TestFiles\a.txt file...
+Testing crc_files/a.txt
+CRC Check passed: True
+Testing crc_files/0.0001_a.txt
+CRC Check passed: True
+Testing crc_files/0.001_a.txt
+CRC Check passed: True
+Testing crc_files/0.005_a.txt
+CRC Check passed: False
+Testing crc_files/0.01_a.txt
+CRC Check passed: False
+Testing crc_files/0.05_a.txt
+CRC Check passed: False
+Reading ../../../docs/CD_TestFiles\alice29.txt file...
+Testing crc_files/alice29.txt
+CRC Check passed: True
+Testing crc_files/0.0001_alice29.txt
+CRC Check passed: False
+Testing crc_files/0.001_alice29.txt
+CRC Check passed: False
+Testing crc_files/0.005_alice29.txt
+CRC Check passed: False
+Testing crc_files/0.01_alice29.txt
+CRC Check passed: False
+Testing crc_files/0.05_alice29.txt
+CRC Check passed: False
+Reading ../../../docs/CD_TestFiles\alphabet.txt file...
+Testing crc_files/alphabet.txt
+CRC Check passed: True
+Testing crc_files/0.0001_alphabet.txt
+CRC Check passed: True
+Testing crc_files/0.001_alphabet.txt
+CRC Check passed: True
+Testing crc_files/0.005_alphabet.txt
+CRC Check passed: False
+Testing crc_files/0.01_alphabet.txt
+CRC Check passed: False
+Testing crc_files/0.05_alphabet.txt
+CRC Check passed: False
+Reading ../../../docs/CD_TestFiles\cp.htm file...
+Testing crc_files/cp.htm
+CRC Check passed: True
+Testing crc_files/0.0001_cp.htm
+CRC Check passed: False
+Testing crc_files/0.001_cp.htm
+CRC Check passed: False
+Testing crc_files/0.005_cp.htm
+CRC Check passed: False
+Testing crc_files/0.01_cp.htm
+CRC Check passed: False
+Testing crc_files/0.05_cp.htm
+CRC Check passed: False
+Reading ../../../docs/CD_TestFiles\lena.bmp file...
+Testing crc_files/lena.bmp
+CRC Check passed: True
+Testing crc_files/0.0001_lena.bmp
+CRC Check passed: False
+Testing crc_files/0.001_lena.bmp
+CRC Check passed: False
+Testing crc_files/0.005_lena.bmp
+CRC Check passed: False
+Testing crc_files/0.01_lena.bmp
+CRC Check passed: False
+Testing crc_files/0.05_lena.bmp
+CRC Check passed: False
+Reading ../../../docs/CD_TestFiles\Person.java file...
+Testing crc_files/Person.java
+CRC Check passed: True
+Testing crc_files/0.0001_Person.java
+CRC Check passed: False
+Testing crc_files/0.001_Person.java
+CRC Check passed: False
+Testing crc_files/0.005_Person.java
+CRC Check passed: False
+Testing crc_files/0.01_Person.java
+CRC Check passed: False
+Testing crc_files/0.05_Person.java
+CRC Check passed: False
+Reading ../../../docs/CD_TestFiles\progc.c file...
+Testing crc_files/progc.c
+CRC Check passed: True
+Testing crc_files/0.0001_progc.c
+CRC Check passed: False
+Testing crc_files/0.001_progc.c
+CRC Check passed: False
+Testing crc_files/0.005_progc.c
+CRC Check passed: False
+Testing crc_files/0.01_progc.c
+CRC Check passed: False
+Testing crc_files/0.05_progc.c
+CRC Check passed: False

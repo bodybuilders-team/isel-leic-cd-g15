@@ -8,13 +8,15 @@ def receive_from_arduino(port):
     :param port: The serial port to use.
     """
 
-    ser = serial.Serial(port)
+    ser = serial.Serial(port, baudrate=9600)
+    while True:
+        read_value = ser.readline()
 
-    read_value = ser.write("lola")
-
-    print(read_value)
+        print(read_value)
 
 
 # Tests
 if __name__ == '__main__':
-    receive_from_arduino('9600')
+    receive_from_arduino('COM4')
+    import sys
+    sys.exit(0)

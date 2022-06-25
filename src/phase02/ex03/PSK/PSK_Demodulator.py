@@ -53,12 +53,18 @@ def PSK_Bit_Demodulator(accum_samples, tb, amplitude, frequency, num_samples_per
     # plt.cla()
     # plt.clf()
 
+    # Accumulates the sum of the product of the input signal and
+    # the reference bit 1 signal.
     for sample_i in range(num_samples_per_bit):
         x = (tb / num_samples_per_bit) * sample_i
         val = -amplitude * math.cos(2 * math.pi * frequency * x)
 
         accum_sum += val * accum_samples[sample_i]
 
+    # If the average of the product of the input signal
+    # and the reference bit 1 signal is > 0, then it's a bit 1
+    # this is another approach to the integration method
+    # of the correlation receiver
     if accum_sum / num_samples_per_bit > 0:
         return 1
 
@@ -79,3 +85,5 @@ if __name__ == '__main__':
     demodulated_bits = PSK_Demodulator(modulated_signal)
     print("input_bits:   " + str(input_bits))
     print("decoded_bits: " + str(demodulated_bits))
+    import sys
+    sys.exit(0)
