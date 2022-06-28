@@ -1,12 +1,10 @@
-import os
-import ctypes
 import random
 
+from src.phase02.ex02.crc_file_check import crc_file_check
+from src.phase02.ex02.crc_file_compute import crc_file_compute
+from src.phase02.ex02.unary import unary_encode, unary_decode
 from src.phase02.utils import *
 import sys
-from crc_file_compute import crc_file_compute
-from crc_file_check import crc_file_check
-from unary import unary_encode, unary_decode
 
 
 def add_file_errors(input_file_path, output_file_path, error_prob):
@@ -26,9 +24,17 @@ def add_file_errors(input_file_path, output_file_path, error_prob):
         f.write(bytes(output_bytes))
 
 
+CHECKSUM_LENGTH = 4
+
+
 def remove_checksum(output_file):
+    """
+    Removes checksum from output file.
+
+    :param output_file: output file to remove checksum from
+    """
     with open(output_file, 'rb') as rf:
-        checksum = rf.read(4)
+        checksum = rf.read(CHECKSUM_LENGTH)
         with open(output_file, 'wb') as wf:
             wf.write(rf.read())
 
@@ -36,6 +42,12 @@ def remove_checksum(output_file):
 
 
 def insert_checksum(output_file, checksum):
+    """
+    Inserts checksum in output file.
+
+    :param output_file: file to insert checksum in
+    :param checksum: checksum to insert
+    """
     with open(output_file, 'rb') as rf:
         data = rf.read()
         with open(output_file, 'wb') as wf:
@@ -48,7 +60,7 @@ def process_file(file_path):
     head, tail = os.path.split(file_path)
     output_file_dir = "comma_code_crc_files/"
     output_file = output_file_dir + tail
-    decoded_output_file_dir = "decoded_comma_code_crc_files/"
+    decoded_output_file_dir = "../decoded_comma_code_crc_files/"
 
     if not os.path.exists(decoded_output_file_dir):
         os.mkdir(decoded_output_file_dir)
@@ -56,7 +68,7 @@ def process_file(file_path):
     if not os.path.exists(output_file_dir):
         os.mkdir(output_file_dir)
 
-    # # Creating checksum of original file
+    # Creating checksum of original file
     crc_file_compute(file_path, output_file)
 
     checksum = remove_checksum(output_file)

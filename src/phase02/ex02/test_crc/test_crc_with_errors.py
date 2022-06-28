@@ -1,10 +1,9 @@
-import os
 import random
 
+from src.phase02.ex02.crc_file_check import crc_file_check
+from src.phase02.ex02.crc_file_compute import crc_file_compute
 from src.phase02.utils import *
 import sys
-from crc_file_compute import crc_file_compute
-from crc_file_check import crc_file_check
 
 
 def add_file_errors(input_file_path, output_file_path, error_prob):
@@ -29,7 +28,7 @@ def process_file(file_path):
     head, tail = os.path.split(file_path)
     output_file_dir = "crc_files/"
     output_file = output_file_dir + tail
-    
+
     if not os.path.exists(output_file_dir):
         os.mkdir(output_file_dir)
 

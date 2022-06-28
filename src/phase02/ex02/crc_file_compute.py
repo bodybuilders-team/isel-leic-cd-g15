@@ -1,5 +1,7 @@
 from crc import CrcCalculator, Configuration
 
+CHECKSUM_LENGTH = 4
+
 
 def crc_file_compute(input_file, output_file, poly=0x04C11DB7):
     """
@@ -25,7 +27,7 @@ def crc_file_compute(input_file, output_file, poly=0x04C11DB7):
         checksum = crc_calculator.calculate_checksum(data)
 
     with open(output_file, "wb") as f:
-        f.write(checksum.to_bytes(length=4, byteorder="little"))
+        f.write(checksum.to_bytes(length=CHECKSUM_LENGTH, byteorder="little"))
         f.write(data)
 
 
