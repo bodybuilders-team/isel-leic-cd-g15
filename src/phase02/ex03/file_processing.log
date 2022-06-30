@@ -1,0 +1,763 @@
+Reading ../../../docs/CD_TestFiles\a.txt file...
+Testing a.txt with PSK a=1 n_scale=0
+BER:0.0
+Testing a.txt with PSK a=1 n_scale=0.5
+BER:0.0
+Testing a.txt with PSK a=1 n_scale=1
+BER:0.0
+Testing a.txt with PSK a=1 n_scale=2
+BER:0.011968085106382979
+Testing a.txt with PSK a=1 n_scale=4
+BER:0.13297872340425532
+Testing a.txt with PSK a=1 n_scale=8
+BER:0.2765957446808511
+Testing a.txt with PSK a=1 n_scale=16
+BER:0.4109042553191489
+Testing a.txt with PSK a=0.2 n=0
+BER:0.0
+Testing a.txt with PSK a=0.2 n=1
+BER:0.0
+Testing a.txt with PSK a=0.2 n=2
+BER:0.0
+Testing a.txt with PSK a=0.2 n=4
+BER:0.0
+Testing a.txt with PSK a=0.2 n=8
+BER:0.0
+Testing a.txt with PSK a=0.4 n=0
+BER:0.0
+Testing a.txt with PSK a=0.4 n=1
+BER:0.0
+Testing a.txt with PSK a=0.4 n=2
+BER:0.0
+Testing a.txt with PSK a=0.4 n=4
+BER:0.0
+Testing a.txt with PSK a=0.4 n=8
+BER:0.0
+Testing a.txt with PSK a=0.6 n=0
+BER:0.0
+Testing a.txt with PSK a=0.6 n=1
+BER:0.0
+Testing a.txt with PSK a=0.6 n=2
+BER:0.0
+Testing a.txt with PSK a=0.6 n=4
+BER:0.0
+Testing a.txt with PSK a=0.6 n=8
+BER:0.0
+Testing a.txt with PSK a=0.8 n=0
+BER:0.0
+Testing a.txt with PSK a=0.8 n=1
+BER:0.0
+Testing a.txt with PSK a=0.8 n=2
+BER:0.0
+Testing a.txt with PSK a=0.8 n=4
+BER:0.0
+Testing a.txt with PSK a=0.8 n=8
+BER:0.0
+Testing a.txt with NRZU a=1 n_scale=0
+BER:0.0
+Testing a.txt with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing a.txt with NRZU a=1 n_scale=1
+BER:0.0
+Testing a.txt with NRZU a=1 n_scale=2
+BER:0.0
+Testing a.txt with NRZU a=1 n_scale=4
+BER:0.011968085106382979
+Testing a.txt with NRZU a=1 n_scale=8
+BER:0.16888297872340424
+Testing a.txt with NRZU a=1 n_scale=16
+BER:0.28058510638297873
+Testing a.txt with NRZU a=0.2 n=0
+BER:0.45611702127659576
+Testing a.txt with NRZU a=0.2 n=1
+BER:0.45611702127659576
+Testing a.txt with NRZU a=0.2 n=2
+BER:0.0
+Testing a.txt with NRZU a=0.2 n=4
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.2 n=8
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.4 n=0
+BER:0.45611702127659576
+Testing a.txt with NRZU a=0.4 n=1
+BER:0.0
+Testing a.txt with NRZU a=0.4 n=2
+BER:0.0
+Testing a.txt with NRZU a=0.4 n=4
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.4 n=8
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.6 n=0
+BER:0.0
+Testing a.txt with NRZU a=0.6 n=1
+BER:0.0
+Testing a.txt with NRZU a=0.6 n=2
+BER:0.0
+Testing a.txt with NRZU a=0.6 n=4
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.6 n=8
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.8 n=0
+BER:0.0
+Testing a.txt with NRZU a=0.8 n=1
+BER:0.0
+Testing a.txt with NRZU a=0.8 n=2
+BER:0.0
+Testing a.txt with NRZU a=0.8 n=4
+BER:0.5438829787234043
+Testing a.txt with NRZU a=0.8 n=8
+BER:0.5438829787234043
+Reading ../../../docs/CD_TestFiles\alice29.txt file...
+Testing alice29.txt with PSK a=1 n_scale=0
+BER:0.0
+Testing alice29.txt with PSK a=1 n_scale=0.5
+BER:0.0
+Testing alice29.txt with PSK a=1 n_scale=1
+BER:4.109408902623447e-06
+Testing alice29.txt with PSK a=1 n_scale=2
+BER:0.01257725688736932
+Testing alice29.txt with PSK a=1 n_scale=4
+BER:0.1324429614044316
+Testing alice29.txt with PSK a=1 n_scale=8
+BER:0.287783549214281
+Testing alice29.txt with PSK a=1 n_scale=16
+BER:0.38946594121901507
+Testing alice29.txt with PSK a=0.2 n=0
+BER:0.0
+Testing alice29.txt with PSK a=0.2 n=1
+BER:0.0
+Testing alice29.txt with PSK a=0.2 n=2
+BER:0.0
+Testing alice29.txt with PSK a=0.2 n=4
+BER:0.0
+Testing alice29.txt with PSK a=0.2 n=8
+BER:0.0
+Testing alice29.txt with PSK a=0.4 n=0
+BER:0.0
+Testing alice29.txt with PSK a=0.4 n=1
+BER:0.0
+Testing alice29.txt with PSK a=0.4 n=2
+BER:0.0
+Testing alice29.txt with PSK a=0.4 n=4
+BER:0.0
+Testing alice29.txt with PSK a=0.4 n=8
+BER:0.0
+Testing alice29.txt with PSK a=0.6 n=0
+BER:0.0
+Testing alice29.txt with PSK a=0.6 n=1
+BER:0.0
+Testing alice29.txt with PSK a=0.6 n=2
+BER:0.0
+Testing alice29.txt with PSK a=0.6 n=4
+BER:0.0
+Testing alice29.txt with PSK a=0.6 n=8
+BER:0.0
+Testing alice29.txt with PSK a=0.8 n=0
+BER:0.0
+Testing alice29.txt with PSK a=0.8 n=1
+BER:0.0
+Testing alice29.txt with PSK a=0.8 n=2
+BER:0.0
+Testing alice29.txt with PSK a=0.8 n=4
+BER:0.0
+Testing alice29.txt with PSK a=0.8 n=8
+BER:0.0
+Testing alice29.txt with NRZU a=1 n_scale=0
+BER:0.0
+Testing alice29.txt with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing alice29.txt with NRZU a=1 n_scale=1
+BER:0.0
+Testing alice29.txt with NRZU a=1 n_scale=2
+BER:3.2875271220987576e-05
+Testing alice29.txt with NRZU a=1 n_scale=4
+BER:0.023974291537905187
+Testing alice29.txt with NRZU a=1 n_scale=8
+BER:0.16156962982444606
+Testing alice29.txt with NRZU a=1 n_scale=16
+BER:0.3112573147478467
+Testing alice29.txt with NRZU a=0.2 n=0
+BER:0.4309980932342692
+Testing alice29.txt with NRZU a=0.2 n=1
+BER:0.4309980932342692
+Testing alice29.txt with NRZU a=0.2 n=2
+BER:0.0
+Testing alice29.txt with NRZU a=0.2 n=4
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.2 n=8
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.4 n=0
+BER:0.4309980932342692
+Testing alice29.txt with NRZU a=0.4 n=1
+BER:0.0
+Testing alice29.txt with NRZU a=0.4 n=2
+BER:0.0
+Testing alice29.txt with NRZU a=0.4 n=4
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.4 n=8
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.6 n=0
+BER:0.0
+Testing alice29.txt with NRZU a=0.6 n=1
+BER:0.0
+Testing alice29.txt with NRZU a=0.6 n=2
+BER:0.0
+Testing alice29.txt with NRZU a=0.6 n=4
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.6 n=8
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.8 n=0
+BER:0.0
+Testing alice29.txt with NRZU a=0.8 n=1
+BER:0.0
+Testing alice29.txt with NRZU a=0.8 n=2
+BER:0.0
+Testing alice29.txt with NRZU a=0.8 n=4
+BER:0.5690019067657308
+Testing alice29.txt with NRZU a=0.8 n=8
+BER:0.5690019067657308
+Reading ../../../docs/CD_TestFiles\alphabet.txt file...
+Testing alphabet.txt with PSK a=1 n_scale=0
+BER:0.0
+Testing alphabet.txt with PSK a=1 n_scale=0.5
+BER:0.0
+Testing alphabet.txt with PSK a=1 n_scale=1
+BER:0.0
+Testing alphabet.txt with PSK a=1 n_scale=2
+BER:0.016826923076923076
+Testing alphabet.txt with PSK a=1 n_scale=4
+BER:0.1346153846153846
+Testing alphabet.txt with PSK a=1 n_scale=8
+BER:0.25721153846153844
+Testing alphabet.txt with PSK a=1 n_scale=16
+BER:0.39903846153846156
+Testing alphabet.txt with PSK a=0.2 n=0
+BER:0.0
+Testing alphabet.txt with PSK a=0.2 n=1
+BER:0.0
+Testing alphabet.txt with PSK a=0.2 n=2
+BER:0.0
+Testing alphabet.txt with PSK a=0.2 n=4
+BER:0.0
+Testing alphabet.txt with PSK a=0.2 n=8
+BER:0.0
+Testing alphabet.txt with PSK a=0.4 n=0
+BER:0.0
+Testing alphabet.txt with PSK a=0.4 n=1
+BER:0.0
+Testing alphabet.txt with PSK a=0.4 n=2
+BER:0.0
+Testing alphabet.txt with PSK a=0.4 n=4
+BER:0.0
+Testing alphabet.txt with PSK a=0.4 n=8
+BER:0.0
+Testing alphabet.txt with PSK a=0.6 n=0
+BER:0.0
+Testing alphabet.txt with PSK a=0.6 n=1
+BER:0.0
+Testing alphabet.txt with PSK a=0.6 n=2
+BER:0.0
+Testing alphabet.txt with PSK a=0.6 n=4
+BER:0.0
+Testing alphabet.txt with PSK a=0.6 n=8
+BER:0.0
+Testing alphabet.txt with PSK a=0.8 n=0
+BER:0.0
+Testing alphabet.txt with PSK a=0.8 n=1
+BER:0.0
+Testing alphabet.txt with PSK a=0.8 n=2
+BER:0.0
+Testing alphabet.txt with PSK a=0.8 n=4
+BER:0.0
+Testing alphabet.txt with PSK a=0.8 n=8
+BER:0.0
+Testing alphabet.txt with NRZU a=1 n_scale=0
+BER:0.0
+Testing alphabet.txt with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing alphabet.txt with NRZU a=1 n_scale=1
+BER:0.0
+Testing alphabet.txt with NRZU a=1 n_scale=2
+BER:0.0
+Testing alphabet.txt with NRZU a=1 n_scale=4
+BER:0.019230769230769232
+Testing alphabet.txt with NRZU a=1 n_scale=8
+BER:0.1778846153846154
+Testing alphabet.txt with NRZU a=1 n_scale=16
+BER:0.3004807692307692
+Testing alphabet.txt with NRZU a=0.2 n=0
+BER:0.47596153846153844
+Testing alphabet.txt with NRZU a=0.2 n=1
+BER:0.47596153846153844
+Testing alphabet.txt with NRZU a=0.2 n=2
+BER:0.0
+Testing alphabet.txt with NRZU a=0.2 n=4
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.2 n=8
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.4 n=0
+BER:0.47596153846153844
+Testing alphabet.txt with NRZU a=0.4 n=1
+BER:0.0
+Testing alphabet.txt with NRZU a=0.4 n=2
+BER:0.0
+Testing alphabet.txt with NRZU a=0.4 n=4
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.4 n=8
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.6 n=0
+BER:0.0
+Testing alphabet.txt with NRZU a=0.6 n=1
+BER:0.0
+Testing alphabet.txt with NRZU a=0.6 n=2
+BER:0.0
+Testing alphabet.txt with NRZU a=0.6 n=4
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.6 n=8
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.8 n=0
+BER:0.0
+Testing alphabet.txt with NRZU a=0.8 n=1
+BER:0.0
+Testing alphabet.txt with NRZU a=0.8 n=2
+BER:0.0
+Testing alphabet.txt with NRZU a=0.8 n=4
+BER:0.5240384615384616
+Testing alphabet.txt with NRZU a=0.8 n=8
+BER:0.5240384615384616
+Reading ../../../docs/CD_TestFiles\cp.htm file...
+Testing cp.htm with PSK a=1 n_scale=0
+BER:0.0
+Testing cp.htm with PSK a=1 n_scale=0.5
+BER:0.0
+Testing cp.htm with PSK a=1 n_scale=1
+BER:0.0
+Testing cp.htm with PSK a=1 n_scale=2
+BER:0.012827748732572877
+Testing cp.htm with PSK a=1 n_scale=4
+BER:0.1316787468314322
+Testing cp.htm with PSK a=1 n_scale=8
+BER:0.28653259664131814
+Testing cp.htm with PSK a=1 n_scale=16
+BER:0.3888179261723701
+Testing cp.htm with PSK a=0.2 n=0
+BER:0.0
+Testing cp.htm with PSK a=0.2 n=1
+BER:0.0
+Testing cp.htm with PSK a=0.2 n=2
+BER:0.0
+Testing cp.htm with PSK a=0.2 n=4
+BER:0.0
+Testing cp.htm with PSK a=0.2 n=8
+BER:0.0
+Testing cp.htm with PSK a=0.4 n=0
+BER:0.0
+Testing cp.htm with PSK a=0.4 n=1
+BER:0.0
+Testing cp.htm with PSK a=0.4 n=2
+BER:0.0
+Testing cp.htm with PSK a=0.4 n=4
+BER:0.0
+Testing cp.htm with PSK a=0.4 n=8
+BER:0.0
+Testing cp.htm with PSK a=0.6 n=0
+BER:0.0
+Testing cp.htm with PSK a=0.6 n=1
+BER:0.0
+Testing cp.htm with PSK a=0.6 n=2
+BER:0.0
+Testing cp.htm with PSK a=0.6 n=4
+BER:0.0
+Testing cp.htm with PSK a=0.6 n=8
+BER:0.0
+Testing cp.htm with PSK a=0.8 n=0
+BER:0.0
+Testing cp.htm with PSK a=0.8 n=1
+BER:0.0
+Testing cp.htm with PSK a=0.8 n=2
+BER:0.0
+Testing cp.htm with PSK a=0.8 n=4
+BER:0.0
+Testing cp.htm with PSK a=0.8 n=8
+BER:0.0
+Testing cp.htm with NRZU a=1 n_scale=0
+BER:0.0
+Testing cp.htm with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing cp.htm with NRZU a=1 n_scale=1
+BER:0.0
+Testing cp.htm with NRZU a=1 n_scale=2
+BER:2.475443599493029e-05
+Testing cp.htm with NRZU a=1 n_scale=4
+BER:0.023808816539923953
+Testing cp.htm with NRZU a=1 n_scale=8
+BER:0.15884921577946767
+Testing cp.htm with NRZU a=1 n_scale=16
+BER:0.3120742237008872
+Testing cp.htm with NRZU a=0.2 n=0
+BER:0.48322639416983526
+Testing cp.htm with NRZU a=0.2 n=1
+BER:0.48322639416983526
+Testing cp.htm with NRZU a=0.2 n=2
+BER:0.0
+Testing cp.htm with NRZU a=0.2 n=4
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.2 n=8
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.4 n=0
+BER:0.48322639416983526
+Testing cp.htm with NRZU a=0.4 n=1
+BER:0.0
+Testing cp.htm with NRZU a=0.4 n=2
+BER:0.0
+Testing cp.htm with NRZU a=0.4 n=4
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.4 n=8
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.6 n=0
+BER:0.0
+Testing cp.htm with NRZU a=0.6 n=1
+BER:0.0
+Testing cp.htm with NRZU a=0.6 n=2
+BER:0.0
+Testing cp.htm with NRZU a=0.6 n=4
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.6 n=8
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.8 n=0
+BER:0.0
+Testing cp.htm with NRZU a=0.8 n=1
+BER:0.0
+Testing cp.htm with NRZU a=0.8 n=2
+BER:0.0
+Testing cp.htm with NRZU a=0.8 n=4
+BER:0.5167736058301647
+Testing cp.htm with NRZU a=0.8 n=8
+BER:0.5167736058301647
+Reading ../../../docs/CD_TestFiles\lena.bmp file...
+Testing lena.bmp with PSK a=1 n_scale=0
+BER:0.0
+Testing lena.bmp with PSK a=1 n_scale=0.5
+BER:0.0
+Testing lena.bmp with PSK a=1 n_scale=1
+BER:1.876482421112679e-06
+Testing lena.bmp with PSK a=1 n_scale=2
+BER:0.01292333443420302
+Testing lena.bmp with PSK a=1 n_scale=4
+BER:0.1315245293782088
+Testing lena.bmp with PSK a=1 n_scale=8
+BER:0.2878711682228961
+Testing lena.bmp with PSK a=1 n_scale=16
+BER:0.3889009817756027
+Testing lena.bmp with PSK a=0.2 n=0
+BER:0.0
+Testing lena.bmp with PSK a=0.2 n=1
+BER:0.0
+Testing lena.bmp with PSK a=0.2 n=2
+BER:0.0
+Testing lena.bmp with PSK a=0.2 n=4
+BER:0.0
+Testing lena.bmp with PSK a=0.2 n=8
+BER:0.0
+Testing lena.bmp with PSK a=0.4 n=0
+BER:0.0
+Testing lena.bmp with PSK a=0.4 n=1
+BER:0.0
+Testing lena.bmp with PSK a=0.4 n=2
+BER:0.0
+Testing lena.bmp with PSK a=0.4 n=4
+BER:0.0
+Testing lena.bmp with PSK a=0.4 n=8
+BER:0.0
+Testing lena.bmp with PSK a=0.6 n=0
+BER:0.0
+Testing lena.bmp with PSK a=0.6 n=1
+BER:0.0
+Testing lena.bmp with PSK a=0.6 n=2
+BER:0.0
+Testing lena.bmp with PSK a=0.6 n=4
+BER:0.0
+Testing lena.bmp with PSK a=0.6 n=8
+BER:0.0
+Testing lena.bmp with PSK a=0.8 n=0
+BER:0.0
+Testing lena.bmp with PSK a=0.8 n=1
+BER:0.0
+Testing lena.bmp with PSK a=0.8 n=2
+BER:0.0
+Testing lena.bmp with PSK a=0.8 n=4
+BER:0.0
+Testing lena.bmp with PSK a=0.8 n=8
+BER:0.0
+Testing lena.bmp with NRZU a=1 n_scale=0
+BER:0.0
+Testing lena.bmp with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing lena.bmp with NRZU a=1 n_scale=1
+BER:0.0
+Testing lena.bmp with NRZU a=1 n_scale=2
+BER:4.3159095685591616e-05
+Testing lena.bmp with NRZU a=1 n_scale=4
+BER:0.024000210166031165
+Testing lena.bmp with NRZU a=1 n_scale=8
+BER:0.16218625213918997
+Testing lena.bmp with NRZU a=1 n_scale=16
+BER:0.31013750863181916
+Testing lena.bmp with NRZU a=0.2 n=0
+BER:0.4899139069865194
+Testing lena.bmp with NRZU a=0.2 n=1
+BER:0.4899139069865194
+Testing lena.bmp with NRZU a=0.2 n=2
+BER:0.0
+Testing lena.bmp with NRZU a=0.2 n=4
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.2 n=8
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.4 n=0
+BER:0.4899139069865194
+Testing lena.bmp with NRZU a=0.4 n=1
+BER:0.0
+Testing lena.bmp with NRZU a=0.4 n=2
+BER:0.0
+Testing lena.bmp with NRZU a=0.4 n=4
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.4 n=8
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.6 n=0
+BER:0.0
+Testing lena.bmp with NRZU a=0.6 n=1
+BER:0.0
+Testing lena.bmp with NRZU a=0.6 n=2
+BER:0.0
+Testing lena.bmp with NRZU a=0.6 n=4
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.6 n=8
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.8 n=0
+BER:0.0
+Testing lena.bmp with NRZU a=0.8 n=1
+BER:0.0
+Testing lena.bmp with NRZU a=0.8 n=2
+BER:0.0
+Testing lena.bmp with NRZU a=0.8 n=4
+BER:0.5100860930134806
+Testing lena.bmp with NRZU a=0.8 n=8
+BER:0.5100860930134806
+Reading ../../../docs/CD_TestFiles\Person.java file...
+Testing Person.java with PSK a=1 n_scale=0
+BER:0.0
+Testing Person.java with PSK a=1 n_scale=0.5
+BER:0.0
+Testing Person.java with PSK a=1 n_scale=1
+BER:0.0
+Testing Person.java with PSK a=1 n_scale=2
+BER:0.012465585806056898
+Testing Person.java with PSK a=1 n_scale=4
+BER:0.13157693484245947
+Testing Person.java with PSK a=1 n_scale=8
+BER:0.29192795962067913
+Testing Person.java with PSK a=1 n_scale=16
+BER:0.38998929336188437
+Testing Person.java with PSK a=0.2 n=0
+BER:0.0
+Testing Person.java with PSK a=0.2 n=1
+BER:0.0
+Testing Person.java with PSK a=0.2 n=2
+BER:0.0
+Testing Person.java with PSK a=0.2 n=4
+BER:0.0
+Testing Person.java with PSK a=0.2 n=8
+BER:0.0
+Testing Person.java with PSK a=0.4 n=0
+BER:0.0
+Testing Person.java with PSK a=0.4 n=1
+BER:0.0
+Testing Person.java with PSK a=0.4 n=2
+BER:0.0
+Testing Person.java with PSK a=0.4 n=4
+BER:0.0
+Testing Person.java with PSK a=0.4 n=8
+BER:0.0
+Testing Person.java with PSK a=0.6 n=0
+BER:0.0
+Testing Person.java with PSK a=0.6 n=1
+BER:0.0
+Testing Person.java with PSK a=0.6 n=2
+BER:0.0
+Testing Person.java with PSK a=0.6 n=4
+BER:0.0
+Testing Person.java with PSK a=0.6 n=8
+BER:0.0
+Testing Person.java with PSK a=0.8 n=0
+BER:0.0
+Testing Person.java with PSK a=0.8 n=1
+BER:0.0
+Testing Person.java with PSK a=0.8 n=2
+BER:0.0
+Testing Person.java with PSK a=0.8 n=4
+BER:0.0
+Testing Person.java with PSK a=0.8 n=8
+BER:0.0
+Testing Person.java with NRZU a=1 n_scale=0
+BER:0.0
+Testing Person.java with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing Person.java with NRZU a=1 n_scale=1
+BER:0.0
+Testing Person.java with NRZU a=1 n_scale=2
+BER:9.559498317528296e-05
+Testing Person.java with NRZU a=1 n_scale=4
+BER:0.023325175894769044
+Testing Person.java with NRZU a=1 n_scale=8
+BER:0.16178494952584888
+Testing Person.java with NRZU a=1 n_scale=16
+BER:0.3097277454879168
+Testing Person.java with NRZU a=0.2 n=0
+BER:0.3976177730192719
+Testing Person.java with NRZU a=0.2 n=1
+BER:0.3976177730192719
+Testing Person.java with NRZU a=0.2 n=2
+BER:0.0
+Testing Person.java with NRZU a=0.2 n=4
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.2 n=8
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.4 n=0
+BER:0.3976177730192719
+Testing Person.java with NRZU a=0.4 n=1
+BER:0.0
+Testing Person.java with NRZU a=0.4 n=2
+BER:0.0
+Testing Person.java with NRZU a=0.4 n=4
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.4 n=8
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.6 n=0
+BER:0.0
+Testing Person.java with NRZU a=0.6 n=1
+BER:0.0
+Testing Person.java with NRZU a=0.6 n=2
+BER:0.0
+Testing Person.java with NRZU a=0.6 n=4
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.6 n=8
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.8 n=0
+BER:0.0
+Testing Person.java with NRZU a=0.8 n=1
+BER:0.0
+Testing Person.java with NRZU a=0.8 n=2
+BER:0.0
+Testing Person.java with NRZU a=0.8 n=4
+BER:0.6023822269807281
+Testing Person.java with NRZU a=0.8 n=8
+BER:0.6023822269807281
+Reading ../../../docs/CD_TestFiles\progc.c file...
+Testing progc.c with PSK a=1 n_scale=0
+BER:0.0
+Testing progc.c with PSK a=1 n_scale=0.5
+BER:0.0
+Testing progc.c with PSK a=1 n_scale=1
+BER:9.466828233868525e-06
+Testing progc.c with PSK a=1 n_scale=2
+BER:0.012600348379279007
+Testing progc.c with PSK a=1 n_scale=4
+BER:0.13172144804604666
+Testing progc.c with PSK a=1 n_scale=8
+BER:0.28892759769766735
+Testing progc.c with PSK a=1 n_scale=16
+BER:0.3891402857719883
+Testing progc.c with PSK a=0.2 n=0
+BER:0.0
+Testing progc.c with PSK a=0.2 n=1
+BER:0.0
+Testing progc.c with PSK a=0.2 n=2
+BER:0.0
+Testing progc.c with PSK a=0.2 n=4
+BER:0.0
+Testing progc.c with PSK a=0.2 n=8
+BER:0.0
+Testing progc.c with PSK a=0.4 n=0
+BER:0.0
+Testing progc.c with PSK a=0.4 n=1
+BER:0.0
+Testing progc.c with PSK a=0.4 n=2
+BER:0.0
+Testing progc.c with PSK a=0.4 n=4
+BER:0.0
+Testing progc.c with PSK a=0.4 n=8
+BER:0.0
+Testing progc.c with PSK a=0.6 n=0
+BER:0.0
+Testing progc.c with PSK a=0.6 n=1
+BER:0.0
+Testing progc.c with PSK a=0.6 n=2
+BER:0.0
+Testing progc.c with PSK a=0.6 n=4
+BER:0.0
+Testing progc.c with PSK a=0.6 n=8
+BER:0.0
+Testing progc.c with PSK a=0.8 n=0
+BER:0.0
+Testing progc.c with PSK a=0.8 n=1
+BER:0.0
+Testing progc.c with PSK a=0.8 n=2
+BER:0.0
+Testing progc.c with PSK a=0.8 n=4
+BER:0.0
+Testing progc.c with PSK a=0.8 n=8
+BER:0.0
+Testing progc.c with NRZU a=1 n_scale=0
+BER:0.0
+Testing progc.c with NRZU a=1 n_scale=0.5
+BER:0.0
+Testing progc.c with NRZU a=1 n_scale=1
+BER:0.0
+Testing progc.c with NRZU a=1 n_scale=2
+BER:2.2089265879026557e-05
+Testing progc.c with NRZU a=1 n_scale=4
+BER:0.024541174391598506
+Testing progc.c with NRZU a=1 n_scale=8
+BER:0.1607372765828537
+Testing progc.c with NRZU a=1 n_scale=16
+BER:0.311083131374331
+Testing progc.c with NRZU a=0.2 n=0
+BER:0.4234985610421085
+Testing progc.c with NRZU a=0.2 n=1
+BER:0.4234985610421085
+Testing progc.c with NRZU a=0.2 n=2
+BER:0.0
+Testing progc.c with NRZU a=0.2 n=4
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.2 n=8
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.4 n=0
+BER:0.4234985610421085
+Testing progc.c with NRZU a=0.4 n=1
+BER:0.0
+Testing progc.c with NRZU a=0.4 n=2
+BER:0.0
+Testing progc.c with NRZU a=0.4 n=4
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.4 n=8
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.6 n=0
+BER:0.0
+Testing progc.c with NRZU a=0.6 n=1
+BER:0.0
+Testing progc.c with NRZU a=0.6 n=2
+BER:0.0
+Testing progc.c with NRZU a=0.6 n=4
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.6 n=8
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.8 n=0
+BER:0.0
+Testing progc.c with NRZU a=0.8 n=1
+BER:0.0
+Testing progc.c with NRZU a=0.8 n=2
+BER:0.0
+Testing progc.c with NRZU a=0.8 n=4
+BER:0.5765014389578915
+Testing progc.c with NRZU a=0.8 n=8
+BER:0.5765014389578915

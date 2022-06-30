@@ -11,6 +11,8 @@ if __name__ == '__main__':
 
     # Plotting
     plt.title("Modulated PSK signal")
+    plt.xlabel("Sample per 10^-1 ms")
+    plt.ylabel("Amplitude")
     plt.plot(modulated_signal)
     plt.show()
 

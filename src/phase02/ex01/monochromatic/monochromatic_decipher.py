@@ -3,7 +3,6 @@ from matplotlib import image
 from src.phase02.ex01.monochromatic.monochromatic_cipher import monochromatic_cipher, mono_cipher
 
 
-# TODO FIX 32 BIT-COLOR -> SHOULD BE 8 BIT-COLOR
 def monochromatic_decipher(input_file, output_file, rect, key):
     """
     Deciphers an image using a monochromatic cipher.

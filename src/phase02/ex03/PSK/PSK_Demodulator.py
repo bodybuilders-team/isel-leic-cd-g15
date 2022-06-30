@@ -46,20 +46,28 @@ def PSK_Bit_Demodulator(accum_samples, tb, amplitude, frequency, num_samples_per
     """
 
     accum_sum = 0
-    # plt.plot(accum_samples)
-    # plt.show()
-    # plt.figure().clear()
-    # plt.close()
-    # plt.cla()
-    # plt.clf()
 
+    # product_signal = []
     # Accumulates the sum of the product of the input signal and
     # the reference bit 1 signal.
     for sample_i in range(num_samples_per_bit):
         x = (tb / num_samples_per_bit) * sample_i
         val = -amplitude * math.cos(2 * math.pi * frequency * x)
 
-        accum_sum += val * accum_samples[sample_i]
+        product_signal_sample = val * accum_samples[sample_i]
+        # product_signal.append(product_signal_sample)
+        accum_sum += product_signal_sample
+
+    # plt.plot(product_signal)
+    # plt.title("Single bit signal after product with reference signal")
+    # plt.xlabel("Sample per 10^-1 ms")
+    # plt.ylabel("Amplitude")
+    # plt.gca().set_ylim([-4, 4])
+    # plt.show()
+    # plt.figure().clear()
+    # plt.close()
+    # plt.cla()
+    # plt.clf()
 
     # If the average of the product of the input signal
     # and the reference bit 1 signal is > 0, then it's a bit 1
@@ -86,4 +94,5 @@ if __name__ == '__main__':
     print("input_bits:   " + str(input_bits))
     print("decoded_bits: " + str(demodulated_bits))
     import sys
+
     sys.exit(0)

@@ -27,17 +27,20 @@ def calculate_ber(file_bits, decoded_bits):
 
 
 def process_test(x, a, n, file_bits, file_path, decoder, n_type, test_name):
-    # TODO: Comment
+    """
+        Processes a single test on a file
+    """
 
     head, tail = os.path.split(file_path)
     print("Testing " + str(tail) + " with " + test_name + " a=" + str(a) + " " + n_type)
-    y = a * x + n
+    y = [a * x[i] + n[i] for i in range(len(x))]
 
     decoded_bits = decoder(y)
-    BER = calculate_ber(file_bits, decoded_bits)
-    print("BER:" + str(BER))
+
+    ber = calculate_ber(file_bits, decoded_bits)
+    print("BER:" + str(ber))
     decoded_bytes = bits_to_bytes(decoded_bits)
-    decoded_files_path = "../decoded_files/"
+    decoded_files_path = "decoded_files/"
 
     if not os.path.exists(decoded_files_path):
         os.mkdir(decoded_files_path)
@@ -45,10 +48,13 @@ def process_test(x, a, n, file_bits, file_path, decoder, n_type, test_name):
     with open(decoded_files_path + test_name + "_a=" + str(a) + "_" + n_type + "_" + tail,
               "wb") as f:
         f.write(bytes(decoded_bytes))
+    sys.stdout.flush()
 
 
 def test_file(file_bits, file_path, coder, decoder, test_name):
-    # TODO: Comment
+    """
+    Tests an entire file
+    """
 
     x = coder(file_bits)
     n_mean = 0
@@ -59,13 +65,18 @@ def test_file(file_bits, file_path, coder, decoder, test_name):
         process_test(x, 1, n, file_bits, file_path, decoder, "n_scale=" + str(n_scale), test_name)
         sys.stdout.flush()
 
-    # n_vals = [0, 1, 2, 4, 8]
-    # for n in n_vals:
-    #     process_test(x, -1, [n for _ in range(len(x))], file_bits, file_path, coder, decoder, "n=" + str(n), test_name)
+    n_vals = [0, 1, 2, 4, 8]
+    a_vals = [0.2, 0.4, 0.6, 0.8]
+    for a in a_vals:
+        for n in n_vals:
+            process_test(x, a, [n for _ in range(len(x))], file_bits, file_path, decoder, "n=" + str(n),
+                         test_name)
 
 
 def process_file(file_path):
-    # TODO: Comment
+    """
+    Processes PSK and NRZU tests on a file
+    """
 
     with open(file_path, "rb") as f:
         print("Reading " + file_path + " file...")

@@ -28,7 +28,6 @@ def NRZU_Decoder(data, amplitude=5, num_samples_per_bit=10):
 def NRZU_Bit_Decoder(accum_samples, amplitude):
     """
     Decodes a single bit of NRZU encoded data.
-    Equivalent to a correlation receiver.
 
     :param accum_samples: the accumulated samples
     :param amplitude: the amplitude of the signal

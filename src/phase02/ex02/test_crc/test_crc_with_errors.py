@@ -1,26 +1,7 @@
-import random
-
-from src.phase02.ex02.crc_file_check import crc_file_check
-from src.phase02.ex02.crc_file_compute import crc_file_compute
+from src.phase02.ex02.crc.crc_file_check import crc_file_check
+from src.phase02.ex02.crc.crc_file_compute import crc_file_compute
 from src.phase02.utils import *
 import sys
-
-
-def add_file_errors(input_file_path, output_file_path, error_prob):
-    with open(input_file_path, 'rb') as f:
-        file_bits = read_file_bits(f)
-
-    with open(output_file_path, 'wb') as f:
-        os.path.getsize(input_file_path)
-        file_bit_size = len(file_bits)  # almost max integer size, for the 150 kb file...
-        num_bit_errors = int(file_bit_size * error_prob)
-
-        bit_error_idxs = random.sample(range(0, file_bit_size - 1), num_bit_errors)
-        for bit_error_idx in bit_error_idxs:
-            file_bits[bit_error_idx] = 1 if file_bits[bit_error_idx] == 0 else 0
-
-        output_bytes = bits_to_bytes(file_bits)
-        f.write(bytes(output_bytes))
 
 
 def process_file(file_path):
@@ -55,6 +36,7 @@ def process_file(file_path):
 # Compute the CRC of test files
 if __name__ == "__main__":
     sys.stdout = open('test_crc_with_errors.log', 'w')
-    iterate_files("../../../docs/CD_TestFiles", process_file)
+    iterate_files("../../../../docs/CD_TestFiles", process_file)
+    sys.stdout.flush()
 
     sys.exit(0)
